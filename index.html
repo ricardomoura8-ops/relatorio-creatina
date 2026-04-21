@@ -77,7 +77,7 @@ svg.chart { width:100%; height:260px; display:block; }
     <div class="brandrow">
       <div class="brand">SellersFlow</div>
       <div class="subtitle">Monitor · Creatina Brasil</div>
-      <div class="subtitle">Atualizado em 21/04/2026 às 12:11</div>
+      <div class="subtitle">Atualizado em 21/04/2026 às 12:13</div>
       <span id="mp-sync-indicator" style="font-size:11px;font-family:monospace;color:#7a9db8;margin-left:12px"></span>
       <div style="margin-left:auto; display:flex; gap:10px; flex-wrap:wrap;">
         <select id="globalDateFilter" class="input" style="width:170px; padding:8px 10px;"></select>
@@ -377,7 +377,7 @@ function renderOverview() {
   document.getElementById('kpiDownMeta').textContent = down ? `${down.brand} · ${down.size}` : '—';
 
   document.getElementById('tbDown').innerHTML = rows.filter(r=>r.var_pct!==null).sort((a,b)=>a.var_pct-b.var_pct).slice(0,8).map(r => `
-    <tr><td><a class="link" href="${esc(r.url)}" target="_blank">${esc(r.brand)} · ${esc(r.size)}</a></td><td>${esc(r.channel)}</td><td><span class="badge green">${pct(r.var_pct)}</span></td></tr>
+    <tr><td><a class="link" href="${esc(r.url)}" target="_blank">${esc(r.brand)} · ${esc(r.size)} · ${esc(r.type)}</a></td><td>${esc(r.channel)}</td><td><span class="badge green">${pct(r.var_pct)}</span></td></tr>
   `).join('') || `<tr><td colspan="3" class="small">Sem dados.</td></tr>`;
 
   document.getElementById('tbUp').innerHTML = rows.filter(r=>r.var_pct!==null).sort((a,b)=>b.var_pct-a.var_pct).slice(0,8).map(r => `
