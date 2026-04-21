@@ -77,7 +77,7 @@ svg.chart { width:100%; height:260px; display:block; }
     <div class="brandrow">
       <div class="brand">SellersFlow</div>
       <div class="subtitle">Monitor · Creatina Brasil</div>
-      <div class="subtitle">Atualizado em 21/04/2026 às 11:45</div>
+      <div class="subtitle">Atualizado em 21/04/2026 às 11:47</div>
       <span id="mp-sync-indicator" style="font-size:11px;font-family:monospace;color:#7a9db8;margin-left:12px"></span>
       <div style="margin-left:auto; display:flex; gap:10px; flex-wrap:wrap;">
         <select id="globalDateFilter" class="input" style="width:170px; padding:8px 10px;"></select>
@@ -90,6 +90,7 @@ svg.chart { width:100%; height:260px; display:block; }
           <option value="Darkness">Darkness</option>
           <option value="Guday">Guday</option>
         </select>
+        <button onclick="mpShowConfigModal()" title="Configurar preços compartilhados" style="padding:6px 10px;background:none;border:1px solid #dde8f4;border-radius:8px;cursor:pointer;font-size:13px;color:#5a7a9a" >⚙️</button>
         <button id="btnDownloadMacro" class="input" style="width:auto; padding:8px 14px;">Baixar relatório macro</button>
         <button id="btnDownloadCliente" class="input" style="width:auto; padding:8px 14px;">Baixar relatório cliente</button>
       </div>
@@ -522,105 +523,91 @@ function renderIntraday() {
 // ═══════════════════════════════════════════════════════════════
 
 
+
 // ═══════════════════════════════════════════════════════════════
-// PREÇOS COMPARTILHADOS — armazenados no GitHub (prices.json)
-// Leitura: raw.githubusercontent.com (público, sem auth)
-// Escrita: GitHub API (token interno — uso restrito ao time)
+// PREÇOS COMPARTILHADOS — JSONBin.io
+// Leitura/escrita compartilhada entre todos os usuários do time
 // ═══════════════════════════════════════════════════════════════
 
-const GH_USER   = 'ricardomoura8-ops';
-const GH_REPO   = 'relatorio-creatina';
-const GH_TOKEN  = atob('Z2hwX0pDbmpMblFacG1Qa280NEV3S2tQM1hNaU9HQXhlbTRZQlJ6VA==');
-const GH_FILE   = 'prices.json';
-const RAW_URL   = `https://raw.githubusercontent.com/${GH_USER}/${GH_REPO}/main/${GH_FILE}`;
-const API_URL   = `https://api.github.com/repos/${GH_USER}/${GH_REPO}/contents/${GH_FILE}`;
+// Config — preenchida uma vez na primeira abertura
+const JBIN_ID_KEY  = 'sf_jbin_id';
+const JBIN_KEY_KEY = 'sf_jbin_key';
 
-// Cache local (evita re-fetch a cada render)
-let _pricesCache = null;
-let _pricesSHA   = null;
+function jbinGetConfig() {
+  return {
+    id:  localStorage.getItem(JBIN_ID_KEY)  || '',
+    key: localStorage.getItem(JBIN_KEY_KEY) || '',
+  };
+}
+
+// Cache local
+let _pricesCache  = null;
 let _pricesLoaded = false;
+
+function mpSetIndicator(txt, color) {
+  const el = document.getElementById('mp-sync-indicator');
+  if (el) { el.textContent = txt; el.style.color = color || '#7a9db8'; }
+}
 
 // ── Leitura ──────────────────────────────────────────────────
 async function mpLoadPrices() {
-  try {
-    const res = await fetch(RAW_URL + '?t=' + Date.now());
-    if (!res.ok) { _pricesCache = {}; _pricesLoaded = true; return; }
-    _pricesCache  = await res.json();
-    _pricesLoaded = true;
-  } catch(e) {
+  const { id, key } = jbinGetConfig();
+  if (!id || !key) {
+    // Sem config — usa só localStorage
     _pricesCache  = {};
     _pricesLoaded = true;
+    return;
   }
-}
-
-async function mpGetSHA() {
   try {
-    const res = await fetch(API_URL, {
-      headers: {
-        'Authorization': `token ${GH_TOKEN}`,
-        'Accept': 'application/vnd.github.v3+json',
-      }
+    const res = await fetch(`https://api.jsonbin.io/v3/b/${id}/latest`, {
+      headers: { 'X-Master-Key': key, 'X-Bin-Meta': 'false' }
     });
-    if (!res.ok) return null;
-    const data = await res.json();
-    return data.sha || null;
-  } catch(e) { return null; }
+    if (res.ok) {
+      _pricesCache  = await res.json();
+      _pricesLoaded = true;
+    } else {
+      _pricesCache = {}; _pricesLoaded = true;
+    }
+  } catch(e) {
+    _pricesCache = {}; _pricesLoaded = true;
+  }
 }
 
 // ── Escrita ──────────────────────────────────────────────────
 async function mpSavePrices(prices) {
+  const { id, key } = jbinGetConfig();
+  if (!id || !key) return true; // sem config, só salva local
   try {
-    const sha = _pricesSHA || await mpGetSHA();
-    const content = btoa(unescape(encodeURIComponent(JSON.stringify(prices, null, 2))));
-    const body = {
-      message: 'Preços atualizados via Monitor',
-      content,
-      ...(sha ? { sha } : {}),
-    };
-    const res = await fetch(API_URL, {
+    const res = await fetch(`https://api.jsonbin.io/v3/b/${id}`, {
       method: 'PUT',
       headers: {
-        'Authorization': `token ${GH_TOKEN}`,
-        'Accept': 'application/vnd.github.v3+json',
         'Content-Type': 'application/json',
+        'X-Master-Key': key,
       },
-      body: JSON.stringify(body),
+      body: JSON.stringify(prices),
     });
-    if (res.ok) {
-      const data = await res.json();
-      _pricesSHA   = data.content?.sha || sha;
-      _pricesCache = prices;
-    }
     return res.ok;
   } catch(e) { return false; }
 }
 
-// ── API pública (substitui localStorage) ────────────────────
-function mpKey(url) { return url; }
-
+// ── API pública ───────────────────────────────────────────────
 function mpGet(url) {
-  if (!_pricesCache) return parseFloat(localStorage.getItem('mp_' + url)) || null;
-  return _pricesCache[url] ? parseFloat(_pricesCache[url]) : null;
+  const cached = _pricesCache ? _pricesCache[url] : null;
+  if (cached) return parseFloat(cached);
+  return parseFloat(localStorage.getItem('mp_' + url)) || null;
 }
 
 function mpSet(url, v) {
-  // Atualiza cache local imediatamente
   if (!_pricesCache) _pricesCache = {};
-  if (v) _pricesCache[url] = v;
-  else   delete _pricesCache[url];
-  // Salva no localStorage como fallback offline
+  if (v) _pricesCache[url] = v; else delete _pricesCache[url];
   try {
     if (v) localStorage.setItem('mp_' + url, v);
     else   localStorage.removeItem('mp_' + url);
   } catch(e) {}
-  // Persiste no GitHub de forma assíncrona
+  mpSetIndicator('↻ Salvando...', '#7a9db8');
   mpSavePrices({..._pricesCache}).then(ok => {
-    const ind = document.getElementById('mp-sync-indicator');
-    if (ind) {
-      ind.textContent = ok ? '✓ Salvo' : '⚠ Offline';
-      ind.style.color = ok ? '#16a34a' : '#dc2626';
-      setTimeout(() => { if(ind) ind.textContent = ''; }, 3000);
-    }
+    mpSetIndicator(ok ? '✓ Salvo' : '⚠ Offline', ok ? '#16a34a' : '#dc2626');
+    setTimeout(() => mpSetIndicator(''), 3000);
   });
 }
 
@@ -629,34 +616,59 @@ function mpAll() { return _pricesCache || {}; }
 function mpClearBrand(brand) {
   const BRAND_MAP = {'Dux':'DUX Nutrition','Integralmedica':'Integralmedica','Equaliv':'Equaliv','Nutrify':'Nutrify','Darkness':'Darkness','Guday':'Guday'};
   const resolved  = BRAND_MAP[brand] || brand;
-  const prods = PRODUCTS.filter(r => r.brand === resolved);
-  prods.forEach(r => {
+  PRODUCTS.filter(r => r.brand === resolved).forEach(r => {
     if (_pricesCache) delete _pricesCache[r.url];
     try { localStorage.removeItem('mp_' + r.url); } catch(e) {}
   });
   mpSavePrices({..._pricesCache});
 }
 
-// ── Indicador de sync no header ──────────────────────────────
-function mpInitIndicator() {
-  const subtitle = document.querySelector('.subtitle:last-of-type');
-  if (!subtitle) return;
-  const ind = document.createElement('span');
-  ind.id = 'mp-sync-indicator';
-  ind.style.cssText = 'margin-left:12px;font-size:11px;font-family:monospace;transition:color .3s';
-  subtitle.parentNode.insertBefore(ind, subtitle.nextSibling);
+// ── Configuração inicial ───────────────────────────────────────
+function mpShowConfigModal() {
+  const { id, key } = jbinGetConfig();
+  const overlay = document.createElement('div');
+  overlay.id = 'mp-config-overlay';
+  overlay.style.cssText = 'position:fixed;inset:0;background:rgba(11,25,41,.7);z-index:9999;display:flex;align-items:center;justify-content:center';
+  overlay.innerHTML = `
+    <div style="background:#fff;border-radius:14px;padding:28px 32px;max-width:440px;width:90%;box-shadow:0 8px 40px rgba(0,0,0,.25)">
+      <div style="font-size:18px;font-weight:800;color:#0b1929;margin-bottom:6px">⚙️ Config — Preços Compartilhados</div>
+      <div style="font-size:12px;color:#5a7a9a;margin-bottom:20px;line-height:1.6">
+        Para compartilhar preços entre o time, configure o JSONBin.<br>
+        <a href="https://jsonbin.io" target="_blank" style="color:#0A84FF">Criar conta gratuita em jsonbin.io</a> → New Bin → copie o Bin ID e a Master Key.
+      </div>
+      <div style="margin-bottom:12px">
+        <label style="font-size:11px;font-weight:600;color:#0b1929;display:block;margin-bottom:4px">Bin ID</label>
+        <input id="jbin-id-input" value="${id}" placeholder="ex: 6749abc123..." style="width:100%;padding:8px 10px;border:1px solid #dde8f4;border-radius:8px;font-family:monospace;font-size:13px;outline:none">
+      </div>
+      <div style="margin-bottom:20px">
+        <label style="font-size:11px;font-weight:600;color:#0b1929;display:block;margin-bottom:4px">Master Key</label>
+        <input id="jbin-key-input" type="password" value="${key}" placeholder="$2a$10$..." style="width:100%;padding:8px 10px;border:1px solid #dde8f4;border-radius:8px;font-family:monospace;font-size:13px;outline:none">
+      </div>
+      <div style="display:flex;gap:10px;justify-content:flex-end">
+        <button onclick="document.getElementById('mp-config-overlay').remove()" style="padding:8px 18px;border:1px solid #dde8f4;border-radius:8px;background:#fff;cursor:pointer;font-size:13px">Cancelar</button>
+        <button onclick="mpSaveConfig()" style="padding:8px 18px;background:linear-gradient(135deg,#0A84FF,#38A5FF);color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:13px;font-weight:700">Salvar e conectar</button>
+      </div>
+    </div>`;
+  document.body.appendChild(overlay);
 }
 
-// ── Inicialização: carrega preços ao abrir o painel ──────────
-async function mpInit() {
-  mpInitIndicator();
-  const ind = document.getElementById('mp-sync-indicator');
-  if (ind) { ind.textContent = '↻ Carregando preços...'; ind.style.color = '#7a9db8'; }
+async function mpSaveConfig() {
+  const id  = document.getElementById('jbin-id-input')?.value.trim();
+  const key = document.getElementById('jbin-key-input')?.value.trim();
+  if (!id || !key) return;
+  localStorage.setItem(JBIN_ID_KEY,  id);
+  localStorage.setItem(JBIN_KEY_KEY, key);
+  document.getElementById('mp-config-overlay')?.remove();
+  mpSetIndicator('↻ Conectando...', '#7a9db8');
   await mpLoadPrices();
-  // Pega SHA para writes futuros
-  mpGetSHA().then(sha => { if (sha) _pricesSHA = sha; });
-  if (ind) { ind.textContent = ''; }
-  // Re-render insights se já estiver na aba
+  mpSetIndicator('✓ Conectado', '#16a34a');
+  setTimeout(() => mpSetIndicator(''), 3000);
+  renderInsights();
+}
+
+// ── Inicialização ─────────────────────────────────────────────
+async function mpInit() {
+  await mpLoadPrices();
   if (document.getElementById('pane-insights')?.classList.contains('active')) {
     renderInsights();
   }
