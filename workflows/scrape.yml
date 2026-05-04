@@ -1,9 +1,9 @@
-name: Price Scraper
+name: Coletar preços
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'   # toda hora
-  workflow_dispatch:        # rodar manual pelo GitHub
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -11,24 +11,28 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Setup Python
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests beautifulsoup4 lxml
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
 
-      - name: Run scraper
+      - name: Rodar scraper
         run: python scraper/scraper.py
 
-      - name: Commit data
+      - name: Salvar dados atualizados
         run: |
-          git config user.name  "price-bot"
-          git config user.email "bot@sellersflow.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add data/prices.json
-          git diff --staged --quiet || git commit -m "data: update prices $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "Atualiza preços coletados" || echo "Sem alterações para salvar"
           git push
