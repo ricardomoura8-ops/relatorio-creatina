@@ -16,7 +16,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:15.159610+00:00"
+      "timestamp": "2026-05-05T16:59:05.750551+00:00"
     },
     "B07LCTTF8V_ama": {
       "id": "B07LCTTF8V_ama",
@@ -34,7 +34,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:17.608843+00:00"
+      "timestamp": "2026-05-05T16:59:07.690015+00:00"
     },
     "B0BZ14J63F_ama": {
       "id": "B0BZ14J63F_ama",
@@ -52,7 +52,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:20.206291+00:00"
+      "timestamp": "2026-05-05T16:59:10.818380+00:00"
     },
     "B0BHL6FKYY_ama": {
       "id": "B0BHL6FKYY_ama",
@@ -64,13 +64,13 @@
       "size": "300g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 55.2,
-      "buybox_seller": "Treasure Finds IA BR",
-      "buybox_price": 55.2,
+      "price": 54.09,
+      "buybox_seller": null,
+      "buybox_price": 54.09,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:23.099765+00:00"
+      "timestamp": "2026-05-05T16:59:16.162664+00:00"
     },
     "B07L5WFHXW?th=1_ama": {
       "id": "B07L5WFHXW?th=1_ama",
@@ -88,7 +88,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:25.068401+00:00"
+      "timestamp": "2026-05-05T16:59:18.354374+00:00"
     },
     "ref=sr_1_5?dib=eyJ2IjoiMSJ9.IEM2MMbhmQjR_ama": {
       "id": "ref=sr_1_5?dib=eyJ2IjoiMSJ9.IEM2MMbhmQjR_ama",
@@ -106,7 +106,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:27.166804+00:00"
+      "timestamp": "2026-05-05T16:59:21.003386+00:00"
     },
     "B07NF6ZZR8?th=1_ama": {
       "id": "B07NF6ZZR8?th=1_ama",
@@ -124,7 +124,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:29.453197+00:00"
+      "timestamp": "2026-05-05T16:59:23.349028+00:00"
     },
     "ref=sr_1_2_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": {
       "id": "ref=sr_1_2_sspa?__mk_pt_BR=%C3%85M%C3%85_ama",
@@ -142,7 +142,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:02.925865+00:00"
+      "timestamp": "2026-05-05T17:08:49.860792+00:00"
     },
     "135-8141036-6002728?pd_rd_w=1oHmf&conten_ama": {
       "id": "135-8141036-6002728?pd_rd_w=1oHmf&conten_ama",
@@ -160,7 +160,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:37.175763+00:00"
+      "timestamp": "2026-05-05T16:59:29.992595+00:00"
     },
     "MLB25929487?pdp_filters=item_id:MLB48121_mer": {
       "id": "MLB25929487?pdp_filters=item_id:MLB48121_mer",
@@ -178,7 +178,7 @@
       "original_price": 159.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:39.877922+00:00"
+      "timestamp": "2026-05-05T16:59:33.072695+00:00"
     },
     "MLB19506693?product_trigger_id=MLB259294_mer": {
       "id": "MLB19506693?product_trigger_id=MLB259294_mer",
@@ -196,7 +196,7 @@
       "original_price": 59.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:42.156272+00:00"
+      "timestamp": "2026-05-05T16:59:36.283227+00:00"
     },
     "MLB19506691?product_trigger_id=MLB195066_mer": {
       "id": "MLB19506691?product_trigger_id=MLB195066_mer",
@@ -214,7 +214,7 @@
       "original_price": 78.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:44.474911+00:00"
+      "timestamp": "2026-05-05T16:59:39.050863+00:00"
     },
     "MLB26796581?product_trigger_id=MLB195066_mer": {
       "id": "MLB26796581?product_trigger_id=MLB195066_mer",
@@ -232,7 +232,7 @@
       "original_price": 129.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:48.008434+00:00"
+      "timestamp": "2026-05-05T16:59:42.256036+00:00"
     },
     "MLB39089853?product_trigger_id=MLB267965_mer": {
       "id": "MLB39089853?product_trigger_id=MLB267965_mer",
@@ -250,7 +250,7 @@
       "original_price": 139.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:35:50.795561+00:00"
+      "timestamp": "2026-05-05T16:59:44.635100+00:00"
     },
     "?seller_id=trevizosuplementos_mag": {
       "id": "?seller_id=trevizosuplementos_mag",
@@ -268,7 +268,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:48:43.491633+00:00"
+      "timestamp": "2026-05-05T17:12:30.852600+00:00"
     },
     "creatina-refil-500g-monohidratada-dark-l_sit": {
       "id": "creatina-refil-500g-monohidratada-dark-l_sit",
@@ -286,7 +286,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:01.854970+00:00"
+      "timestamp": "2026-05-05T16:59:54.443893+00:00"
     },
     "creatina-300g-monohidratada-dark-lab_sit": {
       "id": "creatina-300g-monohidratada-dark-lab_sit",
@@ -304,7 +304,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:04.434911+00:00"
+      "timestamp": "2026-05-05T16:59:56.535088+00:00"
     },
     "creatina-refil-1kg-monohidratada-dark-la_sit": {
       "id": "creatina-refil-1kg-monohidratada-dark-la_sit",
@@ -322,7 +322,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:07.147536+00:00"
+      "timestamp": "2026-05-05T16:59:59.618041+00:00"
     },
     "creatina-refil-600g-monohidratada-dark-l_sit": {
       "id": "creatina-refil-600g-monohidratada-dark-l_sit",
@@ -340,7 +340,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:09.212376+00:00"
+      "timestamp": "2026-05-05T17:00:02.379054+00:00"
     },
     "creatina-150g-monohidratada-100-pura-dar_sit": {
       "id": "creatina-150g-monohidratada-100-pura-dar_sit",
@@ -358,7 +358,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:11.517483+00:00"
+      "timestamp": "2026-05-05T17:00:04.977787+00:00"
     },
     "ref=ast_sto_dp_puis?th=1_ama": {
       "id": "ref=ast_sto_dp_puis?th=1_ama",
@@ -376,7 +376,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:30.363582+00:00"
+      "timestamp": "2026-05-05T17:12:15.815664+00:00"
     },
     "MLB45571800?pdp_filters=item_id%3AMLB395_mer": {
       "id": "MLB45571800?pdp_filters=item_id%3AMLB395_mer",
@@ -394,7 +394,7 @@
       "original_price": 124.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:22.038106+00:00"
+      "timestamp": "2026-05-05T17:00:13.178273+00:00"
     },
     "MLB22384316?pdp_filters=item_id%3AMLB460_mer": {
       "id": "MLB22384316?pdp_filters=item_id%3AMLB460_mer",
@@ -412,7 +412,7 @@
       "original_price": 104.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:24.842294+00:00"
+      "timestamp": "2026-05-05T17:00:16.871258+00:00"
     },
     "ref=sr_1_4_sspa?crid=3II34NPG1HI54&dib=e_ama": {
       "id": "ref=sr_1_4_sspa?crid=3II34NPG1HI54&dib=e_ama",
@@ -430,7 +430,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "FETCH_FAILED",
-      "timestamp": "2026-05-05T16:36:27.772948+00:00"
+      "timestamp": "2026-05-05T17:00:19.055282+00:00"
     },
     "135-8141036-6002728?pd_rd_w=eaXbT&conten_ama": {
       "id": "135-8141036-6002728?pd_rd_w=eaXbT&conten_ama",
@@ -448,7 +448,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:30.207349+00:00"
+      "timestamp": "2026-05-05T17:00:22.136627+00:00"
     },
     "MLB22463592?pdp_filters=item_id%3AMLB289_mer": {
       "id": "MLB22463592?pdp_filters=item_id%3AMLB289_mer",
@@ -466,7 +466,7 @@
       "original_price": 89.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:33.797227+00:00"
+      "timestamp": "2026-05-05T17:00:25.156416+00:00"
     },
     "MLB38485063?pdp_filters=item_id%3AMLB382_mer": {
       "id": "MLB38485063?pdp_filters=item_id%3AMLB382_mer",
@@ -484,7 +484,7 @@
       "original_price": 97.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:37.092224+00:00"
+      "timestamp": "2026-05-05T17:00:27.621320+00:00"
     },
     "MLB21680149?pdp_filters=official_store%3_mer": {
       "id": "MLB21680149?pdp_filters=official_store%3_mer",
@@ -502,7 +502,7 @@
       "original_price": 77.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:39.440085+00:00"
+      "timestamp": "2026-05-05T17:00:30.403516+00:00"
     },
     "?seller_id=mixemporio_mag": {
       "id": "?seller_id=mixemporio_mag",
@@ -520,7 +520,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:36:41.085857+00:00"
+      "timestamp": "2026-05-05T17:00:32.895259+00:00"
     },
     "?seller_id=soufitnesssas_mag": {
       "id": "?seller_id=soufitnesssas_mag",
@@ -538,13 +538,13 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:36:42.960439+00:00"
+      "timestamp": "2026-05-05T17:00:34.708590+00:00"
     },
     "_sit": {
       "id": "_sit",
       "url": "https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/",
       "label": "Mais Mu Creatina 200g Monohidratada",
-      "title": "Creatina 100% Pura Mais Mu Performance Sabor Melancia - Pote 210g",
+      "title": "Creatina 100% Pura Mais Mu Performance Sabor Tropical- Pote 210g",
       "channel": "site_proprio",
       "group": "Mais Mu",
       "size": "200g",
@@ -556,61 +556,61 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:48.572996+00:00"
+      "timestamp": "2026-05-05T17:00:39.129880+00:00"
     },
     "creatina-monohidratada-300g-68373_sit": {
       "id": "creatina-monohidratada-300g-68373_sit",
       "url": "https://www.3vsnutrition.com.br/produto/creatina-monohidratada-300g-68373",
       "label": "Outros Creatina 300g Monohidratada",
-      "title": "Creatina Monohidratada 300g",
+      "title": "Outros Creatina 300g Monohidratada",
       "channel": "site_proprio",
       "group": "Outros",
       "size": "300g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 74.9,
+      "price": null,
       "buybox_seller": null,
-      "buybox_price": 74.9,
+      "buybox_price": null,
       "original_price": null,
-      "has_error": false,
+      "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:54.056978+00:00"
+      "timestamp": "2026-05-05T17:00:41.550326+00:00"
     },
     "creatina-monohidratada-150g-68090_sit": {
       "id": "creatina-monohidratada-150g-68090_sit",
       "url": "https://www.3vsnutrition.com.br/produto/creatina-monohidratada-150g-68090",
       "label": "Outros Creatina 150g Monohidratada",
-      "title": "Creatina Monohidratada 150g",
+      "title": "Outros Creatina 150g Monohidratada",
       "channel": "site_proprio",
       "group": "Outros",
       "size": "150g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 49.9,
+      "price": null,
       "buybox_seller": null,
-      "buybox_price": 49.9,
+      "buybox_price": null,
       "original_price": null,
-      "has_error": false,
+      "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:56.638220+00:00"
+      "timestamp": "2026-05-05T17:00:43.327423+00:00"
     },
     "creatina-monohidratada-500g-pouch-68446_sit": {
       "id": "creatina-monohidratada-500g-pouch-68446_sit",
       "url": "https://www.3vsnutrition.com.br/produto/creatina-monohidratada-500g-pouch-68446",
       "label": "Outros Creatina 500g Monohidratada",
-      "title": "Creatina Monohidratada 500g - Pouch",
+      "title": "Outros Creatina 500g Monohidratada",
       "channel": "site_proprio",
       "group": "Outros",
       "size": "500g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 129.9,
+      "price": null,
       "buybox_seller": null,
-      "buybox_price": 129.9,
+      "buybox_price": null,
       "original_price": null,
-      "has_error": false,
+      "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:36:58.551775+00:00"
+      "timestamp": "2026-05-05T17:00:45.469077+00:00"
     },
     "ref=sr_1_1_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": {
       "id": "ref=sr_1_1_sspa?__mk_pt_BR=%C3%85M%C3%85_ama",
@@ -628,7 +628,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:44.899658+00:00"
+      "timestamp": "2026-05-05T17:09:32.814426+00:00"
     },
     "B0D71HD612?ref_=ast_sto_dp_ama": {
       "id": "B0D71HD612?ref_=ast_sto_dp_ama",
@@ -646,7 +646,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:03.115846+00:00"
+      "timestamp": "2026-05-05T17:00:49.410672+00:00"
     },
     "B0BVD4PW4Q?ref_=ast_sto_dp_ama": {
       "id": "B0BVD4PW4Q?ref_=ast_sto_dp_ama",
@@ -658,13 +658,13 @@
       "size": "150g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 24.6,
+      "price": 25.9,
       "buybox_seller": "Soldiers Nutrition",
-      "buybox_price": 24.6,
+      "buybox_price": 25.9,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:05.029046+00:00"
+      "timestamp": "2026-05-05T17:00:53.567851+00:00"
     },
     "B0BL579H1Z?ref_=ast_sto_dp_ama": {
       "id": "B0BL579H1Z?ref_=ast_sto_dp_ama",
@@ -682,7 +682,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:07.401755+00:00"
+      "timestamp": "2026-05-05T17:00:55.306437+00:00"
     },
     "MLB32081918?product_trigger_id=MLB187253_mer": {
       "id": "MLB32081918?product_trigger_id=MLB187253_mer",
@@ -700,7 +700,7 @@
       "original_price": 94.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:10.656731+00:00"
+      "timestamp": "2026-05-05T17:00:58.017779+00:00"
     },
     "MLB19539520?product_trigger_id=MLB187253_mer": {
       "id": "MLB19539520?product_trigger_id=MLB187253_mer",
@@ -718,7 +718,7 @@
       "original_price": 44.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:13.348876+00:00"
+      "timestamp": "2026-05-05T17:01:01.292927+00:00"
     },
     "MLB38130100?product_trigger_id=MLB195395_mer": {
       "id": "MLB38130100?product_trigger_id=MLB195395_mer",
@@ -736,7 +736,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "MELI_404",
-      "timestamp": "2026-05-05T16:37:15.982160+00:00"
+      "timestamp": "2026-05-05T17:01:04.472155+00:00"
     },
     "MLB18725308?product_trigger_id=MLB269892_mer": {
       "id": "MLB18725308?product_trigger_id=MLB269892_mer",
@@ -754,7 +754,7 @@
       "original_price": 159.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:18.956363+00:00"
+      "timestamp": "2026-05-05T17:01:08.555655+00:00"
     },
     "MLB26989230?product_trigger_id=MLB187253_mer": {
       "id": "MLB26989230?product_trigger_id=MLB187253_mer",
@@ -772,7 +772,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:22.480302+00:00"
+      "timestamp": "2026-05-05T17:01:12.434871+00:00"
     },
     "MLB18725310?product_trigger_id=MLB269892_mer": {
       "id": "MLB18725310?product_trigger_id=MLB269892_mer",
@@ -790,7 +790,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:25.607245+00:00"
+      "timestamp": "2026-05-05T17:01:15.845893+00:00"
     },
     "?ads=patrocinado&seller_id=soldiersnutri_mag": {
       "id": "?ads=patrocinado&seller_id=soldiersnutri_mag",
@@ -808,7 +808,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:48:45.338114+00:00"
+      "timestamp": "2026-05-05T17:12:33.209412+00:00"
     },
     "?seller_id=soldiersnutrition_mag": {
       "id": "?seller_id=soldiersnutrition_mag",
@@ -826,7 +826,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:37:34.356661+00:00"
+      "timestamp": "2026-05-05T17:01:21.945364+00:00"
     },
     "MLBU3831666034?pdp_filters=official_stor_mer": {
       "id": "MLBU3831666034?pdp_filters=official_stor_mer",
@@ -844,7 +844,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_CATALOG_ID",
-      "timestamp": "2026-05-05T16:37:35.859659+00:00"
+      "timestamp": "2026-05-05T17:01:23.683271+00:00"
     },
     "MLB47820824?pdp_filters=official_store%3_mer": {
       "id": "MLB47820824?pdp_filters=official_store%3_mer",
@@ -862,7 +862,7 @@
       "original_price": 34.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:39.763902+00:00"
+      "timestamp": "2026-05-05T17:01:27.471353+00:00"
     },
     "MLB19603205?pdp_filters=official_store%3_mer": {
       "id": "MLB19603205?pdp_filters=official_store%3_mer",
@@ -880,7 +880,7 @@
       "original_price": 64.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:37:43.328552+00:00"
+      "timestamp": "2026-05-05T17:01:31.154045+00:00"
     },
     "creatina-monohidratada-100-pura-importad_sit": {
       "id": "creatina-monohidratada-100-pura-importad_sit",
@@ -898,7 +898,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:00.503599+00:00"
+      "timestamp": "2026-05-05T17:01:49.144513+00:00"
     },
     "creatina-monohidratada-250gr-growth-supp_sit": {
       "id": "creatina-monohidratada-250gr-growth-supp_sit",
@@ -916,7 +916,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:03.145993+00:00"
+      "timestamp": "2026-05-05T17:01:51.029016+00:00"
     },
     "creatina-monohidratada-100gr-growth-supp_sit": {
       "id": "creatina-monohidratada-100gr-growth-supp_sit",
@@ -934,7 +934,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:05.759922+00:00"
+      "timestamp": "2026-05-05T17:01:53.309070+00:00"
     },
     "ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -952,7 +952,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:25.686298+00:00"
+      "timestamp": "2026-05-05T17:12:13.739852+00:00"
     },
     "MLB6204289#polycard_client=search-deskto_mer": {
       "id": "MLB6204289#polycard_client=search-deskto_mer",
@@ -970,7 +970,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:20.731206+00:00"
+      "timestamp": "2026-05-05T17:02:08.453834+00:00"
     },
     "MLB6204288?product_trigger_id=MLB6204289_mer": {
       "id": "MLB6204288?product_trigger_id=MLB6204289_mer",
@@ -988,7 +988,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:23.454185+00:00"
+      "timestamp": "2026-05-05T17:02:11.902701+00:00"
     },
     "MLB18552153?product_trigger_id=MLB620428_mer": {
       "id": "MLB18552153?product_trigger_id=MLB620428_mer",
@@ -1006,7 +1006,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:26.318052+00:00"
+      "timestamp": "2026-05-05T17:02:15.576290+00:00"
     },
     "MLB19540092#polycard_client=search-deskt_mer": {
       "id": "MLB19540092#polycard_client=search-deskt_mer",
@@ -1024,7 +1024,7 @@
       "original_price": 63.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:29.952445+00:00"
+      "timestamp": "2026-05-05T17:02:19.740234+00:00"
     },
     "MLB19533185?product_trigger_id=MLB195400_mer": {
       "id": "MLB19533185?product_trigger_id=MLB195400_mer",
@@ -1042,7 +1042,7 @@
       "original_price": 29.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:38:33.019893+00:00"
+      "timestamp": "2026-05-05T17:02:22.752393+00:00"
     },
     "?seller_id=integralmedicalojaoficial_mag": {
       "id": "?seller_id=integralmedicalojaoficial_mag",
@@ -1060,7 +1060,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:38:44.875289+00:00"
+      "timestamp": "2026-05-05T17:02:31.876108+00:00"
     },
     "p_sit": {
       "id": "p_sit",
@@ -1078,7 +1078,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:21.076161+00:00"
+      "timestamp": "2026-05-05T17:11:09.928012+00:00"
     },
     "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -1096,7 +1096,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:34.458080+00:00"
+      "timestamp": "2026-05-05T17:03:21.718200+00:00"
     },
     "MLB19698479?pdp_filters=seller_id%3A1214_mer": {
       "id": "MLB19698479?pdp_filters=seller_id%3A1214_mer",
@@ -1114,7 +1114,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:08.084762+00:00"
+      "timestamp": "2026-05-05T17:02:56.985165+00:00"
     },
     "MLB20574970#polycard_client=search-deskt_mer": {
       "id": "MLB20574970#polycard_client=search-deskt_mer",
@@ -1132,7 +1132,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:11.885392+00:00"
+      "timestamp": "2026-05-05T17:02:59.754734+00:00"
     },
     "MLB63805922#polycard_client=search-deskt_mer": {
       "id": "MLB63805922#polycard_client=search-deskt_mer",
@@ -1150,7 +1150,7 @@
       "original_price": 115,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:15.094591+00:00"
+      "timestamp": "2026-05-05T17:03:02.997821+00:00"
     },
     "?seller_id=wandeveldcomercioltda_mag": {
       "id": "?seller_id=wandeveldcomercioltda_mag",
@@ -1168,7 +1168,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:39:17.534619+00:00"
+      "timestamp": "2026-05-05T17:03:04.980281+00:00"
     },
     "?seller_id=dafabricasuplementos_mag": {
       "id": "?seller_id=dafabricasuplementos_mag",
@@ -1186,7 +1186,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:39:19.778950+00:00"
+      "timestamp": "2026-05-05T17:03:06.926900+00:00"
     },
     "ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -1204,7 +1204,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:07.281557+00:00"
+      "timestamp": "2026-05-05T17:10:55.390656+00:00"
     },
     "ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -1217,12 +1217,12 @@
       "type": "Gummy",
       "model": "Normal",
       "price": 130.5,
-      "buybox_seller": "MANGOFIT",
+      "buybox_seller": "Vita Market Shop",
       "buybox_price": 130.5,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:46.048305+00:00"
+      "timestamp": "2026-05-05T17:07:32.042420+00:00"
     },
     "MLB45784141#polycard_client=search-deskt_mer": {
       "id": "MLB45784141#polycard_client=search-deskt_mer",
@@ -1240,7 +1240,7 @@
       "original_price": 119,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:37.910719+00:00"
+      "timestamp": "2026-05-05T17:03:25.188546+00:00"
     },
     "MLB27720625?offer_type=OFFICIAL_STORE_mer": {
       "id": "MLB27720625?offer_type=OFFICIAL_STORE_mer",
@@ -1258,7 +1258,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:41.085205+00:00"
+      "timestamp": "2026-05-05T17:03:27.955942+00:00"
     },
     "MLB38147489#polycard_client=search-deskt_mer": {
       "id": "MLB38147489#polycard_client=search-deskt_mer",
@@ -1276,7 +1276,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:45.416042+00:00"
+      "timestamp": "2026-05-05T17:03:32.041872+00:00"
     },
     "MLB64242036#polycard_client=search-deskt_mer": {
       "id": "MLB64242036#polycard_client=search-deskt_mer",
@@ -1294,7 +1294,7 @@
       "original_price": 119.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:39:48.311582+00:00"
+      "timestamp": "2026-05-05T17:03:35.179329+00:00"
     },
     "?seller_id=equaliv_mag": {
       "id": "?seller_id=equaliv_mag",
@@ -1312,7 +1312,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:39:55.392145+00:00"
+      "timestamp": "2026-05-05T17:03:42.867139+00:00"
     },
     "ref=ast_sto_dp_puis_ama": {
       "id": "ref=ast_sto_dp_puis_ama",
@@ -1324,13 +1324,13 @@
       "size": "200g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 55.9,
+      "price": 53.1,
       "buybox_seller": null,
-      "buybox_price": 55.9,
+      "buybox_price": 53.1,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:10.339280+00:00"
+      "timestamp": "2026-05-05T17:08:56.735419+00:00"
     },
     "ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.f_ama": {
       "id": "ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.f_ama",
@@ -1348,7 +1348,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:12.678362+00:00"
+      "timestamp": "2026-05-05T17:08:58.607101+00:00"
     },
     "MLB35819939?offer_type=NEXTDAY_DELIVERY_mer": {
       "id": "MLB35819939?offer_type=NEXTDAY_DELIVERY_mer",
@@ -1366,7 +1366,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:40:19.385844+00:00"
+      "timestamp": "2026-05-05T17:04:08.590707+00:00"
     },
     "MLBU1122581559#polycard_client=search-de_mer": {
       "id": "MLBU1122581559#polycard_client=search-de_mer",
@@ -1384,7 +1384,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_CATALOG_ID",
-      "timestamp": "2026-05-05T16:40:21.483985+00:00"
+      "timestamp": "2026-05-05T17:04:11.104455+00:00"
     },
     "MLB63126525#polycard_client=search-deskt_mer": {
       "id": "MLB63126525#polycard_client=search-deskt_mer",
@@ -1402,7 +1402,7 @@
       "original_price": 159,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:40:25.274203+00:00"
+      "timestamp": "2026-05-05T17:04:13.292849+00:00"
     },
     "?seller_id=lojaoficialnutrify_mag": {
       "id": "?seller_id=lojaoficialnutrify_mag",
@@ -1420,7 +1420,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:40:28.457268+00:00"
+      "timestamp": "2026-05-05T17:04:18.067750+00:00"
     },
     "p?skuId=1001761_sit": {
       "id": "p?skuId=1001761_sit",
@@ -1438,7 +1438,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:40:32.959077+00:00"
+      "timestamp": "2026-05-05T17:04:20.882639+00:00"
     },
     "p?skuId=1001992_sit": {
       "id": "p?skuId=1001992_sit",
@@ -1456,7 +1456,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:40:36.057790+00:00"
+      "timestamp": "2026-05-05T17:04:22.933936+00:00"
     },
     "p?skuId=1001821_sit": {
       "id": "p?skuId=1001821_sit",
@@ -1474,7 +1474,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:40:38.625930+00:00"
+      "timestamp": "2026-05-05T17:04:24.929112+00:00"
     },
     "MLB19548531?pdp_filters=official_store%3_mer": {
       "id": "MLB19548531?pdp_filters=official_store%3_mer",
@@ -1492,7 +1492,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:02.107237+00:00"
+      "timestamp": "2026-05-05T17:04:48.123084+00:00"
     },
     "MLB22915303?product_trigger_id=MLB195485_mer": {
       "id": "MLB22915303?product_trigger_id=MLB195485_mer",
@@ -1510,7 +1510,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:05.674864+00:00"
+      "timestamp": "2026-05-05T17:04:51.054076+00:00"
     },
     "?seller_id=fitbeauty_mag": {
       "id": "?seller_id=fitbeauty_mag",
@@ -1528,7 +1528,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:47:49.025519+00:00"
+      "timestamp": "2026-05-05T17:11:37.681560+00:00"
     },
     "?seller_id=darkness_mag": {
       "id": "?seller_id=darkness_mag",
@@ -1546,7 +1546,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:46:09.976895+00:00"
+      "timestamp": "2026-05-05T17:09:55.715258+00:00"
     },
     "MLB18949507#polycard_client=search-deskt_mer": {
       "id": "MLB18949507#polycard_client=search-deskt_mer",
@@ -1564,7 +1564,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:22.675530+00:00"
+      "timestamp": "2026-05-05T17:05:05.320992+00:00"
     },
     "MLB19571567?pdp_filters=item_id:MLB39600_mer": {
       "id": "MLB19571567?pdp_filters=item_id:MLB39600_mer",
@@ -1582,7 +1582,7 @@
       "original_price": 196.89,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:25.613919+00:00"
+      "timestamp": "2026-05-05T17:05:08.208966+00:00"
     },
     "MLB42806667?product_trigger_id=MLB195715_mer": {
       "id": "MLB42806667?product_trigger_id=MLB195715_mer",
@@ -1600,7 +1600,7 @@
       "original_price": 166.89,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:28.859511+00:00"
+      "timestamp": "2026-05-05T17:05:10.512984+00:00"
     },
     "MLB44465862?pdp_filters=item_id%3AMLB392_mer": {
       "id": "MLB44465862?pdp_filters=item_id%3AMLB392_mer",
@@ -1618,7 +1618,7 @@
       "original_price": 70,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:31.275083+00:00"
+      "timestamp": "2026-05-05T17:05:13.573148+00:00"
     },
     "MLB42806793?pdp_filters=item_id%3AMLB516_mer": {
       "id": "MLB42806793?pdp_filters=item_id%3AMLB516_mer",
@@ -1636,7 +1636,7 @@
       "original_price": 109,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:34.909168+00:00"
+      "timestamp": "2026-05-05T17:05:16.184467+00:00"
     },
     "MLB65772810?pdp_filters=item_id%3AMLB593_mer": {
       "id": "MLB65772810?pdp_filters=item_id%3AMLB593_mer",
@@ -1654,7 +1654,7 @@
       "original_price": 79,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:37.166363+00:00"
+      "timestamp": "2026-05-05T17:05:19.106670+00:00"
     },
     "MLB19571565?pdp_filters=item_id%3AMLB394_mer": {
       "id": "MLB19571565?pdp_filters=item_id%3AMLB394_mer",
@@ -1672,7 +1672,7 @@
       "original_price": 49.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:39.373794+00:00"
+      "timestamp": "2026-05-05T17:05:22.903277+00:00"
     },
     "MLB20581836?pdp_filters=item_id%3AMLB389_mer": {
       "id": "MLB20581836?pdp_filters=item_id%3AMLB389_mer",
@@ -1690,7 +1690,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:42.977037+00:00"
+      "timestamp": "2026-05-05T17:05:26.191748+00:00"
     },
     "MLB21569984?pdp_filters=item_id%3AMLB391_mer": {
       "id": "MLB21569984?pdp_filters=item_id%3AMLB391_mer",
@@ -1708,7 +1708,7 @@
       "original_price": 50,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:45.758261+00:00"
+      "timestamp": "2026-05-05T17:05:28.780716+00:00"
     },
     "B0DH64LKFK?ref_=cpl_dp&th=1_ama": {
       "id": "B0DH64LKFK?ref_=cpl_dp&th=1_ama",
@@ -1726,7 +1726,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:48.871682+00:00"
+      "timestamp": "2026-05-05T17:05:32.112938+00:00"
     },
     "B0DQDWHXNC?ref_=cpl_dp&th=1_ama": {
       "id": "B0DQDWHXNC?ref_=cpl_dp&th=1_ama",
@@ -1744,7 +1744,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:51.660731+00:00"
+      "timestamp": "2026-05-05T17:05:34.029334+00:00"
     },
     "B0FZD7Q3MT?ref_=cpl_dp&th=1_ama": {
       "id": "B0FZD7Q3MT?ref_=cpl_dp&th=1_ama",
@@ -1756,13 +1756,13 @@
       "size": "300g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 29.99,
+      "price": 53.1,
       "buybox_seller": "Loja FTW",
-      "buybox_price": 29.99,
+      "buybox_price": 53.1,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:53.889863+00:00"
+      "timestamp": "2026-05-05T17:05:37.555973+00:00"
     },
     "B0DH68X2PX?ref_=cpl_dp&th=1_ama": {
       "id": "B0DH68X2PX?ref_=cpl_dp&th=1_ama",
@@ -1780,7 +1780,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:41:56.479637+00:00"
+      "timestamp": "2026-05-05T17:05:40.183286+00:00"
     },
     "ref=sr_1_4?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_4?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama",
@@ -1798,7 +1798,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:08.451479+00:00"
+      "timestamp": "2026-05-05T17:05:52.380689+00:00"
     },
     "ref=sr_1_8?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_8?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama",
@@ -1816,7 +1816,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:10.329632+00:00"
+      "timestamp": "2026-05-05T17:05:54.937338+00:00"
     },
     "ref=sr_1_7?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_7?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama",
@@ -1834,7 +1834,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:13.278491+00:00"
+      "timestamp": "2026-05-05T17:05:57.180661+00:00"
     },
     "MLB37121958?pdp_filters=item_id:MLB39942_mer": {
       "id": "MLB37121958?pdp_filters=item_id:MLB39942_mer",
@@ -1847,12 +1847,12 @@
       "type": "Monohidratada",
       "model": "Normal",
       "price": 44,
-      "buybox_seller": "HARDEXTREME",
+      "buybox_seller": "BODY.BUILDERS3",
       "buybox_price": 44,
-      "original_price": 85.42,
+      "original_price": 59.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:17.586876+00:00"
+      "timestamp": "2026-05-05T17:06:00.979005+00:00"
     },
     "MLB34067095#polycard_client=search-deskt_mer": {
       "id": "MLB34067095#polycard_client=search-deskt_mer",
@@ -1870,7 +1870,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:21.345114+00:00"
+      "timestamp": "2026-05-05T17:06:05.127666+00:00"
     },
     "MLB6098706#polycard_client=search-deskto_mer": {
       "id": "MLB6098706#polycard_client=search-deskto_mer",
@@ -1888,7 +1888,7 @@
       "original_price": 55.04,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:24.932417+00:00"
+      "timestamp": "2026-05-05T17:06:08.356402+00:00"
     },
     "?seller_id=magazineluiza_mag": {
       "id": "?seller_id=magazineluiza_mag",
@@ -1906,7 +1906,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:48:20.284615+00:00"
+      "timestamp": "2026-05-05T17:12:08.438745+00:00"
     },
     "?seller_id=lojamaxtitanium_mag": {
       "id": "?seller_id=lojamaxtitanium_mag",
@@ -1924,7 +1924,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:42:32.410150+00:00"
+      "timestamp": "2026-05-05T17:06:15.424370+00:00"
     },
     "p?skuid=2148_sit": {
       "id": "p?skuid=2148_sit",
@@ -1942,7 +1942,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:34.798873+00:00"
+      "timestamp": "2026-05-05T17:06:17.914449+00:00"
     },
     "p?skuid=29_sit": {
       "id": "p?skuid=29_sit",
@@ -1960,7 +1960,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:37.195737+00:00"
+      "timestamp": "2026-05-05T17:06:22.076293+00:00"
     },
     "p?skuid=31_sit": {
       "id": "p?skuid=31_sit",
@@ -1978,7 +1978,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:39.370483+00:00"
+      "timestamp": "2026-05-05T17:06:24.171303+00:00"
     },
     "p?skuid=30_sit": {
       "id": "p?skuid=30_sit",
@@ -1996,7 +1996,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:41.638821+00:00"
+      "timestamp": "2026-05-05T17:06:29.255265+00:00"
     },
     "p?skuid=6_sit": {
       "id": "p?skuid=6_sit",
@@ -2014,7 +2014,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:43.773250+00:00"
+      "timestamp": "2026-05-05T17:06:32.442180+00:00"
     },
     "p?idsku=30_sit": {
       "id": "p?idsku=30_sit",
@@ -2032,7 +2032,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:46.637580+00:00"
+      "timestamp": "2026-05-05T17:06:34.527531+00:00"
     },
     "p?idsku=187_sit": {
       "id": "p?idsku=187_sit",
@@ -2050,7 +2050,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:51.036658+00:00"
+      "timestamp": "2026-05-05T17:06:41.707487+00:00"
     },
     "p?idsku=31_sit": {
       "id": "p?idsku=31_sit",
@@ -2068,7 +2068,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:52.774374+00:00"
+      "timestamp": "2026-05-05T17:06:44.652759+00:00"
     },
     "B07M6V6WQF?ref_=ast_sto_dp_ama": {
       "id": "B07M6V6WQF?ref_=ast_sto_dp_ama",
@@ -2080,13 +2080,13 @@
       "size": "300g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 47.0,
+      "price": 47.9,
       "buybox_seller": "the suplementos",
-      "buybox_price": 47.0,
+      "buybox_price": 47.9,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:42:57.014672+00:00"
+      "timestamp": "2026-05-05T17:06:46.870918+00:00"
     },
     "MLB27464150#polycard_client=search-deskt_mer": {
       "id": "MLB27464150#polycard_client=search-deskt_mer",
@@ -2104,7 +2104,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:00.657172+00:00"
+      "timestamp": "2026-05-05T17:06:49.850143+00:00"
     },
     "MLB19548670#polycard_client=search_best-_mer": {
       "id": "MLB19548670#polycard_client=search_best-_mer",
@@ -2122,7 +2122,7 @@
       "original_price": 17.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:04.141257+00:00"
+      "timestamp": "2026-05-05T17:06:52.975815+00:00"
     },
     "MLB19548598#polycard_client=search_best-_mer": {
       "id": "MLB19548598#polycard_client=search_best-_mer",
@@ -2140,7 +2140,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:06.568648+00:00"
+      "timestamp": "2026-05-05T17:06:55.297987+00:00"
     },
     "MLB51520154?pdp_filters=item_id:MLB55074_mer": {
       "id": "MLB51520154?pdp_filters=item_id:MLB55074_mer",
@@ -2152,13 +2152,13 @@
       "size": "NÃ£o informado",
       "type": "Gummy",
       "model": "Normal",
-      "price": 126,
-      "buybox_seller": "FASTSUPLEMENTOS",
-      "buybox_price": 126,
+      "price": 114.99,
+      "buybox_seller": "GVCO",
+      "buybox_price": 114.99,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:10.321905+00:00"
+      "timestamp": "2026-05-05T17:06:58.614776+00:00"
     },
     "?seller_id=invictusnutrishop_mag": {
       "id": "?seller_id=invictusnutrishop_mag",
@@ -2176,7 +2176,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:43:11.692206+00:00"
+      "timestamp": "2026-05-05T17:07:01.350131+00:00"
     },
     "creatina-em-goma-sabor-jabuticaba_sit": {
       "id": "creatina-em-goma-sabor-jabuticaba_sit",
@@ -2194,7 +2194,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:15.492697+00:00"
+      "timestamp": "2026-05-05T17:07:04.030186+00:00"
     },
     "?seller_id=renovasaudenutricao_mag": {
       "id": "?seller_id=renovasaudenutricao_mag",
@@ -2212,7 +2212,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:43:17.368360+00:00"
+      "timestamp": "2026-05-05T17:07:05.338045+00:00"
     },
     "?seller_id=francosports_mag": {
       "id": "?seller_id=francosports_mag",
@@ -2230,7 +2230,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:43:19.482613+00:00"
+      "timestamp": "2026-05-05T17:07:07.709074+00:00"
     },
     "MLBU3392283975#polycard_client=search-de_mer": {
       "id": "MLBU3392283975#polycard_client=search-de_mer",
@@ -2248,7 +2248,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_CATALOG_ID",
-      "timestamp": "2026-05-05T16:43:21.805967+00:00"
+      "timestamp": "2026-05-05T17:07:10.339845+00:00"
     },
     "MLBU3498196516#polycard_client=search-de_mer": {
       "id": "MLBU3498196516#polycard_client=search-de_mer",
@@ -2266,7 +2266,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_CATALOG_ID",
-      "timestamp": "2026-05-05T16:43:24.486595+00:00"
+      "timestamp": "2026-05-05T17:07:11.991929+00:00"
     },
     "B0DHSS7W8P?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0DHSS7W8P?ref_=ast_sto_dp&th=1_ama",
@@ -2278,13 +2278,13 @@
       "size": "NÃ£o informado",
       "type": "Gummy",
       "model": "Normal",
-      "price": 154.9,
+      "price": 147.15,
       "buybox_seller": "Supletotal Suplementos",
-      "buybox_price": 154.9,
+      "buybox_price": 147.15,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:33.897111+00:00"
+      "timestamp": "2026-05-05T17:07:20.967007+00:00"
     },
     "B0FRHD2G3R?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0FRHD2G3R?ref_=ast_sto_dp&th=1_ama",
@@ -2302,7 +2302,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:36.117750+00:00"
+      "timestamp": "2026-05-05T17:07:23.554754+00:00"
     },
     "B0DW1K6HP2?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0DW1K6HP2?ref_=ast_sto_dp&th=1_ama",
@@ -2320,7 +2320,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:39.144394+00:00"
+      "timestamp": "2026-05-05T17:07:26.675257+00:00"
     },
     "B0CXCD2X2C?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0CXCD2X2C?ref_=ast_sto_dp&th=1_ama",
@@ -2338,7 +2338,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:41.670911+00:00"
+      "timestamp": "2026-05-05T17:07:29.308036+00:00"
     },
     "MLB43949410#polycard_client=search-deskt_mer": {
       "id": "MLB43949410#polycard_client=search-deskt_mer",
@@ -2356,7 +2356,7 @@
       "original_price": 189,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:49.127332+00:00"
+      "timestamp": "2026-05-05T17:07:35.659278+00:00"
     },
     "MLB39458813?pdp_filters=item_id%3AMLB415_mer": {
       "id": "MLB39458813?pdp_filters=item_id%3AMLB415_mer",
@@ -2374,7 +2374,7 @@
       "original_price": 209,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:53.406512+00:00"
+      "timestamp": "2026-05-05T17:07:38.519722+00:00"
     },
     "MLB46190171?pdp_filters=item_id%3AMLB531_mer": {
       "id": "MLB46190171?pdp_filters=item_id%3AMLB531_mer",
@@ -2392,7 +2392,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:43:56.527110+00:00"
+      "timestamp": "2026-05-05T17:07:41.917769+00:00"
     },
     "MLB53358693?pdp_filters=seller_id%3A2334_mer": {
       "id": "MLB53358693?pdp_filters=seller_id%3A2334_mer",
@@ -2410,7 +2410,7 @@
       "original_price": 208.3,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:00.583517+00:00"
+      "timestamp": "2026-05-05T17:07:45.221133+00:00"
     },
     "MLB51450769?pdp_filters=item_id:MLB55072_mer": {
       "id": "MLB51450769?pdp_filters=item_id:MLB55072_mer",
@@ -2428,7 +2428,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:04.983357+00:00"
+      "timestamp": "2026-05-05T17:07:48.147857+00:00"
     },
     "MLB51520931#polycard_client=search-deskt_mer": {
       "id": "MLB51520931#polycard_client=search-deskt_mer",
@@ -2446,7 +2446,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:08.534384+00:00"
+      "timestamp": "2026-05-05T17:07:50.923529+00:00"
     },
     "?seller_id=farmagerty_mag": {
       "id": "?seller_id=farmagerty_mag",
@@ -2464,7 +2464,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:44:16.640598+00:00"
+      "timestamp": "2026-05-05T17:07:58.999516+00:00"
     },
     "creatina-em-goma-sabor-maca-verde_sit": {
       "id": "creatina-em-goma-sabor-maca-verde_sit",
@@ -2482,7 +2482,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:22.641209+00:00"
+      "timestamp": "2026-05-05T17:08:05.305614+00:00"
     },
     "creatina-em-goma-sabor-laranja_sit": {
       "id": "creatina-em-goma-sabor-laranja_sit",
@@ -2500,7 +2500,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:25.191466+00:00"
+      "timestamp": "2026-05-05T17:08:06.886952+00:00"
     },
     "creatina-frutas-vermelhas_sit": {
       "id": "creatina-frutas-vermelhas_sit",
@@ -2518,7 +2518,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:28.516530+00:00"
+      "timestamp": "2026-05-05T17:08:09.558683+00:00"
     },
     "creatina-limao_sit": {
       "id": "creatina-limao_sit",
@@ -2536,7 +2536,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:30.870081+00:00"
+      "timestamp": "2026-05-05T17:08:12.728382+00:00"
     },
     "creatina-oakberry-sabor-acai_sit": {
       "id": "creatina-oakberry-sabor-acai_sit",
@@ -2554,7 +2554,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:32.453085+00:00"
+      "timestamp": "2026-05-05T17:08:15.835844+00:00"
     },
     "creatina_sit": {
       "id": "creatina_sit",
@@ -2572,7 +2572,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:35.011210+00:00"
+      "timestamp": "2026-05-05T17:08:18.359327+00:00"
     },
     "MLB18513937#polycard_client=search-deskt_mer": {
       "id": "MLB18513937#polycard_client=search-deskt_mer",
@@ -2590,7 +2590,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:45.947535+00:00"
+      "timestamp": "2026-05-05T17:08:29.088821+00:00"
     },
     "MLB44623577#polycard_client=search-deskt_mer": {
       "id": "MLB44623577#polycard_client=search-deskt_mer",
@@ -2608,7 +2608,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:49.656699+00:00"
+      "timestamp": "2026-05-05T17:08:32.013500+00:00"
     },
     "MLBU3111905275#polycard_client=search-de_mer": {
       "id": "MLBU3111905275#polycard_client=search-de_mer",
@@ -2626,7 +2626,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_CATALOG_ID",
-      "timestamp": "2026-05-05T16:44:51.405687+00:00"
+      "timestamp": "2026-05-05T17:08:33.586329+00:00"
     },
     "p?skuId=62_sit": {
       "id": "p?skuId=62_sit",
@@ -2644,7 +2644,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:44:57.770395+00:00"
+      "timestamp": "2026-05-05T17:08:42.559517+00:00"
     },
     "p?skuId=61_sit": {
       "id": "p?skuId=61_sit",
@@ -2662,7 +2662,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:01.289124+00:00"
+      "timestamp": "2026-05-05T17:08:47.636333+00:00"
     },
     "MLB18947493?pdp_filters=official_store%3_mer": {
       "id": "MLB18947493?pdp_filters=official_store%3_mer",
@@ -2680,7 +2680,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:16.850815+00:00"
+      "timestamp": "2026-05-05T17:09:02.420292+00:00"
     },
     "MLB18991669?product_trigger_id=MLB189474_mer": {
       "id": "MLB18991669?product_trigger_id=MLB189474_mer",
@@ -2698,7 +2698,7 @@
       "original_price": 24.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:19.829121+00:00"
+      "timestamp": "2026-05-05T17:09:06.682585+00:00"
     },
     "MLB20581716?pdp_filters=official_store%3_mer": {
       "id": "MLB20581716?pdp_filters=official_store%3_mer",
@@ -2716,7 +2716,7 @@
       "original_price": 69.99,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:23.861170+00:00"
+      "timestamp": "2026-05-05T17:09:10.618706+00:00"
     },
     "?ads=patrocinado&seller_id=taurene_mag": {
       "id": "?ads=patrocinado&seller_id=taurene_mag",
@@ -2734,7 +2734,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:45:26.368114+00:00"
+      "timestamp": "2026-05-05T17:09:12.762226+00:00"
     },
     "?seller_id=futfanaticsoficial_mag": {
       "id": "?seller_id=futfanaticsoficial_mag",
@@ -2752,7 +2752,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:45:28.113016+00:00"
+      "timestamp": "2026-05-05T17:09:15.321828+00:00"
     },
     "?seller_id=taurene_mag": {
       "id": "?seller_id=taurene_mag",
@@ -2770,7 +2770,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:45:30.341562+00:00"
+      "timestamp": "2026-05-05T17:09:17.025894+00:00"
     },
     "p?skuId=4322_sit": {
       "id": "p?skuId=4322_sit",
@@ -2788,7 +2788,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:33.547100+00:00"
+      "timestamp": "2026-05-05T17:09:19.158261+00:00"
     },
     "p?skuId=24662_sit": {
       "id": "p?skuId=24662_sit",
@@ -2806,7 +2806,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:35.534757+00:00"
+      "timestamp": "2026-05-05T17:09:23.064027+00:00"
     },
     "p?skuId=6708_sit": {
       "id": "p?skuId=6708_sit",
@@ -2824,7 +2824,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:38.540687+00:00"
+      "timestamp": "2026-05-05T17:09:27.234267+00:00"
     },
     "p?skuId=4129_sit": {
       "id": "p?skuId=4129_sit",
@@ -2842,7 +2842,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:40.729924+00:00"
+      "timestamp": "2026-05-05T17:09:30.182658+00:00"
     },
     "ref=sr_1_13?__mk_pt_BR=%C3%85M%C3%85%C5%_ama": {
       "id": "ref=sr_1_13?__mk_pt_BR=%C3%85M%C3%85%C5%_ama",
@@ -2860,7 +2860,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:23.010915+00:00"
+      "timestamp": "2026-05-05T17:11:11.769535+00:00"
     },
     "MLB20205480#polycard_client=search-deskt_mer": {
       "id": "MLB20205480#polycard_client=search-deskt_mer",
@@ -2878,7 +2878,7 @@
       "original_price": 229.9,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:52.068489+00:00"
+      "timestamp": "2026-05-05T17:09:38.675430+00:00"
     },
     "MLB19550484#polycard_client=search-deskt_mer": {
       "id": "MLB19550484#polycard_client=search-deskt_mer",
@@ -2896,7 +2896,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:45:56.373161+00:00"
+      "timestamp": "2026-05-05T17:09:41.465552+00:00"
     },
     "?seller_id=duxnutrition_mag": {
       "id": "?seller_id=duxnutrition_mag",
@@ -2914,7 +2914,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:48:41.196933+00:00"
+      "timestamp": "2026-05-05T17:12:29.336129+00:00"
     },
     "MLB19548816#polycard_client=search-deskt_mer": {
       "id": "MLB19548816#polycard_client=search-deskt_mer",
@@ -2932,7 +2932,7 @@
       "original_price": 145.41,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:08.399518+00:00"
+      "timestamp": "2026-05-05T17:09:54.212608+00:00"
     },
     "ref=sr_1_5?crid=7CW2788N28M6&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_5?crid=7CW2788N28M6&dib=eyJ2Ijo_ama",
@@ -2950,7 +2950,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:12.178344+00:00"
+      "timestamp": "2026-05-05T17:10:00.303325+00:00"
     },
     "MLB19538721#polycard_client=search-deskt_mer": {
       "id": "MLB19538721#polycard_client=search-deskt_mer",
@@ -2968,7 +2968,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:15.884738+00:00"
+      "timestamp": "2026-05-05T17:10:03.195297+00:00"
     },
     "?seller_id=shopmundofitness_mag": {
       "id": "?seller_id=shopmundofitness_mag",
@@ -2986,7 +2986,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:46:17.236406+00:00"
+      "timestamp": "2026-05-05T17:10:05.301592+00:00"
     },
     "p?skuId=76823_sit": {
       "id": "p?skuId=76823_sit",
@@ -3004,7 +3004,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:20.373653+00:00"
+      "timestamp": "2026-05-05T17:10:07.125676+00:00"
     },
     "ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -3022,7 +3022,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:22.056161+00:00"
+      "timestamp": "2026-05-05T17:10:09.985186+00:00"
     },
     "ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%_ama": {
       "id": "ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%_ama",
@@ -3040,7 +3040,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:27.247294+00:00"
+      "timestamp": "2026-05-05T17:10:17.381469+00:00"
     },
     "MLB55102550?pdp_filters=item_id:MLB30634_mer": {
       "id": "MLB55102550?pdp_filters=item_id:MLB30634_mer",
@@ -3058,7 +3058,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:30.715577+00:00"
+      "timestamp": "2026-05-05T17:10:21.369462+00:00"
     },
     "MLB18726360#polycard_client=search-deskt_mer": {
       "id": "MLB18726360#polycard_client=search-deskt_mer",
@@ -3076,7 +3076,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:34.367745+00:00"
+      "timestamp": "2026-05-05T17:10:24.546362+00:00"
     },
     "MLB51331591#polycard_client=search-deskt_mer": {
       "id": "MLB51331591#polycard_client=search-deskt_mer",
@@ -3094,7 +3094,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:38.614599+00:00"
+      "timestamp": "2026-05-05T17:10:27.817053+00:00"
     },
     "?seller_id=suplementoseacessorios_mag": {
       "id": "?seller_id=suplementoseacessorios_mag",
@@ -3112,7 +3112,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:46:39.937887+00:00"
+      "timestamp": "2026-05-05T17:10:30.115631+00:00"
     },
     "?seller_id=jpfit_mag": {
       "id": "?seller_id=jpfit_mag",
@@ -3130,7 +3130,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:46:42.618837+00:00"
+      "timestamp": "2026-05-05T17:10:31.793659+00:00"
     },
     "ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -3148,7 +3148,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:58.000376+00:00"
+      "timestamp": "2026-05-05T17:11:44.327208+00:00"
     },
     "MLB39012258?pdp_filters=item_id:MLB38052_mer": {
       "id": "MLB39012258?pdp_filters=item_id:MLB38052_mer",
@@ -3166,7 +3166,7 @@
       "original_price": 190.84,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:52.112593+00:00"
+      "timestamp": "2026-05-05T17:10:38.140861+00:00"
     },
     "MLB19550918#polycard_client=search-deskt_mer": {
       "id": "MLB19550918#polycard_client=search-deskt_mer",
@@ -3184,7 +3184,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:46:57.787623+00:00"
+      "timestamp": "2026-05-05T17:10:44.945006+00:00"
     },
     "MLB18947494#polycard_client=search-deskt_mer": {
       "id": "MLB18947494#polycard_client=search-deskt_mer",
@@ -3196,13 +3196,13 @@
       "size": "300g",
       "type": "Monohidratada",
       "model": "Normal",
-      "price": 134.66,
-      "buybox_seller": "LOJAJOBIM",
-      "buybox_price": 134.66,
-      "original_price": 141.75,
+      "price": 141.38,
+      "buybox_seller": "Mercado Livre Brasil",
+      "buybox_price": 141.38,
+      "original_price": 259,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:10.324111+00:00"
+      "timestamp": "2026-05-05T17:10:57.920568+00:00"
     },
     "MLB19037834?pdp_filters=item_id:MLB45214_mer": {
       "id": "MLB19037834?pdp_filters=item_id:MLB45214_mer",
@@ -3220,7 +3220,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:13.484763+00:00"
+      "timestamp": "2026-05-05T17:11:01.077146+00:00"
     },
     "?ads=patrocinado&seller_id=fitpsuplement_mag": {
       "id": "?ads=patrocinado&seller_id=fitpsuplement_mag",
@@ -3238,7 +3238,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:47:14.711176+00:00"
+      "timestamp": "2026-05-05T17:11:02.493408+00:00"
     },
     "?seller_id=kktsuplemento_mag": {
       "id": "?seller_id=kktsuplemento_mag",
@@ -3256,7 +3256,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:47:17.389618+00:00"
+      "timestamp": "2026-05-05T17:11:05.038196+00:00"
     },
     "MLB36183514#polycard_client=search-deskt_mer": {
       "id": "MLB36183514#polycard_client=search-deskt_mer",
@@ -3274,7 +3274,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:26.524273+00:00"
+      "timestamp": "2026-05-05T17:11:14.538040+00:00"
     },
     "?seller_id=lriimportadoraedistribuidora_mag": {
       "id": "?seller_id=lriimportadoraedistribuidora_mag",
@@ -3292,7 +3292,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:47:28.856368+00:00"
+      "timestamp": "2026-05-05T17:11:17.221014+00:00"
     },
     "p?skuid=1473_sit": {
       "id": "p?skuid=1473_sit",
@@ -3310,7 +3310,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:33.320800+00:00"
+      "timestamp": "2026-05-05T17:11:20.423516+00:00"
     },
     "?seller_id=armazemvida_mag": {
       "id": "?seller_id=armazemvida_mag",
@@ -3328,7 +3328,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:47:34.670905+00:00"
+      "timestamp": "2026-05-05T17:11:22.152876+00:00"
     },
     "MLB44427204?pdp_filters=official_store%3_mer": {
       "id": "MLB44427204?pdp_filters=official_store%3_mer",
@@ -3346,7 +3346,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:37.182513+00:00"
+      "timestamp": "2026-05-05T17:11:24.974351+00:00"
     },
     "ref=sr_1_3_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": {
       "id": "ref=sr_1_3_sspa?__mk_pt_BR=%C3%85M%C3%85_ama",
@@ -3364,7 +3364,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:43.320588+00:00"
+      "timestamp": "2026-05-05T17:11:31.388268+00:00"
     },
     "MLB36680560#polycard_client=search-deskt_mer": {
       "id": "MLB36680560#polycard_client=search-deskt_mer",
@@ -3382,7 +3382,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:46.663085+00:00"
+      "timestamp": "2026-05-05T17:11:35.292416+00:00"
     },
     "crealift-creatina-mono-hidratada-creapur_sit": {
       "id": "crealift-creatina-mono-hidratada-creapur_sit",
@@ -3400,7 +3400,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:47:50.628594+00:00"
+      "timestamp": "2026-05-05T17:11:39.212937+00:00"
     },
     "MLB19549586#polycard_client=search-deskt_mer": {
       "id": "MLB19549586#polycard_client=search-deskt_mer",
@@ -3418,7 +3418,7 @@
       "original_price": 289.97,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:00.631370+00:00"
+      "timestamp": "2026-05-05T17:11:46.933796+00:00"
     },
     "MLB61579770#polycard_client=search-deskt_mer": {
       "id": "MLB61579770#polycard_client=search-deskt_mer",
@@ -3436,7 +3436,7 @@
       "original_price": 114.97,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:03.656081+00:00"
+      "timestamp": "2026-05-05T17:11:49.623149+00:00"
     },
     "creatina-pure%C2%AE-70316_sit": {
       "id": "creatina-pure%C2%AE-70316_sit",
@@ -3454,7 +3454,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "FETCH_FAILED",
-      "timestamp": "2026-05-05T16:48:06.047943+00:00"
+      "timestamp": "2026-05-05T17:11:52.066303+00:00"
     },
     "creatina-premium-90g-70545_sit": {
       "id": "creatina-premium-90g-70545_sit",
@@ -3472,7 +3472,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "FETCH_FAILED",
-      "timestamp": "2026-05-05T16:48:08.653313+00:00"
+      "timestamp": "2026-05-05T17:11:54.823732+00:00"
     },
     "?seller_id=bodyshopping1_mag": {
       "id": "?seller_id=bodyshopping1_mag",
@@ -3490,7 +3490,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_SCRAPERAPI_KEY",
-      "timestamp": "2026-05-05T16:48:09.891473+00:00"
+      "timestamp": "2026-05-05T17:11:56.473708+00:00"
     },
     "p?skuId=4399_sit": {
       "id": "p?skuId=4399_sit",
@@ -3508,7 +3508,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:11.383564+00:00"
+      "timestamp": "2026-05-05T17:12:00.306761+00:00"
     },
     "B07G7HWS9J_ama": {
       "id": "B07G7HWS9J_ama",
@@ -3526,7 +3526,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:14.213079+00:00"
+      "timestamp": "2026-05-05T17:12:03.549539+00:00"
     },
     "MLB27477419#polycard_client=search-deskt_mer": {
       "id": "MLB27477419#polycard_client=search-deskt_mer",
@@ -3544,7 +3544,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:17.886657+00:00"
+      "timestamp": "2026-05-05T17:12:06.792168+00:00"
     },
     "p?idsku=186_sit": {
       "id": "p?idsku=186_sit",
@@ -3562,7 +3562,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:22.872912+00:00"
+      "timestamp": "2026-05-05T17:12:11.204175+00:00"
     },
     "MLB35915399#polycard_client=search-deskt_mer": {
       "id": "MLB35915399#polycard_client=search-deskt_mer",
@@ -3580,7 +3580,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "MELI_404",
-      "timestamp": "2026-05-05T16:48:33.498030+00:00"
+      "timestamp": "2026-05-05T17:12:18.560526+00:00"
     },
     "ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.i0v_5o5_ama": {
       "id": "ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.i0v_5o5_ama",
@@ -3592,13 +3592,13 @@
       "size": "NÃ£o informado",
       "type": "Gummy",
       "model": "Normal",
-      "price": 117.45,
+      "price": 130.5,
       "buybox_seller": "PERFECTLINE SUPLEMENTOS",
-      "buybox_price": 117.45,
+      "buybox_price": 130.5,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:35.285696+00:00"
+      "timestamp": "2026-05-05T17:12:23.066940+00:00"
     },
     "ref=sr_1_6?dib=eyJ2IjoiMSJ9.i0v_5o5j9VsB_ama": {
       "id": "ref=sr_1_6?dib=eyJ2IjoiMSJ9.i0v_5o5j9VsB_ama",
@@ -3616,7 +3616,7 @@
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:37.615615+00:00"
+      "timestamp": "2026-05-05T17:12:25.381564+00:00"
     },
     "MLBU3083679264#polycard_client=search-de_mer": {
       "id": "MLBU3083679264#polycard_client=search-de_mer",
@@ -3634,7 +3634,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": "NO_CATALOG_ID",
-      "timestamp": "2026-05-05T16:48:39.632955+00:00"
+      "timestamp": "2026-05-05T17:12:27.405854+00:00"
     },
     "B08LPQRKH8?m=A23WJRD1FPQMJ2&ref=psp_pc_a_ama": {
       "id": "B08LPQRKH8?m=A23WJRD1FPQMJ2&ref=psp_pc_a_ama",
@@ -3647,12 +3647,12 @@
       "type": "Monohidratada",
       "model": "Normal",
       "price": 29.99,
-      "buybox_seller": "Loja FTW",
+      "buybox_seller": null,
       "buybox_price": 29.99,
       "original_price": null,
       "has_error": false,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:49.418500+00:00"
+      "timestamp": "2026-05-05T17:12:35.481816+00:00"
     },
     "creatina-250g-creapure-growth-supplement_sit": {
       "id": "creatina-250g-creapure-growth-supplement_sit",
@@ -3670,7 +3670,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:51.315262+00:00"
+      "timestamp": "2026-05-05T17:12:38.353211+00:00"
     },
     "creatina-100g-creapure-growth-supplement_sit": {
       "id": "creatina-100g-creapure-growth-supplement_sit",
@@ -3688,7 +3688,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:53.161912+00:00"
+      "timestamp": "2026-05-05T17:12:40.921196+00:00"
     },
     "creatina-creapure-120comp-growth-supplem_sit": {
       "id": "creatina-creapure-120comp-growth-supplem_sit",
@@ -3706,7 +3706,7 @@
       "original_price": null,
       "has_error": true,
       "error_detail": null,
-      "timestamp": "2026-05-05T16:48:54.969750+00:00"
+      "timestamp": "2026-05-05T17:12:42.895944+00:00"
     }
   },
   "history": {
@@ -3764,6 +3764,12 @@
         "buybox_seller": "Dark Lab.",
         "buybox_price": 66.4,
         "timestamp": "2026-05-05T16:35:15.159610+00:00"
+      },
+      {
+        "price": 66.4,
+        "buybox_seller": "Dark Lab.",
+        "buybox_price": 66.4,
+        "timestamp": "2026-05-05T16:59:05.750551+00:00"
       }
     ],
     "B07LCTTF8V_ama": [
@@ -3820,6 +3826,12 @@
         "buybox_seller": "iNOVVA NUTRI",
         "buybox_price": 66.4,
         "timestamp": "2026-05-05T16:35:17.608843+00:00"
+      },
+      {
+        "price": 66.4,
+        "buybox_seller": "iNOVVA NUTRI",
+        "buybox_price": 66.4,
+        "timestamp": "2026-05-05T16:59:07.690015+00:00"
       }
     ],
     "B0BZ14J63F_ama": [
@@ -3876,6 +3888,12 @@
         "buybox_seller": "G7 Nutrição Esportiva",
         "buybox_price": 56.5,
         "timestamp": "2026-05-05T16:35:20.206291+00:00"
+      },
+      {
+        "price": 56.5,
+        "buybox_seller": "G7 Nutrição Esportiva",
+        "buybox_price": 56.5,
+        "timestamp": "2026-05-05T16:59:10.818380+00:00"
       }
     ],
     "B0BHL6FKYY_ama": [
@@ -3932,6 +3950,12 @@
         "buybox_seller": "Treasure Finds IA BR",
         "buybox_price": 55.2,
         "timestamp": "2026-05-05T16:35:23.099765+00:00"
+      },
+      {
+        "price": 54.09,
+        "buybox_seller": null,
+        "buybox_price": 54.09,
+        "timestamp": "2026-05-05T16:59:16.162664+00:00"
       }
     ],
     "B07L5WFHXW?th=1_ama": [
@@ -3988,6 +4012,12 @@
         "buybox_seller": "MBShape Suplementos",
         "buybox_price": 40.5,
         "timestamp": "2026-05-05T16:35:25.068401+00:00"
+      },
+      {
+        "price": 40.5,
+        "buybox_seller": "MBShape Suplementos",
+        "buybox_price": 40.5,
+        "timestamp": "2026-05-05T16:59:18.354374+00:00"
       }
     ],
     "ref=sr_1_5?dib=eyJ2IjoiMSJ9.IEM2MMbhmQjR_ama": [
@@ -4044,6 +4074,12 @@
         "buybox_seller": "Soldiers Nutrition",
         "buybox_price": 40.75,
         "timestamp": "2026-05-05T16:35:27.166804+00:00"
+      },
+      {
+        "price": 40.75,
+        "buybox_seller": "Soldiers Nutrition",
+        "buybox_price": 40.75,
+        "timestamp": "2026-05-05T16:59:21.003386+00:00"
       }
     ],
     "B07NF6ZZR8?th=1_ama": [
@@ -4100,6 +4136,12 @@
         "buybox_seller": "ABE America",
         "buybox_price": 34.9,
         "timestamp": "2026-05-05T16:35:29.453197+00:00"
+      },
+      {
+        "price": 34.9,
+        "buybox_seller": "ABE America",
+        "buybox_price": 34.9,
+        "timestamp": "2026-05-05T16:59:23.349028+00:00"
       }
     ],
     "ref=sr_1_2_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": [
@@ -4270,6 +4312,24 @@
         "buybox_seller": "Atacadista Suplementos",
         "buybox_price": 47.72,
         "timestamp": "2026-05-05T16:45:02.925865+00:00"
+      },
+      {
+        "price": 27.0,
+        "buybox_seller": null,
+        "buybox_price": 27.0,
+        "timestamp": "2026-05-05T16:59:26.026691+00:00"
+      },
+      {
+        "price": 33.39,
+        "buybox_seller": "Dark Lab.",
+        "buybox_price": 33.39,
+        "timestamp": "2026-05-05T16:59:28.246706+00:00"
+      },
+      {
+        "price": 47.72,
+        "buybox_seller": "Atacadista Suplementos",
+        "buybox_price": 47.72,
+        "timestamp": "2026-05-05T17:08:49.860792+00:00"
       }
     ],
     "135-8141036-6002728?pd_rd_w=1oHmf&conten_ama": [
@@ -4326,6 +4386,12 @@
         "buybox_seller": "Dark Lab.",
         "buybox_price": 42.65,
         "timestamp": "2026-05-05T16:35:37.175763+00:00"
+      },
+      {
+        "price": 42.65,
+        "buybox_seller": "Dark Lab.",
+        "buybox_price": 42.65,
+        "timestamp": "2026-05-05T16:59:29.992595+00:00"
       }
     ],
     "MLB25929487?pdp_filters=item_id:MLB48121_mer": [
@@ -4382,6 +4448,12 @@
         "buybox_seller": "DARKLAB",
         "buybox_price": 69.9,
         "timestamp": "2026-05-05T16:35:39.877922+00:00"
+      },
+      {
+        "price": 69.9,
+        "buybox_seller": "DARKLAB",
+        "buybox_price": 69.9,
+        "timestamp": "2026-05-05T16:59:33.072695+00:00"
       }
     ],
     "MLB19506693?product_trigger_id=MLB259294_mer": [
@@ -4438,6 +4510,12 @@
         "buybox_seller": "DARKLAB",
         "buybox_price": 29.9,
         "timestamp": "2026-05-05T16:35:42.156272+00:00"
+      },
+      {
+        "price": 29.9,
+        "buybox_seller": "DARKLAB",
+        "buybox_price": 29.9,
+        "timestamp": "2026-05-05T16:59:36.283227+00:00"
       }
     ],
     "MLB19506691?product_trigger_id=MLB195066_mer": [
@@ -4494,6 +4572,12 @@
         "buybox_seller": "DARKLAB",
         "buybox_price": 34.9,
         "timestamp": "2026-05-05T16:35:44.474911+00:00"
+      },
+      {
+        "price": 34.9,
+        "buybox_seller": "DARKLAB",
+        "buybox_price": 34.9,
+        "timestamp": "2026-05-05T16:59:39.050863+00:00"
       }
     ],
     "MLB26796581?product_trigger_id=MLB195066_mer": [
@@ -4550,6 +4634,12 @@
         "buybox_seller": "DARKLAB",
         "buybox_price": 44.9,
         "timestamp": "2026-05-05T16:35:48.008434+00:00"
+      },
+      {
+        "price": 44.9,
+        "buybox_seller": "DARKLAB",
+        "buybox_price": 44.9,
+        "timestamp": "2026-05-05T16:59:42.256036+00:00"
       }
     ],
     "MLB39089853?product_trigger_id=MLB267965_mer": [
@@ -4606,6 +4696,12 @@
         "buybox_seller": "DARKLAB",
         "buybox_price": 59.9,
         "timestamp": "2026-05-05T16:35:50.795561+00:00"
+      },
+      {
+        "price": 59.9,
+        "buybox_seller": "DARKLAB",
+        "buybox_price": 59.9,
+        "timestamp": "2026-05-05T16:59:44.635100+00:00"
       }
     ],
     "?seller_id=trevizosuplementos_mag": [],
@@ -4675,6 +4771,12 @@
         "buybox_seller": null,
         "buybox_price": 44.9,
         "timestamp": "2026-05-05T16:36:01.854970+00:00"
+      },
+      {
+        "price": 44.9,
+        "buybox_seller": null,
+        "buybox_price": 44.9,
+        "timestamp": "2026-05-05T16:59:54.443893+00:00"
       }
     ],
     "creatina-300g-monohidratada-dark-lab_sit": [
@@ -4743,6 +4845,12 @@
         "buybox_seller": null,
         "buybox_price": 34.9,
         "timestamp": "2026-05-05T16:36:04.434911+00:00"
+      },
+      {
+        "price": 34.9,
+        "buybox_seller": null,
+        "buybox_price": 34.9,
+        "timestamp": "2026-05-05T16:59:56.535088+00:00"
       }
     ],
     "creatina-refil-1kg-monohidratada-dark-la_sit": [
@@ -4811,6 +4919,12 @@
         "buybox_seller": null,
         "buybox_price": 69.9,
         "timestamp": "2026-05-05T16:36:07.147536+00:00"
+      },
+      {
+        "price": 69.9,
+        "buybox_seller": null,
+        "buybox_price": 69.9,
+        "timestamp": "2026-05-05T16:59:59.618041+00:00"
       }
     ],
     "creatina-refil-600g-monohidratada-dark-l_sit": [
@@ -4879,6 +4993,12 @@
         "buybox_seller": null,
         "buybox_price": 59.9,
         "timestamp": "2026-05-05T16:36:09.212376+00:00"
+      },
+      {
+        "price": 59.9,
+        "buybox_seller": null,
+        "buybox_price": 59.9,
+        "timestamp": "2026-05-05T17:00:02.379054+00:00"
       }
     ],
     "creatina-150g-monohidratada-100-pura-dar_sit": [],
@@ -5104,6 +5224,30 @@
         "buybox_seller": null,
         "buybox_price": 29.8,
         "timestamp": "2026-05-05T16:48:30.363582+00:00"
+      },
+      {
+        "price": 72.19,
+        "buybox_seller": null,
+        "buybox_price": 72.19,
+        "timestamp": "2026-05-05T17:00:08.404682+00:00"
+      },
+      {
+        "price": 62.22,
+        "buybox_seller": null,
+        "buybox_price": 62.22,
+        "timestamp": "2026-05-05T17:00:10.460969+00:00"
+      },
+      {
+        "price": 21.83,
+        "buybox_seller": null,
+        "buybox_price": 21.83,
+        "timestamp": "2026-05-05T17:02:04.309060+00:00"
+      },
+      {
+        "price": 29.8,
+        "buybox_seller": null,
+        "buybox_price": 29.8,
+        "timestamp": "2026-05-05T17:12:15.815664+00:00"
       }
     ],
     "MLB45571800?pdp_filters=item_id%3AMLB395_mer": [
@@ -5160,6 +5304,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 64.9,
         "timestamp": "2026-05-05T16:36:22.038106+00:00"
+      },
+      {
+        "price": 64.9,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 64.9,
+        "timestamp": "2026-05-05T17:00:13.178273+00:00"
       }
     ],
     "MLB22384316?pdp_filters=item_id%3AMLB460_mer": [
@@ -5216,6 +5366,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 61,
         "timestamp": "2026-05-05T16:36:24.842294+00:00"
+      },
+      {
+        "price": 61,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 61,
+        "timestamp": "2026-05-05T17:00:16.871258+00:00"
       }
     ],
     "ref=sr_1_4_sspa?crid=3II34NPG1HI54&dib=e_ama": [
@@ -5310,6 +5466,12 @@
         "buybox_seller": "ABE America",
         "buybox_price": 44.9,
         "timestamp": "2026-05-05T16:36:30.207349+00:00"
+      },
+      {
+        "price": 44.9,
+        "buybox_seller": "ABE America",
+        "buybox_price": 44.9,
+        "timestamp": "2026-05-05T17:00:22.136627+00:00"
       }
     ],
     "MLB22463592?pdp_filters=item_id%3AMLB289_mer": [
@@ -5366,6 +5528,12 @@
         "buybox_seller": "ABEAMERICA",
         "buybox_price": 30.99,
         "timestamp": "2026-05-05T16:36:33.797227+00:00"
+      },
+      {
+        "price": 30.99,
+        "buybox_seller": "ABEAMERICA",
+        "buybox_price": 30.99,
+        "timestamp": "2026-05-05T17:00:25.156416+00:00"
       }
     ],
     "MLB38485063?pdp_filters=item_id%3AMLB382_mer": [
@@ -5422,6 +5590,12 @@
         "buybox_seller": "ABEAMERICA",
         "buybox_price": 41.99,
         "timestamp": "2026-05-05T16:36:37.092224+00:00"
+      },
+      {
+        "price": 41.99,
+        "buybox_seller": "ABEAMERICA",
+        "buybox_price": 41.99,
+        "timestamp": "2026-05-05T17:00:27.621320+00:00"
       }
     ],
     "MLB21680149?pdp_filters=official_store%3_mer": [
@@ -5478,6 +5652,12 @@
         "buybox_seller": "ABEAMERICA",
         "buybox_price": 24.99,
         "timestamp": "2026-05-05T16:36:39.440085+00:00"
+      },
+      {
+        "price": 24.99,
+        "buybox_seller": "ABEAMERICA",
+        "buybox_price": 24.99,
+        "timestamp": "2026-05-05T17:00:30.403516+00:00"
       }
     ],
     "?seller_id=mixemporio_mag": [],
@@ -5614,6 +5794,18 @@
         "buybox_seller": "Mais Mu",
         "buybox_price": 89.99,
         "timestamp": "2026-05-05T16:36:48.572996+00:00"
+      },
+      {
+        "price": 129.9,
+        "buybox_seller": "Mais Mu",
+        "buybox_price": 129.9,
+        "timestamp": "2026-05-05T17:00:37.423829+00:00"
+      },
+      {
+        "price": 89.99,
+        "buybox_seller": "Mais Mu",
+        "buybox_price": 89.99,
+        "timestamp": "2026-05-05T17:00:39.129880+00:00"
       }
     ],
     "creatina-monohidratada-300g-68373_sit": [
@@ -5886,6 +6078,18 @@
         "buybox_seller": null,
         "buybox_price": 122.22,
         "timestamp": "2026-05-05T16:45:44.899658+00:00"
+      },
+      {
+        "price": 61.65,
+        "buybox_seller": "Soldiers Nutrition",
+        "buybox_price": 61.65,
+        "timestamp": "2026-05-05T17:00:47.608420+00:00"
+      },
+      {
+        "price": 122.22,
+        "buybox_seller": null,
+        "buybox_price": 122.22,
+        "timestamp": "2026-05-05T17:09:32.814426+00:00"
       }
     ],
     "B0D71HD612?ref_=ast_sto_dp_ama": [
@@ -5942,6 +6146,12 @@
         "buybox_seller": null,
         "buybox_price": 64.9,
         "timestamp": "2026-05-05T16:37:03.115846+00:00"
+      },
+      {
+        "price": 64.9,
+        "buybox_seller": null,
+        "buybox_price": 64.9,
+        "timestamp": "2026-05-05T17:00:49.410672+00:00"
       }
     ],
     "B0BVD4PW4Q?ref_=ast_sto_dp_ama": [
@@ -5998,6 +6208,12 @@
         "buybox_seller": "Soldiers Nutrition",
         "buybox_price": 24.6,
         "timestamp": "2026-05-05T16:37:05.029046+00:00"
+      },
+      {
+        "price": 25.9,
+        "buybox_seller": "Soldiers Nutrition",
+        "buybox_price": 25.9,
+        "timestamp": "2026-05-05T17:00:53.567851+00:00"
       }
     ],
     "B0BL579H1Z?ref_=ast_sto_dp_ama": [
@@ -6054,6 +6270,12 @@
         "buybox_seller": "Soldiers Nutrition",
         "buybox_price": 34.1,
         "timestamp": "2026-05-05T16:37:07.401755+00:00"
+      },
+      {
+        "price": 34.1,
+        "buybox_seller": "Soldiers Nutrition",
+        "buybox_price": 34.1,
+        "timestamp": "2026-05-05T17:00:55.306437+00:00"
       }
     ],
     "MLB32081918?product_trigger_id=MLB187253_mer": [
@@ -6110,6 +6332,12 @@
         "buybox_seller": "SOLDIERS NUTRITION",
         "buybox_price": 39.9,
         "timestamp": "2026-05-05T16:37:10.656731+00:00"
+      },
+      {
+        "price": 39.9,
+        "buybox_seller": "SOLDIERS NUTRITION",
+        "buybox_price": 39.9,
+        "timestamp": "2026-05-05T17:00:58.017779+00:00"
       }
     ],
     "MLB19539520?product_trigger_id=MLB187253_mer": [
@@ -6166,6 +6394,12 @@
         "buybox_seller": "SOLDIERS NUTRITION",
         "buybox_price": 25.9,
         "timestamp": "2026-05-05T16:37:13.348876+00:00"
+      },
+      {
+        "price": 25.9,
+        "buybox_seller": "SOLDIERS NUTRITION",
+        "buybox_price": 25.9,
+        "timestamp": "2026-05-05T17:01:01.292927+00:00"
       }
     ],
     "MLB38130100?product_trigger_id=MLB195395_mer": [],
@@ -6223,6 +6457,12 @@
         "buybox_seller": "SOLDIERS NUTRITION",
         "buybox_price": 35.9,
         "timestamp": "2026-05-05T16:37:18.956363+00:00"
+      },
+      {
+        "price": 35.9,
+        "buybox_seller": "SOLDIERS NUTRITION",
+        "buybox_price": 35.9,
+        "timestamp": "2026-05-05T17:01:08.555655+00:00"
       }
     ],
     "MLB26989230?product_trigger_id=MLB187253_mer": [
@@ -6279,6 +6519,12 @@
         "buybox_seller": "SOLDIERS NUTRITION",
         "buybox_price": 119.9,
         "timestamp": "2026-05-05T16:37:22.480302+00:00"
+      },
+      {
+        "price": 119.9,
+        "buybox_seller": "SOLDIERS NUTRITION",
+        "buybox_price": 119.9,
+        "timestamp": "2026-05-05T17:01:12.434871+00:00"
       }
     ],
     "MLB18725310?product_trigger_id=MLB269892_mer": [
@@ -6335,6 +6581,12 @@
         "buybox_seller": "SOLDIERS NUTRITION",
         "buybox_price": 169.9,
         "timestamp": "2026-05-05T16:37:25.607245+00:00"
+      },
+      {
+        "price": 169.9,
+        "buybox_seller": "SOLDIERS NUTRITION",
+        "buybox_price": 169.9,
+        "timestamp": "2026-05-05T17:01:15.845893+00:00"
       }
     ],
     "?ads=patrocinado&seller_id=soldiersnutri_mag": [],
@@ -6394,6 +6646,12 @@
         "buybox_seller": "GRWTSUPPLEMENTS",
         "buybox_price": 32.9,
         "timestamp": "2026-05-05T16:37:39.763902+00:00"
+      },
+      {
+        "price": 32.9,
+        "buybox_seller": "GRWTSUPPLEMENTS",
+        "buybox_price": 32.9,
+        "timestamp": "2026-05-05T17:01:27.471353+00:00"
       }
     ],
     "MLB19603205?pdp_filters=official_store%3_mer": [
@@ -6450,6 +6708,12 @@
         "buybox_seller": "GRWTSUPPLEMENTS",
         "buybox_price": 34.9,
         "timestamp": "2026-05-05T16:37:43.328552+00:00"
+      },
+      {
+        "price": 34.9,
+        "buybox_seller": "GRWTSUPPLEMENTS",
+        "buybox_price": 34.9,
+        "timestamp": "2026-05-05T17:01:31.154045+00:00"
       }
     ],
     "creatina-monohidratada-100-pura-importad_sit": [
@@ -6848,6 +7112,42 @@
         "buybox_seller": null,
         "buybox_price": 5199.9,
         "timestamp": "2026-05-05T16:38:00.503599+00:00"
+      },
+      {
+        "price": 5199.9,
+        "buybox_seller": null,
+        "buybox_price": 5199.9,
+        "timestamp": "2026-05-05T17:01:34.335831+00:00"
+      },
+      {
+        "price": 5199.9,
+        "buybox_seller": null,
+        "buybox_price": 5199.9,
+        "timestamp": "2026-05-05T17:01:37.315331+00:00"
+      },
+      {
+        "price": 5199.9,
+        "buybox_seller": null,
+        "buybox_price": 5199.9,
+        "timestamp": "2026-05-05T17:01:39.237014+00:00"
+      },
+      {
+        "price": 5199.9,
+        "buybox_seller": null,
+        "buybox_price": 5199.9,
+        "timestamp": "2026-05-05T17:01:42.074764+00:00"
+      },
+      {
+        "price": 5199.9,
+        "buybox_seller": null,
+        "buybox_price": 5199.9,
+        "timestamp": "2026-05-05T17:01:45.445082+00:00"
+      },
+      {
+        "price": 5199.9,
+        "buybox_seller": null,
+        "buybox_price": 5199.9,
+        "timestamp": "2026-05-05T17:01:49.144513+00:00"
       }
     ],
     "creatina-monohidratada-250gr-growth-supp_sit": [],
@@ -7722,6 +8022,96 @@
         "buybox_seller": null,
         "buybox_price": 59.9,
         "timestamp": "2026-05-05T16:48:25.686298+00:00"
+      },
+      {
+        "price": 40.5,
+        "buybox_seller": "MBShape Suplementos",
+        "buybox_price": 40.5,
+        "timestamp": "2026-05-05T17:01:56.296758+00:00"
+      },
+      {
+        "price": 113.0,
+        "buybox_seller": null,
+        "buybox_price": 113.0,
+        "timestamp": "2026-05-05T17:01:58.451045+00:00"
+      },
+      {
+        "price": 28.79,
+        "buybox_seller": null,
+        "buybox_price": 28.79,
+        "timestamp": "2026-05-05T17:02:01.323329+00:00"
+      },
+      {
+        "price": 55.2,
+        "buybox_seller": "Treasure Finds IA BR",
+        "buybox_price": 55.2,
+        "timestamp": "2026-05-05T17:02:46.887922+00:00"
+      },
+      {
+        "price": 126.7,
+        "buybox_seller": null,
+        "buybox_price": 126.7,
+        "timestamp": "2026-05-05T17:02:50.699712+00:00"
+      },
+      {
+        "price": 66.7,
+        "buybox_seller": null,
+        "buybox_price": 66.7,
+        "timestamp": "2026-05-05T17:04:37.284551+00:00"
+      },
+      {
+        "price": 46.0,
+        "buybox_seller": "G7 Nutrição Esportiva",
+        "buybox_price": 46.0,
+        "timestamp": "2026-05-05T17:05:02.189612+00:00"
+      },
+      {
+        "price": 68.37,
+        "buybox_seller": "Vivamar",
+        "buybox_price": 68.37,
+        "timestamp": "2026-05-05T17:07:16.200951+00:00"
+      },
+      {
+        "price": 100.9,
+        "buybox_seller": "G7 Nutrição Esportiva",
+        "buybox_price": 100.9,
+        "timestamp": "2026-05-05T17:09:50.447242+00:00"
+      },
+      {
+        "price": 139.9,
+        "buybox_seller": "ABE America",
+        "buybox_price": 139.9,
+        "timestamp": "2026-05-05T17:10:33.470258+00:00"
+      },
+      {
+        "price": 159.8,
+        "buybox_seller": "G7 Nutrição Esportiva",
+        "buybox_price": 159.8,
+        "timestamp": "2026-05-05T17:10:41.218056+00:00"
+      },
+      {
+        "price": 141.38,
+        "buybox_seller": null,
+        "buybox_price": 141.38,
+        "timestamp": "2026-05-05T17:10:53.423264+00:00"
+      },
+      {
+        "price": 99.9,
+        "buybox_seller": null,
+        "buybox_price": 99.9,
+        "timestamp": "2026-05-05T17:11:29.803095+00:00"
+      },
+      {
+        "price": 198.7,
+        "buybox_seller": "CASA+ ECOMMERCE",
+        "buybox_price": 198.7,
+        "timestamp": "2026-05-05T17:11:40.850194+00:00"
+      },
+      {
+        "price": 59.9,
+        "buybox_seller": null,
+        "buybox_price": 59.9,
+        "timestamp": "2026-05-05T17:12:13.739852+00:00"
       }
     ],
     "MLB6204289#polycard_client=search-deskto_mer": [
@@ -7778,6 +8168,12 @@
         "buybox_seller": "FAROVARIEDADES",
         "buybox_price": 38.9,
         "timestamp": "2026-05-05T16:38:20.731206+00:00"
+      },
+      {
+        "price": 38.9,
+        "buybox_seller": "FAROVARIEDADES",
+        "buybox_price": 38.9,
+        "timestamp": "2026-05-05T17:02:08.453834+00:00"
       }
     ],
     "MLB6204288?product_trigger_id=MLB6204289_mer": [
@@ -7834,6 +8230,12 @@
         "buybox_seller": "IMPSUPLEMENTOS",
         "buybox_price": 19.99,
         "timestamp": "2026-05-05T16:38:23.454185+00:00"
+      },
+      {
+        "price": 19.99,
+        "buybox_seller": "IMPSUPLEMENTOS",
+        "buybox_price": 19.99,
+        "timestamp": "2026-05-05T17:02:11.902701+00:00"
       }
     ],
     "MLB18552153?product_trigger_id=MLB620428_mer": [
@@ -7890,6 +8292,12 @@
         "buybox_seller": "AXSUPLEMENTOS",
         "buybox_price": 190,
         "timestamp": "2026-05-05T16:38:26.318052+00:00"
+      },
+      {
+        "price": 190,
+        "buybox_seller": "AXSUPLEMENTOS",
+        "buybox_price": 190,
+        "timestamp": "2026-05-05T17:02:15.576290+00:00"
       }
     ],
     "MLB19540092#polycard_client=search-deskt_mer": [
@@ -7946,6 +8354,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 29.8,
         "timestamp": "2026-05-05T16:38:29.952445+00:00"
+      },
+      {
+        "price": 29.8,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 29.8,
+        "timestamp": "2026-05-05T17:02:19.740234+00:00"
       }
     ],
     "MLB19533185?product_trigger_id=MLB195400_mer": [
@@ -8002,6 +8416,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 16.14,
         "timestamp": "2026-05-05T16:38:33.019893+00:00"
+      },
+      {
+        "price": 16.14,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 16.14,
+        "timestamp": "2026-05-05T17:02:22.752393+00:00"
       }
     ],
     "?seller_id=integralmedicalojaoficial_mag": [],
@@ -9325,6 +9745,126 @@
         "buybox_seller": null,
         "buybox_price": 96.0,
         "timestamp": "2026-05-05T16:47:21.076161+00:00"
+      },
+      {
+        "price": 166.0,
+        "buybox_seller": null,
+        "buybox_price": 166.0,
+        "timestamp": "2026-05-05T17:02:34.358544+00:00"
+      },
+      {
+        "price": 64.0,
+        "buybox_seller": null,
+        "buybox_price": 64.0,
+        "timestamp": "2026-05-05T17:02:36.614535+00:00"
+      },
+      {
+        "price": 35.0,
+        "buybox_seller": null,
+        "buybox_price": 35.0,
+        "timestamp": "2026-05-05T17:02:39.216958+00:00"
+      },
+      {
+        "price": 26.0,
+        "buybox_seller": null,
+        "buybox_price": 26.0,
+        "timestamp": "2026-05-05T17:02:41.410252+00:00"
+      },
+      {
+        "price": 47.0,
+        "buybox_seller": null,
+        "buybox_price": 47.0,
+        "timestamp": "2026-05-05T17:02:44.520310+00:00"
+      },
+      {
+        "price": 64.9,
+        "buybox_seller": null,
+        "buybox_price": 64.9,
+        "timestamp": "2026-05-05T17:03:09.767133+00:00"
+      },
+      {
+        "price": 123.9,
+        "buybox_seller": null,
+        "buybox_price": 123.9,
+        "timestamp": "2026-05-05T17:03:12.282926+00:00"
+      },
+      {
+        "price": 149.9,
+        "buybox_seller": null,
+        "buybox_price": 149.9,
+        "timestamp": "2026-05-05T17:03:50.101178+00:00"
+      },
+      {
+        "price": 84.9,
+        "buybox_seller": null,
+        "buybox_price": 84.9,
+        "timestamp": "2026-05-05T17:03:52.232551+00:00"
+      },
+      {
+        "price": 67.9,
+        "buybox_seller": null,
+        "buybox_price": 67.9,
+        "timestamp": "2026-05-05T17:03:54.989212+00:00"
+      },
+      {
+        "price": 56.9,
+        "buybox_seller": null,
+        "buybox_price": 56.9,
+        "timestamp": "2026-05-05T17:03:57.631772+00:00"
+      },
+      {
+        "price": 158.4,
+        "buybox_seller": null,
+        "buybox_price": 158.4,
+        "timestamp": "2026-05-05T17:04:28.531845+00:00"
+      },
+      {
+        "price": 38.4,
+        "buybox_seller": null,
+        "buybox_price": 38.4,
+        "timestamp": "2026-05-05T17:04:30.668816+00:00"
+      },
+      {
+        "price": 87.2,
+        "buybox_seller": null,
+        "buybox_price": 87.2,
+        "timestamp": "2026-05-05T17:04:32.220185+00:00"
+      },
+      {
+        "price": 63.0,
+        "buybox_seller": null,
+        "buybox_price": 63.0,
+        "timestamp": "2026-05-05T17:05:00.375300+00:00"
+      },
+      {
+        "price": 239.9,
+        "buybox_seller": null,
+        "buybox_price": 239.9,
+        "timestamp": "2026-05-05T17:09:45.908611+00:00"
+      },
+      {
+        "price": 118.9,
+        "buybox_seller": null,
+        "buybox_price": 118.9,
+        "timestamp": "2026-05-05T17:09:47.879148+00:00"
+      },
+      {
+        "price": 249.9,
+        "buybox_seller": null,
+        "buybox_price": 249.9,
+        "timestamp": "2026-05-05T17:10:49.264870+00:00"
+      },
+      {
+        "price": 207.2,
+        "buybox_seller": null,
+        "buybox_price": 207.2,
+        "timestamp": "2026-05-05T17:11:07.649691+00:00"
+      },
+      {
+        "price": 96.0,
+        "buybox_seller": null,
+        "buybox_price": 96.0,
+        "timestamp": "2026-05-05T17:11:09.928012+00:00"
       }
     ],
     "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [
@@ -9435,6 +9975,18 @@
         "buybox_seller": null,
         "buybox_price": 39.9,
         "timestamp": "2026-05-05T16:39:34.458080+00:00"
+      },
+      {
+        "price": 54.9,
+        "buybox_seller": "DUX Human Health",
+        "buybox_price": 54.9,
+        "timestamp": "2026-05-05T17:02:53.693104+00:00"
+      },
+      {
+        "price": 39.9,
+        "buybox_seller": null,
+        "buybox_price": 39.9,
+        "timestamp": "2026-05-05T17:03:21.718200+00:00"
       }
     ],
     "MLB19698479?pdp_filters=seller_id%3A1214_mer": [
@@ -9491,6 +10043,12 @@
         "buybox_seller": "BARUK_STORE_41",
         "buybox_price": 48,
         "timestamp": "2026-05-05T16:39:08.084762+00:00"
+      },
+      {
+        "price": 48,
+        "buybox_seller": "BARUK_STORE_41",
+        "buybox_price": 48,
+        "timestamp": "2026-05-05T17:02:56.985165+00:00"
       }
     ],
     "MLB20574970#polycard_client=search-deskt_mer": [
@@ -9547,6 +10105,12 @@
         "buybox_seller": "MARIANEECOSTA3",
         "buybox_price": 38,
         "timestamp": "2026-05-05T16:39:11.885392+00:00"
+      },
+      {
+        "price": 38,
+        "buybox_seller": "MARIANEECOSTA3",
+        "buybox_price": 38,
+        "timestamp": "2026-05-05T17:02:59.754734+00:00"
       }
     ],
     "MLB63805922#polycard_client=search-deskt_mer": [
@@ -9603,6 +10167,12 @@
         "buybox_seller": "NAIARAKATIELLE",
         "buybox_price": 94.05,
         "timestamp": "2026-05-05T16:39:15.094591+00:00"
+      },
+      {
+        "price": 94.05,
+        "buybox_seller": "NAIARAKATIELLE",
+        "buybox_price": 94.05,
+        "timestamp": "2026-05-05T17:03:02.997821+00:00"
       }
     ],
     "?seller_id=wandeveldcomercioltda_mag": [],
@@ -9841,6 +10411,30 @@
         "buybox_seller": "C2K DISTRIBUIDORA DE PRODUTOS",
         "buybox_price": 243.97,
         "timestamp": "2026-05-05T16:47:07.281557+00:00"
+      },
+      {
+        "price": 154.9,
+        "buybox_seller": null,
+        "buybox_price": 154.9,
+        "timestamp": "2026-05-05T17:03:16.848800+00:00"
+      },
+      {
+        "price": 141.65,
+        "buybox_seller": null,
+        "buybox_price": 141.65,
+        "timestamp": "2026-05-05T17:04:42.298254+00:00"
+      },
+      {
+        "price": 159.9,
+        "buybox_seller": "Raiz Verde",
+        "buybox_price": 159.9,
+        "timestamp": "2026-05-05T17:10:14.327900+00:00"
+      },
+      {
+        "price": 243.97,
+        "buybox_seller": "C2K DISTRIBUIDORA DE PRODUTOS",
+        "buybox_price": 243.97,
+        "timestamp": "2026-05-05T17:10:55.390656+00:00"
       }
     ],
     "ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [
@@ -10047,6 +10641,24 @@
         "buybox_seller": "MANGOFIT",
         "buybox_price": 130.5,
         "timestamp": "2026-05-05T16:43:46.048305+00:00"
+      },
+      {
+        "price": 32.61,
+        "buybox_seller": null,
+        "buybox_price": 32.61,
+        "timestamp": "2026-05-05T17:04:45.271546+00:00"
+      },
+      {
+        "price": 49.9,
+        "buybox_seller": "PG Power",
+        "buybox_price": 49.9,
+        "timestamp": "2026-05-05T17:07:17.800438+00:00"
+      },
+      {
+        "price": 130.5,
+        "buybox_seller": "Vita Market Shop",
+        "buybox_price": 130.5,
+        "timestamp": "2026-05-05T17:07:32.042420+00:00"
       }
     ],
     "MLB45784141#polycard_client=search-deskt_mer": [
@@ -10103,6 +10715,12 @@
         "buybox_seller": "SOUL SUPLEMENTOS",
         "buybox_price": 55.5,
         "timestamp": "2026-05-05T16:39:37.910719+00:00"
+      },
+      {
+        "price": 55.5,
+        "buybox_seller": "SOUL SUPLEMENTOS",
+        "buybox_price": 55.5,
+        "timestamp": "2026-05-05T17:03:25.188546+00:00"
       }
     ],
     "MLB27720625?offer_type=OFFICIAL_STORE_mer": [
@@ -10159,6 +10777,12 @@
         "buybox_seller": "WEBSTOREVIX",
         "buybox_price": 55,
         "timestamp": "2026-05-05T16:39:41.085205+00:00"
+      },
+      {
+        "price": 55,
+        "buybox_seller": "WEBSTOREVIX",
+        "buybox_price": 55,
+        "timestamp": "2026-05-05T17:03:27.955942+00:00"
       }
     ],
     "MLB38147489#polycard_client=search-deskt_mer": [
@@ -10215,6 +10839,12 @@
         "buybox_seller": "RMAISTORE",
         "buybox_price": 54.49,
         "timestamp": "2026-05-05T16:39:45.416042+00:00"
+      },
+      {
+        "price": 54.49,
+        "buybox_seller": "RMAISTORE",
+        "buybox_price": 54.49,
+        "timestamp": "2026-05-05T17:03:32.041872+00:00"
       }
     ],
     "MLB64242036#polycard_client=search-deskt_mer": [
@@ -10271,6 +10901,12 @@
         "buybox_seller": "EQUALIV",
         "buybox_price": 110.3,
         "timestamp": "2026-05-05T16:39:48.311582+00:00"
+      },
+      {
+        "price": 110.3,
+        "buybox_seller": "EQUALIV",
+        "buybox_price": 110.3,
+        "timestamp": "2026-05-05T17:03:35.179329+00:00"
       }
     ],
     "?seller_id=equaliv_mag": [],
@@ -10850,6 +11486,66 @@
         "buybox_seller": null,
         "buybox_price": 55.9,
         "timestamp": "2026-05-05T16:45:10.339280+00:00"
+      },
+      {
+        "price": 56.5,
+        "buybox_seller": "G7 Nutrição Esportiva",
+        "buybox_price": 56.5,
+        "timestamp": "2026-05-05T17:03:59.597469+00:00"
+      },
+      {
+        "price": 44.83,
+        "buybox_seller": null,
+        "buybox_price": 44.83,
+        "timestamp": "2026-05-05T17:04:02.607018+00:00"
+      },
+      {
+        "price": 29.99,
+        "buybox_seller": null,
+        "buybox_price": 29.99,
+        "timestamp": "2026-05-05T17:05:42.257300+00:00"
+      },
+      {
+        "price": 27.95,
+        "buybox_seller": null,
+        "buybox_price": 27.95,
+        "timestamp": "2026-05-05T17:05:44.134884+00:00"
+      },
+      {
+        "price": 34.99,
+        "buybox_seller": null,
+        "buybox_price": 34.99,
+        "timestamp": "2026-05-05T17:05:47.246320+00:00"
+      },
+      {
+        "price": 21.15,
+        "buybox_seller": "Loja Suplemento",
+        "buybox_price": 21.15,
+        "timestamp": "2026-05-05T17:08:20.881438+00:00"
+      },
+      {
+        "price": 37.0,
+        "buybox_seller": "MC_SPORTS",
+        "buybox_price": 37.0,
+        "timestamp": "2026-05-05T17:08:23.214625+00:00"
+      },
+      {
+        "price": 9.94,
+        "buybox_seller": "Loja Suplemento",
+        "buybox_price": 9.94,
+        "timestamp": "2026-05-05T17:08:24.887707+00:00"
+      },
+      {
+        "price": 24.9,
+        "buybox_seller": "Atacadista Suplementos",
+        "buybox_price": 24.9,
+        "timestamp": "2026-05-05T17:08:54.156789+00:00"
+      },
+      {
+        "price": 53.1,
+        "buybox_seller": null,
+        "buybox_price": 53.1,
+        "timestamp": "2026-05-05T17:08:56.735419+00:00"
       }
     ],
     "ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.f_ama": [
@@ -10972,6 +11668,18 @@
         "buybox_seller": "BodySaver Suplementos",
         "buybox_price": 44.46,
         "timestamp": "2026-05-05T16:45:12.678362+00:00"
+      },
+      {
+        "price": 119.0,
+        "buybox_seller": "G7 Nutrição Esportiva",
+        "buybox_price": 119.0,
+        "timestamp": "2026-05-05T17:04:05.146462+00:00"
+      },
+      {
+        "price": 44.46,
+        "buybox_seller": "BodySaver Suplementos",
+        "buybox_price": 44.46,
+        "timestamp": "2026-05-05T17:08:58.607101+00:00"
       }
     ],
     "MLB35819939?offer_type=NEXTDAY_DELIVERY_mer": [
@@ -11028,6 +11736,12 @@
         "buybox_seller": "NUTRELINE",
         "buybox_price": 62.38,
         "timestamp": "2026-05-05T16:40:19.385844+00:00"
+      },
+      {
+        "price": 62.38,
+        "buybox_seller": "NUTRELINE",
+        "buybox_price": 62.38,
+        "timestamp": "2026-05-05T17:04:08.590707+00:00"
       }
     ],
     "MLBU1122581559#polycard_client=search-de_mer": [],
@@ -11085,6 +11799,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 102,
         "timestamp": "2026-05-05T16:40:25.274203+00:00"
+      },
+      {
+        "price": 102,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 102,
+        "timestamp": "2026-05-05T17:04:13.292849+00:00"
       }
     ],
     "?seller_id=lojaoficialnutrify_mag": [],
@@ -11154,6 +11874,12 @@
         "buybox_seller": null,
         "buybox_price": 101.0,
         "timestamp": "2026-05-05T16:40:32.959077+00:00"
+      },
+      {
+        "price": 101.0,
+        "buybox_seller": null,
+        "buybox_price": 101.0,
+        "timestamp": "2026-05-05T17:04:20.882639+00:00"
       }
     ],
     "p?skuId=1001992_sit": [
@@ -11222,6 +11948,12 @@
         "buybox_seller": null,
         "buybox_price": 161.0,
         "timestamp": "2026-05-05T16:40:36.057790+00:00"
+      },
+      {
+        "price": 161.0,
+        "buybox_seller": null,
+        "buybox_price": 161.0,
+        "timestamp": "2026-05-05T17:04:22.933936+00:00"
       }
     ],
     "p?skuId=1001821_sit": [],
@@ -11279,6 +12011,12 @@
         "buybox_seller": "ACHEISUPLEMENTOS",
         "buybox_price": 62.09,
         "timestamp": "2026-05-05T16:41:02.107237+00:00"
+      },
+      {
+        "price": 62.09,
+        "buybox_seller": "ACHEISUPLEMENTOS",
+        "buybox_price": 62.09,
+        "timestamp": "2026-05-05T17:04:48.123084+00:00"
       }
     ],
     "MLB22915303?product_trigger_id=MLB195485_mer": [
@@ -11335,6 +12073,12 @@
         "buybox_seller": "UPSTARTNUTRI",
         "buybox_price": 32.01,
         "timestamp": "2026-05-05T16:41:05.674864+00:00"
+      },
+      {
+        "price": 32.01,
+        "buybox_seller": "UPSTARTNUTRI",
+        "buybox_price": 32.01,
+        "timestamp": "2026-05-05T17:04:51.054076+00:00"
       }
     ],
     "?seller_id=fitbeauty_mag": [],
@@ -11393,6 +12137,12 @@
         "buybox_seller": "LIZVAREJ0",
         "buybox_price": 48.9,
         "timestamp": "2026-05-05T16:41:22.675530+00:00"
+      },
+      {
+        "price": 48.9,
+        "buybox_seller": "LIZVAREJ0",
+        "buybox_price": 48.9,
+        "timestamp": "2026-05-05T17:05:05.320992+00:00"
       }
     ],
     "MLB19571567?pdp_filters=item_id:MLB39600_mer": [
@@ -11449,6 +12199,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 64.99,
         "timestamp": "2026-05-05T16:41:25.613919+00:00"
+      },
+      {
+        "price": 64.99,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 64.99,
+        "timestamp": "2026-05-05T17:05:08.208966+00:00"
       }
     ],
     "MLB42806667?product_trigger_id=MLB195715_mer": [
@@ -11505,6 +12261,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 64.99,
         "timestamp": "2026-05-05T16:41:28.859511+00:00"
+      },
+      {
+        "price": 64.99,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 64.99,
+        "timestamp": "2026-05-05T17:05:10.512984+00:00"
       }
     ],
     "MLB44465862?pdp_filters=item_id%3AMLB392_mer": [
@@ -11561,6 +12323,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 29.9,
         "timestamp": "2026-05-05T16:41:31.275083+00:00"
+      },
+      {
+        "price": 29.9,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 29.9,
+        "timestamp": "2026-05-05T17:05:13.573148+00:00"
       }
     ],
     "MLB42806793?pdp_filters=item_id%3AMLB516_mer": [
@@ -11617,6 +12385,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 45.99,
         "timestamp": "2026-05-05T16:41:34.909168+00:00"
+      },
+      {
+        "price": 45.99,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 45.99,
+        "timestamp": "2026-05-05T17:05:16.184467+00:00"
       }
     ],
     "MLB65772810?pdp_filters=item_id%3AMLB593_mer": [
@@ -11673,6 +12447,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 58.19,
         "timestamp": "2026-05-05T16:41:37.166363+00:00"
+      },
+      {
+        "price": 58.19,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 58.19,
+        "timestamp": "2026-05-05T17:05:19.106670+00:00"
       }
     ],
     "MLB19571565?pdp_filters=item_id%3AMLB394_mer": [
@@ -11729,6 +12509,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 23.99,
         "timestamp": "2026-05-05T16:41:39.373794+00:00"
+      },
+      {
+        "price": 23.99,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 23.99,
+        "timestamp": "2026-05-05T17:05:22.903277+00:00"
       }
     ],
     "MLB20581836?pdp_filters=item_id%3AMLB389_mer": [
@@ -11785,6 +12571,12 @@
         "buybox_seller": "DROGARIAROMANA",
         "buybox_price": 49.9,
         "timestamp": "2026-05-05T16:41:42.977037+00:00"
+      },
+      {
+        "price": 49.9,
+        "buybox_seller": "DROGARIAROMANA",
+        "buybox_price": 49.9,
+        "timestamp": "2026-05-05T17:05:26.191748+00:00"
       }
     ],
     "MLB21569984?pdp_filters=item_id%3AMLB391_mer": [
@@ -11841,6 +12633,12 @@
         "buybox_seller": "FTW FITOWAYLABS",
         "buybox_price": 34.99,
         "timestamp": "2026-05-05T16:41:45.758261+00:00"
+      },
+      {
+        "price": 34.99,
+        "buybox_seller": "FTW FITOWAYLABS",
+        "buybox_price": 34.99,
+        "timestamp": "2026-05-05T17:05:28.780716+00:00"
       }
     ],
     "B0DH64LKFK?ref_=cpl_dp&th=1_ama": [
@@ -11897,6 +12695,12 @@
         "buybox_seller": null,
         "buybox_price": 40.43,
         "timestamp": "2026-05-05T16:41:48.871682+00:00"
+      },
+      {
+        "price": 40.43,
+        "buybox_seller": null,
+        "buybox_price": 40.43,
+        "timestamp": "2026-05-05T17:05:32.112938+00:00"
       }
     ],
     "B0DQDWHXNC?ref_=cpl_dp&th=1_ama": [
@@ -11953,6 +12757,12 @@
         "buybox_seller": "Loja FTW",
         "buybox_price": 34.99,
         "timestamp": "2026-05-05T16:41:51.660731+00:00"
+      },
+      {
+        "price": 34.99,
+        "buybox_seller": "Loja FTW",
+        "buybox_price": 34.99,
+        "timestamp": "2026-05-05T17:05:34.029334+00:00"
       }
     ],
     "B0FZD7Q3MT?ref_=cpl_dp&th=1_ama": [
@@ -12009,6 +12819,12 @@
         "buybox_seller": "Loja FTW",
         "buybox_price": 29.99,
         "timestamp": "2026-05-05T16:41:53.889863+00:00"
+      },
+      {
+        "price": 53.1,
+        "buybox_seller": "Loja FTW",
+        "buybox_price": 53.1,
+        "timestamp": "2026-05-05T17:05:37.555973+00:00"
       }
     ],
     "B0DH68X2PX?ref_=cpl_dp&th=1_ama": [
@@ -12065,6 +12881,12 @@
         "buybox_seller": "Loja FTW",
         "buybox_price": 69.99,
         "timestamp": "2026-05-05T16:41:56.479637+00:00"
+      },
+      {
+        "price": 69.99,
+        "buybox_seller": "Loja FTW",
+        "buybox_price": 69.99,
+        "timestamp": "2026-05-05T17:05:40.183286+00:00"
       }
     ],
     "ref=sr_1_4?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": [
@@ -12121,6 +12943,12 @@
         "buybox_seller": "the suplementos",
         "buybox_price": 46.45,
         "timestamp": "2026-05-05T16:42:08.451479+00:00"
+      },
+      {
+        "price": 46.45,
+        "buybox_seller": "the suplementos",
+        "buybox_price": 46.45,
+        "timestamp": "2026-05-05T17:05:52.380689+00:00"
       }
     ],
     "ref=sr_1_8?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": [
@@ -12177,6 +13005,12 @@
         "buybox_seller": "SAUDEVITAE",
         "buybox_price": 22.9,
         "timestamp": "2026-05-05T16:42:10.329632+00:00"
+      },
+      {
+        "price": 22.9,
+        "buybox_seller": "SAUDEVITAE",
+        "buybox_price": 22.9,
+        "timestamp": "2026-05-05T17:05:54.937338+00:00"
       }
     ],
     "ref=sr_1_7?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": [
@@ -12233,6 +13067,12 @@
         "buybox_seller": null,
         "buybox_price": 73.05,
         "timestamp": "2026-05-05T16:42:13.278491+00:00"
+      },
+      {
+        "price": 73.05,
+        "buybox_seller": null,
+        "buybox_price": 73.05,
+        "timestamp": "2026-05-05T17:05:57.180661+00:00"
       }
     ],
     "MLB37121958?pdp_filters=item_id:MLB39942_mer": [
@@ -12289,6 +13129,12 @@
         "buybox_seller": "HARDEXTREME",
         "buybox_price": 44,
         "timestamp": "2026-05-05T16:42:17.586876+00:00"
+      },
+      {
+        "price": 44,
+        "buybox_seller": "BODY.BUILDERS3",
+        "buybox_price": 44,
+        "timestamp": "2026-05-05T17:06:00.979005+00:00"
       }
     ],
     "MLB34067095#polycard_client=search-deskt_mer": [
@@ -12345,6 +13191,12 @@
         "buybox_seller": "STRONGNOWSUPLEMENTOS",
         "buybox_price": 36.99,
         "timestamp": "2026-05-05T16:42:21.345114+00:00"
+      },
+      {
+        "price": 36.99,
+        "buybox_seller": "STRONGNOWSUPLEMENTOS",
+        "buybox_price": 36.99,
+        "timestamp": "2026-05-05T17:06:05.127666+00:00"
       }
     ],
     "MLB6098706#polycard_client=search-deskto_mer": [
@@ -12401,6 +13253,12 @@
         "buybox_seller": "FITH0USE",
         "buybox_price": 29.9,
         "timestamp": "2026-05-05T16:42:24.932417+00:00"
+      },
+      {
+        "price": 29.9,
+        "buybox_seller": "FITH0USE",
+        "buybox_price": 29.9,
+        "timestamp": "2026-05-05T17:06:08.356402+00:00"
       }
     ],
     "?seller_id=magazineluiza_mag": [],
@@ -12473,6 +13331,12 @@
         "buybox_seller": "the suplementos",
         "buybox_price": 47.0,
         "timestamp": "2026-05-05T16:42:57.014672+00:00"
+      },
+      {
+        "price": 47.9,
+        "buybox_seller": "the suplementos",
+        "buybox_price": 47.9,
+        "timestamp": "2026-05-05T17:06:46.870918+00:00"
       }
     ],
     "MLB27464150#polycard_client=search-deskt_mer": [
@@ -12529,6 +13393,12 @@
         "buybox_seller": "FITH0USE",
         "buybox_price": 48.99,
         "timestamp": "2026-05-05T16:43:00.657172+00:00"
+      },
+      {
+        "price": 48.99,
+        "buybox_seller": "FITH0USE",
+        "buybox_price": 48.99,
+        "timestamp": "2026-05-05T17:06:49.850143+00:00"
       }
     ],
     "MLB19548670#polycard_client=search_best-_mer": [
@@ -12585,6 +13455,12 @@
         "buybox_seller": "LOJARAPIDEXSUPLEMENTOS",
         "buybox_price": 16.89,
         "timestamp": "2026-05-05T16:43:04.141257+00:00"
+      },
+      {
+        "price": 16.89,
+        "buybox_seller": "LOJARAPIDEXSUPLEMENTOS",
+        "buybox_price": 16.89,
+        "timestamp": "2026-05-05T17:06:52.975815+00:00"
       }
     ],
     "MLB19548598#polycard_client=search_best-_mer": [
@@ -12641,6 +13517,12 @@
         "buybox_seller": "FITH0USE",
         "buybox_price": 45.49,
         "timestamp": "2026-05-05T16:43:06.568648+00:00"
+      },
+      {
+        "price": 45.49,
+        "buybox_seller": "FITH0USE",
+        "buybox_price": 45.49,
+        "timestamp": "2026-05-05T17:06:55.297987+00:00"
       }
     ],
     "MLB51520154?pdp_filters=item_id:MLB55074_mer": [
@@ -12697,6 +13579,12 @@
         "buybox_seller": "FASTSUPLEMENTOS",
         "buybox_price": 126,
         "timestamp": "2026-05-05T16:43:10.321905+00:00"
+      },
+      {
+        "price": 114.99,
+        "buybox_seller": "GVCO",
+        "buybox_price": 114.99,
+        "timestamp": "2026-05-05T17:06:58.614776+00:00"
       }
     ],
     "?seller_id=invictusnutrishop_mag": [],
@@ -12766,6 +13654,12 @@
         "buybox_seller": null,
         "buybox_price": 145.0,
         "timestamp": "2026-05-05T16:43:15.492697+00:00"
+      },
+      {
+        "price": 145.0,
+        "buybox_seller": null,
+        "buybox_price": 145.0,
+        "timestamp": "2026-05-05T17:07:04.030186+00:00"
       }
     ],
     "?seller_id=renovasaudenutricao_mag": [],
@@ -12832,6 +13726,12 @@
         "buybox_seller": "Supletotal Suplementos",
         "buybox_price": 154.9,
         "timestamp": "2026-05-05T16:43:33.897111+00:00"
+      },
+      {
+        "price": 147.15,
+        "buybox_seller": "Supletotal Suplementos",
+        "buybox_price": 147.15,
+        "timestamp": "2026-05-05T17:07:20.967007+00:00"
       }
     ],
     "B0FRHD2G3R?ref_=ast_sto_dp&th=1_ama": [
@@ -12894,6 +13794,12 @@
         "buybox_seller": "DON PTK",
         "buybox_price": 100.0,
         "timestamp": "2026-05-05T16:43:36.117750+00:00"
+      },
+      {
+        "price": 100.0,
+        "buybox_seller": "DON PTK",
+        "buybox_price": 100.0,
+        "timestamp": "2026-05-05T17:07:23.554754+00:00"
       }
     ],
     "B0DW1K6HP2?ref_=ast_sto_dp&th=1_ama": [
@@ -12956,6 +13862,12 @@
         "buybox_seller": "Target oficial",
         "buybox_price": 132.99,
         "timestamp": "2026-05-05T16:43:39.144394+00:00"
+      },
+      {
+        "price": 132.99,
+        "buybox_seller": "Target oficial",
+        "buybox_price": 132.99,
+        "timestamp": "2026-05-05T17:07:26.675257+00:00"
       }
     ],
     "B0CXCD2X2C?ref_=ast_sto_dp&th=1_ama": [
@@ -13018,6 +13930,12 @@
         "buybox_seller": "the suplementos",
         "buybox_price": 108.0,
         "timestamp": "2026-05-05T16:43:41.670911+00:00"
+      },
+      {
+        "price": 108.0,
+        "buybox_seller": "the suplementos",
+        "buybox_price": 108.0,
+        "timestamp": "2026-05-05T17:07:29.308036+00:00"
       }
     ],
     "MLB43949410#polycard_client=search-deskt_mer": [
@@ -13074,6 +13992,12 @@
         "buybox_seller": "HARDEXTREME",
         "buybox_price": 99.75,
         "timestamp": "2026-05-05T16:43:49.127332+00:00"
+      },
+      {
+        "price": 99.75,
+        "buybox_seller": "HARDEXTREME",
+        "buybox_price": 99.75,
+        "timestamp": "2026-05-05T17:07:35.659278+00:00"
       }
     ],
     "MLB39458813?pdp_filters=item_id%3AMLB415_mer": [
@@ -13130,6 +14054,12 @@
         "buybox_seller": "SUPLEFAST SUPLEMENTOS",
         "buybox_price": 135.85,
         "timestamp": "2026-05-05T16:43:53.406512+00:00"
+      },
+      {
+        "price": 135.85,
+        "buybox_seller": "SUPLEFAST SUPLEMENTOS",
+        "buybox_price": 135.85,
+        "timestamp": "2026-05-05T17:07:38.519722+00:00"
       }
     ],
     "MLB46190171?pdp_filters=item_id%3AMLB531_mer": [
@@ -13186,6 +14116,12 @@
         "buybox_seller": "R1CHALAO",
         "buybox_price": 90,
         "timestamp": "2026-05-05T16:43:56.527110+00:00"
+      },
+      {
+        "price": 90,
+        "buybox_seller": "R1CHALAO",
+        "buybox_price": 90,
+        "timestamp": "2026-05-05T17:07:41.917769+00:00"
       }
     ],
     "MLB53358693?pdp_filters=seller_id%3A2334_mer": [
@@ -13242,6 +14178,12 @@
         "buybox_seller": "SHOPSUPLEMENTOS7",
         "buybox_price": 149.98,
         "timestamp": "2026-05-05T16:44:00.583517+00:00"
+      },
+      {
+        "price": 149.98,
+        "buybox_seller": "SHOPSUPLEMENTOS7",
+        "buybox_price": 149.98,
+        "timestamp": "2026-05-05T17:07:45.221133+00:00"
       }
     ],
     "MLB51450769?pdp_filters=item_id:MLB55072_mer": [
@@ -13298,6 +14240,12 @@
         "buybox_seller": "SHPSUPLEMENTOS",
         "buybox_price": 126.7,
         "timestamp": "2026-05-05T16:44:04.983357+00:00"
+      },
+      {
+        "price": 126.7,
+        "buybox_seller": "SHPSUPLEMENTOS",
+        "buybox_price": 126.7,
+        "timestamp": "2026-05-05T17:07:48.147857+00:00"
       }
     ],
     "MLB51520931#polycard_client=search-deskt_mer": [
@@ -13354,6 +14302,12 @@
         "buybox_seller": "SHPSUPLEMENTOS",
         "buybox_price": 126.7,
         "timestamp": "2026-05-05T16:44:08.534384+00:00"
+      },
+      {
+        "price": 126.7,
+        "buybox_seller": "SHPSUPLEMENTOS",
+        "buybox_price": 126.7,
+        "timestamp": "2026-05-05T17:07:50.923529+00:00"
       }
     ],
     "?seller_id=farmagerty_mag": [],
@@ -13423,6 +14377,12 @@
         "buybox_seller": null,
         "buybox_price": 145.0,
         "timestamp": "2026-05-05T16:44:22.641209+00:00"
+      },
+      {
+        "price": 145.0,
+        "buybox_seller": null,
+        "buybox_price": 145.0,
+        "timestamp": "2026-05-05T17:08:05.305614+00:00"
       }
     ],
     "creatina-em-goma-sabor-laranja_sit": [
@@ -13491,6 +14451,12 @@
         "buybox_seller": null,
         "buybox_price": 145.0,
         "timestamp": "2026-05-05T16:44:25.191466+00:00"
+      },
+      {
+        "price": 145.0,
+        "buybox_seller": null,
+        "buybox_price": 145.0,
+        "timestamp": "2026-05-05T17:08:06.886952+00:00"
       }
     ],
     "creatina-frutas-vermelhas_sit": [
@@ -13559,6 +14525,12 @@
         "buybox_seller": "Guday",
         "buybox_price": 179.9,
         "timestamp": "2026-05-05T16:44:28.516530+00:00"
+      },
+      {
+        "price": 179.9,
+        "buybox_seller": "Guday",
+        "buybox_price": 179.9,
+        "timestamp": "2026-05-05T17:08:09.558683+00:00"
       }
     ],
     "creatina-limao_sit": [
@@ -13627,6 +14599,12 @@
         "buybox_seller": "Guday",
         "buybox_price": 179.9,
         "timestamp": "2026-05-05T16:44:30.870081+00:00"
+      },
+      {
+        "price": 179.9,
+        "buybox_seller": "Guday",
+        "buybox_price": 179.9,
+        "timestamp": "2026-05-05T17:08:12.728382+00:00"
       }
     ],
     "creatina-oakberry-sabor-acai_sit": [
@@ -13695,6 +14673,12 @@
         "buybox_seller": "Guday",
         "buybox_price": 179.9,
         "timestamp": "2026-05-05T16:44:32.453085+00:00"
+      },
+      {
+        "price": 179.9,
+        "buybox_seller": "Guday",
+        "buybox_price": 179.9,
+        "timestamp": "2026-05-05T17:08:15.835844+00:00"
       }
     ],
     "creatina_sit": [
@@ -13763,6 +14747,12 @@
         "buybox_seller": "Guday",
         "buybox_price": 179.9,
         "timestamp": "2026-05-05T16:44:35.011210+00:00"
+      },
+      {
+        "price": 179.9,
+        "buybox_seller": "Guday",
+        "buybox_price": 179.9,
+        "timestamp": "2026-05-05T17:08:18.359327+00:00"
       }
     ],
     "MLB18513937#polycard_client=search-deskt_mer": [
@@ -13819,6 +14809,12 @@
         "buybox_seller": "LMSPORTS2023",
         "buybox_price": 37.17,
         "timestamp": "2026-05-05T16:44:45.947535+00:00"
+      },
+      {
+        "price": 37.17,
+        "buybox_seller": "LMSPORTS2023",
+        "buybox_price": 37.17,
+        "timestamp": "2026-05-05T17:08:29.088821+00:00"
       }
     ],
     "MLB44623577#polycard_client=search-deskt_mer": [
@@ -13875,6 +14871,12 @@
         "buybox_seller": "MLSTORE SUPLEMENTOS",
         "buybox_price": 51.3,
         "timestamp": "2026-05-05T16:44:49.656699+00:00"
+      },
+      {
+        "price": 51.3,
+        "buybox_seller": "MLSTORE SUPLEMENTOS",
+        "buybox_price": 51.3,
+        "timestamp": "2026-05-05T17:08:32.013500+00:00"
       }
     ],
     "MLBU3111905275#polycard_client=search-de_mer": [],
@@ -13945,6 +14947,12 @@
         "buybox_seller": null,
         "buybox_price": 39.9,
         "timestamp": "2026-05-05T16:45:01.289124+00:00"
+      },
+      {
+        "price": 39.9,
+        "buybox_seller": null,
+        "buybox_price": 39.9,
+        "timestamp": "2026-05-05T17:08:47.636333+00:00"
       }
     ],
     "MLB18947493?pdp_filters=official_store%3_mer": [
@@ -14001,6 +15009,12 @@
         "buybox_seller": "B2G_SHOP",
         "buybox_price": 46.01,
         "timestamp": "2026-05-05T16:45:16.850815+00:00"
+      },
+      {
+        "price": 46.01,
+        "buybox_seller": "B2G_SHOP",
+        "buybox_price": 46.01,
+        "timestamp": "2026-05-05T17:09:02.420292+00:00"
       }
     ],
     "MLB18991669?product_trigger_id=MLB189474_mer": [
@@ -14057,6 +15071,12 @@
         "buybox_seller": "MLCOFICIAL",
         "buybox_price": 17.11,
         "timestamp": "2026-05-05T16:45:19.829121+00:00"
+      },
+      {
+        "price": 17.11,
+        "buybox_seller": "MLCOFICIAL",
+        "buybox_price": 17.11,
+        "timestamp": "2026-05-05T17:09:06.682585+00:00"
       }
     ],
     "MLB20581716?pdp_filters=official_store%3_mer": [
@@ -14113,6 +15133,12 @@
         "buybox_seller": "LOJAVIDALEGAL",
         "buybox_price": 55.9,
         "timestamp": "2026-05-05T16:45:23.861170+00:00"
+      },
+      {
+        "price": 55.9,
+        "buybox_seller": "LOJAVIDALEGAL",
+        "buybox_price": 55.9,
+        "timestamp": "2026-05-05T17:09:10.618706+00:00"
       }
     ],
     "?ads=patrocinado&seller_id=taurene_mag": [],
@@ -14242,6 +15268,18 @@
         "buybox_seller": "M.A. Varejista SP",
         "buybox_price": 127.0,
         "timestamp": "2026-05-05T16:47:23.010915+00:00"
+      },
+      {
+        "price": 114.44,
+        "buybox_seller": "DUX Human Health",
+        "buybox_price": 114.44,
+        "timestamp": "2026-05-05T17:09:35.898351+00:00"
+      },
+      {
+        "price": 127.0,
+        "buybox_seller": "M.A. Varejista SP",
+        "buybox_price": 127.0,
+        "timestamp": "2026-05-05T17:11:11.769535+00:00"
       }
     ],
     "MLB20205480#polycard_client=search-deskt_mer": [
@@ -14298,6 +15336,12 @@
         "buybox_seller": "PULSAR_STORE",
         "buybox_price": 161.02,
         "timestamp": "2026-05-05T16:45:52.068489+00:00"
+      },
+      {
+        "price": 161.02,
+        "buybox_seller": "PULSAR_STORE",
+        "buybox_price": 161.02,
+        "timestamp": "2026-05-05T17:09:38.675430+00:00"
       }
     ],
     "MLB19550484#polycard_client=search-deskt_mer": [
@@ -14354,6 +15398,12 @@
         "buybox_seller": "LEALUTILIDADESLTDA",
         "buybox_price": 161.76,
         "timestamp": "2026-05-05T16:45:56.373161+00:00"
+      },
+      {
+        "price": 161.76,
+        "buybox_seller": "LEALUTILIDADESLTDA",
+        "buybox_price": 161.76,
+        "timestamp": "2026-05-05T17:09:41.465552+00:00"
       }
     ],
     "?seller_id=duxnutrition_mag": [],
@@ -14411,6 +15461,12 @@
         "buybox_seller": "SOUL SUPLEMENTOS",
         "buybox_price": 100.9,
         "timestamp": "2026-05-05T16:46:08.399518+00:00"
+      },
+      {
+        "price": 100.9,
+        "buybox_seller": "SOUL SUPLEMENTOS",
+        "buybox_price": 100.9,
+        "timestamp": "2026-05-05T17:09:54.212608+00:00"
       }
     ],
     "ref=sr_1_5?crid=7CW2788N28M6&dib=eyJ2Ijo_ama": [
@@ -14479,6 +15535,12 @@
         "buybox_seller": null,
         "buybox_price": 138.46,
         "timestamp": "2026-05-05T16:46:12.178344+00:00"
+      },
+      {
+        "price": 138.46,
+        "buybox_seller": null,
+        "buybox_price": 138.46,
+        "timestamp": "2026-05-05T17:10:00.303325+00:00"
       }
     ],
     "MLB19538721#polycard_client=search-deskt_mer": [
@@ -14535,6 +15597,12 @@
         "buybox_seller": "GDCGAFHBE61154",
         "buybox_price": 129,
         "timestamp": "2026-05-05T16:46:15.884738+00:00"
+      },
+      {
+        "price": 129,
+        "buybox_seller": "GDCGAFHBE61154",
+        "buybox_price": 129,
+        "timestamp": "2026-05-05T17:10:03.195297+00:00"
       }
     ],
     "?seller_id=shopmundofitness_mag": [],
@@ -14604,6 +15672,12 @@
         "buybox_seller": null,
         "buybox_price": 257.0,
         "timestamp": "2026-05-05T16:46:20.373653+00:00"
+      },
+      {
+        "price": 257.0,
+        "buybox_seller": null,
+        "buybox_price": 257.0,
+        "timestamp": "2026-05-05T17:10:07.125676+00:00"
       }
     ],
     "ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [
@@ -14666,6 +15740,12 @@
         "buybox_seller": "Nabi Saúde e Fitness",
         "buybox_price": 94.9,
         "timestamp": "2026-05-05T16:46:22.056161+00:00"
+      },
+      {
+        "price": 94.9,
+        "buybox_seller": "Nabi Saúde e Fitness",
+        "buybox_price": 94.9,
+        "timestamp": "2026-05-05T17:10:09.985186+00:00"
       }
     ],
     "ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%_ama": [
@@ -14728,6 +15808,12 @@
         "buybox_seller": "3imix",
         "buybox_price": 99.99,
         "timestamp": "2026-05-05T16:46:27.247294+00:00"
+      },
+      {
+        "price": 99.99,
+        "buybox_seller": "3imix",
+        "buybox_price": 99.99,
+        "timestamp": "2026-05-05T17:10:17.381469+00:00"
       }
     ],
     "MLB55102550?pdp_filters=item_id:MLB30634_mer": [
@@ -14784,6 +15870,12 @@
         "buybox_seller": "LOJASABORNUTRI",
         "buybox_price": 78.9,
         "timestamp": "2026-05-05T16:46:30.715577+00:00"
+      },
+      {
+        "price": 78.9,
+        "buybox_seller": "LOJASABORNUTRI",
+        "buybox_price": 78.9,
+        "timestamp": "2026-05-05T17:10:21.369462+00:00"
       }
     ],
     "MLB18726360#polycard_client=search-deskt_mer": [
@@ -14840,6 +15932,12 @@
         "buybox_seller": "NICHE_HOUSE",
         "buybox_price": 77.75,
         "timestamp": "2026-05-05T16:46:34.367745+00:00"
+      },
+      {
+        "price": 77.75,
+        "buybox_seller": "NICHE_HOUSE",
+        "buybox_price": 77.75,
+        "timestamp": "2026-05-05T17:10:24.546362+00:00"
       }
     ],
     "MLB51331591#polycard_client=search-deskt_mer": [
@@ -14896,6 +15994,12 @@
         "buybox_seller": "VIDAFITSTORE",
         "buybox_price": 91,
         "timestamp": "2026-05-05T16:46:38.614599+00:00"
+      },
+      {
+        "price": 91,
+        "buybox_seller": "VIDAFITSTORE",
+        "buybox_price": 91,
+        "timestamp": "2026-05-05T17:10:27.817053+00:00"
       }
     ],
     "?seller_id=suplementoseacessorios_mag": [],
@@ -15026,6 +16130,18 @@
         "buybox_seller": null,
         "buybox_price": 103.0,
         "timestamp": "2026-05-05T16:47:58.000376+00:00"
+      },
+      {
+        "price": 74.9,
+        "buybox_seller": "ABE America",
+        "buybox_price": 74.9,
+        "timestamp": "2026-05-05T17:10:35.486310+00:00"
+      },
+      {
+        "price": 103.0,
+        "buybox_seller": null,
+        "buybox_price": 103.0,
+        "timestamp": "2026-05-05T17:11:44.327208+00:00"
       }
     ],
     "MLB39012258?pdp_filters=item_id:MLB38052_mer": [
@@ -15082,6 +16198,12 @@
         "buybox_seller": "ABEAMERICA",
         "buybox_price": 130.95,
         "timestamp": "2026-05-05T16:46:52.112593+00:00"
+      },
+      {
+        "price": 130.95,
+        "buybox_seller": "ABEAMERICA",
+        "buybox_price": 130.95,
+        "timestamp": "2026-05-05T17:10:38.140861+00:00"
       }
     ],
     "MLB19550918#polycard_client=search-deskt_mer": [
@@ -15138,6 +16260,12 @@
         "buybox_seller": "COMMODUSUPPLEMENT",
         "buybox_price": 191,
         "timestamp": "2026-05-05T16:46:57.787623+00:00"
+      },
+      {
+        "price": 191,
+        "buybox_seller": "COMMODUSUPPLEMENT",
+        "buybox_price": 191,
+        "timestamp": "2026-05-05T17:10:44.945006+00:00"
       }
     ],
     "MLB18947494#polycard_client=search-deskt_mer": [
@@ -15194,6 +16322,12 @@
         "buybox_seller": "LOJAJOBIM",
         "buybox_price": 134.66,
         "timestamp": "2026-05-05T16:47:10.324111+00:00"
+      },
+      {
+        "price": 141.38,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 141.38,
+        "timestamp": "2026-05-05T17:10:57.920568+00:00"
       }
     ],
     "MLB19037834?pdp_filters=item_id:MLB45214_mer": [
@@ -15250,6 +16384,12 @@
         "buybox_seller": "VIATACADISTA",
         "buybox_price": 95.7,
         "timestamp": "2026-05-05T16:47:13.484763+00:00"
+      },
+      {
+        "price": 95.7,
+        "buybox_seller": "VIATACADISTA",
+        "buybox_price": 95.7,
+        "timestamp": "2026-05-05T17:11:01.077146+00:00"
       }
     ],
     "?ads=patrocinado&seller_id=fitpsuplement_mag": [],
@@ -15308,6 +16448,12 @@
         "buybox_seller": "BODY.BUILDERS",
         "buybox_price": 132.89,
         "timestamp": "2026-05-05T16:47:26.524273+00:00"
+      },
+      {
+        "price": 132.89,
+        "buybox_seller": "BODY.BUILDERS",
+        "buybox_price": 132.89,
+        "timestamp": "2026-05-05T17:11:14.538040+00:00"
       }
     ],
     "?seller_id=lriimportadoraedistribuidora_mag": [],
@@ -15367,6 +16513,12 @@
         "buybox_seller": "BODY.BUILDERS",
         "buybox_price": 132,
         "timestamp": "2026-05-05T16:47:37.182513+00:00"
+      },
+      {
+        "price": 132,
+        "buybox_seller": "BODY.BUILDERS",
+        "buybox_price": 132,
+        "timestamp": "2026-05-05T17:11:24.974351+00:00"
       }
     ],
     "ref=sr_1_3_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": [
@@ -15429,6 +16581,12 @@
         "buybox_seller": "RG NATURAL",
         "buybox_price": 275.79,
         "timestamp": "2026-05-05T16:47:43.320588+00:00"
+      },
+      {
+        "price": 275.79,
+        "buybox_seller": "RG NATURAL",
+        "buybox_price": 275.79,
+        "timestamp": "2026-05-05T17:11:31.388268+00:00"
       }
     ],
     "MLB36680560#polycard_client=search-deskt_mer": [
@@ -15485,6 +16643,12 @@
         "buybox_seller": "VITALLITYVITTA",
         "buybox_price": 287.9,
         "timestamp": "2026-05-05T16:47:46.663085+00:00"
+      },
+      {
+        "price": 287.9,
+        "buybox_seller": "VITALLITYVITTA",
+        "buybox_price": 287.9,
+        "timestamp": "2026-05-05T17:11:35.292416+00:00"
       }
     ],
     "crealift-creatina-mono-hidratada-creapur_sit": [
@@ -15553,6 +16717,12 @@
         "buybox_seller": null,
         "buybox_price": 320.0,
         "timestamp": "2026-05-05T16:47:50.628594+00:00"
+      },
+      {
+        "price": 320.0,
+        "buybox_seller": null,
+        "buybox_price": 320.0,
+        "timestamp": "2026-05-05T17:11:39.212937+00:00"
       }
     ],
     "MLB19549586#polycard_client=search-deskt_mer": [
@@ -15609,6 +16779,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 188.18,
         "timestamp": "2026-05-05T16:48:00.631370+00:00"
+      },
+      {
+        "price": 188.18,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 188.18,
+        "timestamp": "2026-05-05T17:11:46.933796+00:00"
       }
     ],
     "MLB61579770#polycard_client=search-deskt_mer": [
@@ -15665,6 +16841,12 @@
         "buybox_seller": "Mercado Livre Brasil",
         "buybox_price": 90.74,
         "timestamp": "2026-05-05T16:48:03.656081+00:00"
+      },
+      {
+        "price": 90.74,
+        "buybox_seller": "Mercado Livre Brasil",
+        "buybox_price": 90.74,
+        "timestamp": "2026-05-05T17:11:49.623149+00:00"
       }
     ],
     "creatina-pure%C2%AE-70316_sit": [],
@@ -15731,6 +16913,12 @@
         "buybox_seller": "SAUDEVITAE",
         "buybox_price": 86.42,
         "timestamp": "2026-05-05T16:48:14.213079+00:00"
+      },
+      {
+        "price": 86.42,
+        "buybox_seller": "SAUDEVITAE",
+        "buybox_price": 86.42,
+        "timestamp": "2026-05-05T17:12:03.549539+00:00"
       }
     ],
     "MLB27477419#polycard_client=search-deskt_mer": [
@@ -15787,6 +16975,12 @@
         "buybox_seller": "FITH0USE",
         "buybox_price": 94.89,
         "timestamp": "2026-05-05T16:48:17.886657+00:00"
+      },
+      {
+        "price": 94.89,
+        "buybox_seller": "FITH0USE",
+        "buybox_price": 94.89,
+        "timestamp": "2026-05-05T17:12:06.792168+00:00"
       }
     ],
     "p?idsku=186_sit": [],
@@ -15851,6 +17045,12 @@
         "buybox_seller": "PERFECTLINE SUPLEMENTOS",
         "buybox_price": 117.45,
         "timestamp": "2026-05-05T16:48:35.285696+00:00"
+      },
+      {
+        "price": 130.5,
+        "buybox_seller": "PERFECTLINE SUPLEMENTOS",
+        "buybox_price": 130.5,
+        "timestamp": "2026-05-05T17:12:23.066940+00:00"
       }
     ],
     "ref=sr_1_6?dib=eyJ2IjoiMSJ9.i0v_5o5j9VsB_ama": [
@@ -15913,6 +17113,12 @@
         "buybox_seller": "MANGOFIT",
         "buybox_price": 130.5,
         "timestamp": "2026-05-05T16:48:37.615615+00:00"
+      },
+      {
+        "price": 130.5,
+        "buybox_seller": "MANGOFIT",
+        "buybox_price": 130.5,
+        "timestamp": "2026-05-05T17:12:25.381564+00:00"
       }
     ],
     "MLBU3083679264#polycard_client=search-de_mer": [],
@@ -15976,13 +17182,19 @@
         "buybox_seller": "Loja FTW",
         "buybox_price": 29.99,
         "timestamp": "2026-05-05T16:48:49.418500+00:00"
+      },
+      {
+        "price": 29.99,
+        "buybox_seller": null,
+        "buybox_price": 29.99,
+        "timestamp": "2026-05-05T17:12:35.481816+00:00"
       }
     ],
     "creatina-250g-creapure-growth-supplement_sit": [],
     "creatina-100g-creapure-growth-supplement_sit": [],
     "creatina-creapure-120comp-growth-supplem_sit": []
   },
-  "last_updated": "2026-05-05T16:48:56.783734+00:00",
+  "last_updated": "2026-05-05T17:12:44.239362+00:00",
   "total_products": 303,
-  "valid_readings": 206
+  "valid_readings": 202
 }
