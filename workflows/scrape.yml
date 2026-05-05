@@ -1,0 +1,40 @@
+name: Price Scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        env:
+          MELI_TOKEN:         ${{ secrets.MELI_TOKEN }}
+          MELI_REFRESH_TOKEN: ${{ secrets.MELI_REFRESH_TOKEN }}
+          MELI_CLIENT_ID:     ${{ secrets.MELI_CLIENT_ID }}
+          MELI_CLIENT_SECRET: ${{ secrets.MELI_CLIENT_SECRET }}
+          SCRAPERAPI_KEY:     ${{ secrets.SCRAPERAPI_KEY }}
+        run: python scraper/scraper.py
+
+      - name: Commit data
+        run: |
+          git config user.name  "price-bot"
+          git config user.email "bot@sellersflow.com"
+          git add data/prices.json
+          git diff --staged --quiet || git commit -m "data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
