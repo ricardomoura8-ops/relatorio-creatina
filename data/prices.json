@@ -9,7 +9,7 @@
       "group": "Dark Lab",
       "price": 66.4,
       "error": false,
-      "timestamp": "2026-05-04T21:45:17.301138+00:00"
+      "timestamp": "2026-05-05T06:29:22.562784+00:00"
     },
     "B07LCTTF8V_ama": {
       "id": "B07LCTTF8V_ama",
@@ -20,7 +20,7 @@
       "group": "Vitafor",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:21.765309+00:00"
+      "timestamp": "2026-05-05T06:29:26.547272+00:00"
     },
     "B0BZ14J63F_ama": {
       "id": "B0BZ14J63F_ama",
@@ -31,7 +31,7 @@
       "group": "Nutrify",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:24.168859+00:00"
+      "timestamp": "2026-05-05T06:29:30.951614+00:00"
     },
     "B0BHL6FKYY_ama": {
       "id": "B0BHL6FKYY_ama",
@@ -42,7 +42,7 @@
       "group": "DUX",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:27.848760+00:00"
+      "timestamp": "2026-05-05T06:29:35.603092+00:00"
     },
     "B07L5WFHXW?th=1_ama": {
       "id": "B07L5WFHXW?th=1_ama",
@@ -53,7 +53,7 @@
       "group": "Integralmedica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:32.786470+00:00"
+      "timestamp": "2026-05-05T06:29:39.148324+00:00"
     },
     "ref=sr_1_5?dib=eyJ2IjoiMSJ9.IEM2MMbhmQjR_ama": {
       "id": "ref=sr_1_5?dib=eyJ2IjoiMSJ9.IEM2MMbhmQjR_ama",
@@ -64,7 +64,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:37.431953+00:00"
+      "timestamp": "2026-05-05T06:29:42.084160+00:00"
     },
     "B07NF6ZZR8?th=1_ama": {
       "id": "B07NF6ZZR8?th=1_ama",
@@ -75,7 +75,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:39.996448+00:00"
+      "timestamp": "2026-05-05T06:29:46.901087+00:00"
     },
     "ref=sr_1_2_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": {
       "id": "ref=sr_1_2_sspa?__mk_pt_BR=%C3%85M%C3%85_ama",
@@ -84,32 +84,31 @@
       "title": "Creatine 100% Pure (300g), Atlhetica Nutrition",
       "channel": "amazon",
       "group": "Atlhetica",
-      "price": 47.72,
+      "price": 52.55,
       "error": false,
-      "timestamp": "2026-05-04T21:59:27.003987+00:00"
+      "timestamp": "2026-05-05T06:44:30.544200+00:00"
     },
     "135-8141036-6002728?pd_rd_w=1oHmf&conten_ama": {
       "id": "135-8141036-6002728?pd_rd_w=1oHmf&conten_ama",
       "url": "https://www.amazon.com.br/Creatina-Monohidratada-Dark-Lab-Pureza/dp/B0CF71CJ2L/ref=pd_bxgy_thbs_d_sccl_1/135-8141036-6002728?pd_rd_w=1oHmf&content-id=amzn1.sym.ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_p=ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_r=DXA5CT4ESA8BVXWC7XBR&pd_rd_wg=7kVlr&pd_rd_r=0f9d0d4e-e580-4c17-94c2-25a6829026ed&pd_rd_i=B0CF71CJ2L&th=1",
       "label": "Dark Lab Creatina 500g Monohidratada",
-      "title": "Creatina Pura 500g Dark Lab Monohidratada 100% de Pureza, Sem Sabor",
+      "title": "Dark Lab Creatina 500g Monohidratada",
       "channel": "amazon",
       "group": "Dark Lab",
-      "price": 42.65,
-      "error": false,
-      "timestamp": "2026-05-04T21:45:52.370066+00:00"
+      "price": null,
+      "error": true,
+      "timestamp": "2026-05-05T06:30:00.629135+00:00"
     },
     "MLB25929487?pdp_filters=item_id:MLB48121_mer": {
       "id": "MLB25929487?pdp_filters=item_id:MLB48121_mer",
-      "label": "Dark Lab Creatina 1kg Monohidratada",
-      "group": "Dark Lab",
-      "channel": "Mercado Livre",
-      "size": "1kg",
-      "type": "Monohidratada",
-      "model": "Normal",
       "url": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-1kg-dark-lab-unidade-sem-sabor/p/MLB25929487?pdp_filters=item_id:MLB4812130742#is_advertising=true&searchVariation=MLB25929487&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=0bc43530-85af-4595-8e29-385a8a05a36d&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=MmUwODZmNjItOGM1My00MjQ5LTg4NDYtOTZlZDYxYTU2NGI0",
+      "label": "Dark Lab Creatina 1kg Monohidratada",
+      "title": "Dark Lab Creatina 1kg Monohidratada",
+      "channel": "mercadolivre",
+      "group": "Dark Lab",
+      "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:54.856224+00:00"
+      "timestamp": "2026-05-05T06:30:05.074536+00:00"
     },
     "MLB19506693?product_trigger_id=MLB259294_mer": {
       "id": "MLB19506693?product_trigger_id=MLB259294_mer",
@@ -120,7 +119,7 @@
       "group": "Dark Lab",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:45:59.204991+00:00"
+      "timestamp": "2026-05-05T06:30:07.700774+00:00"
     },
     "MLB19506691?product_trigger_id=MLB195066_mer": {
       "id": "MLB19506691?product_trigger_id=MLB195066_mer",
@@ -131,7 +130,7 @@
       "group": "Dark Lab",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:46:02.165991+00:00"
+      "timestamp": "2026-05-05T06:30:10.625860+00:00"
     },
     "MLB26796581?product_trigger_id=MLB195066_mer": {
       "id": "MLB26796581?product_trigger_id=MLB195066_mer",
@@ -142,7 +141,7 @@
       "group": "Dark Lab",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:46:05.167655+00:00"
+      "timestamp": "2026-05-05T06:30:13.709023+00:00"
     },
     "MLB39089853?product_trigger_id=MLB267965_mer": {
       "id": "MLB39089853?product_trigger_id=MLB267965_mer",
@@ -153,7 +152,7 @@
       "group": "Dark Lab",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:46:08.025388+00:00"
+      "timestamp": "2026-05-05T06:30:17.006691+00:00"
     },
     "?seller_id=trevizosuplementos_mag": {
       "id": "?seller_id=trevizosuplementos_mag",
@@ -165,29 +164,31 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-150g-monohidratada-dark-lab/p/ea62c54h04/sa/sacr/?seller_id=trevizosuplementos",
       "error": true,
-      "timestamp": "2026-05-04T22:04:59.283507+00:00"
+      "timestamp": "2026-05-05T06:50:24.567086+00:00"
     },
     "creatina-refil-500g-monohidratada-dark-l_sit": {
       "id": "creatina-refil-500g-monohidratada-dark-l_sit",
-      "url": "https://darklabsuplementos.com.br/products/creatina-refil-500g-monohidratada-dark-lab?_gl=1*1aam9lz*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMImpzx8qrfkwMVZx9ECB2AsynBEAAYASAAEgKpgfD_BwE&gbraid=0AAAAApDtcy6GOYh6oxrUpKKoUCqLqHA5l",
       "label": "Dark Lab Creatina 500g Monohidratada",
-      "title": "Creatina 500g Dark Lab | Aprovado pela Anvisa",
-      "channel": "site_proprio",
       "group": "Dark Lab",
-      "price": 44.9,
-      "error": false,
-      "timestamp": "2026-05-04T21:46:29.876208+00:00"
+      "channel": "Site Oficial",
+      "size": "500g",
+      "type": "Monohidratada",
+      "model": "Normal",
+      "url": "https://darklabsuplementos.com.br/products/creatina-refil-500g-monohidratada-dark-lab?_gl=1*1aam9lz*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMImpzx8qrfkwMVZx9ECB2AsynBEAAYASAAEgKpgfD_BwE&gbraid=0AAAAApDtcy6GOYh6oxrUpKKoUCqLqHA5l",
+      "error": true,
+      "timestamp": "2026-05-05T06:30:50.795318+00:00"
     },
     "creatina-300g-monohidratada-dark-lab_sit": {
       "id": "creatina-300g-monohidratada-dark-lab_sit",
-      "url": "https://darklabsuplementos.com.br/products/creatina-300g-monohidratada-dark-lab",
       "label": "Dark Lab Creatina 300g Monohidratada",
-      "title": "Creatina 300g Dark Lab | Mais Força e Resistência",
-      "channel": "site_proprio",
       "group": "Dark Lab",
-      "price": 34.9,
-      "error": false,
-      "timestamp": "2026-05-04T21:46:34.033734+00:00"
+      "channel": "Site Oficial",
+      "size": "300g",
+      "type": "Monohidratada",
+      "model": "Normal",
+      "url": "https://darklabsuplementos.com.br/products/creatina-300g-monohidratada-dark-lab",
+      "error": true,
+      "timestamp": "2026-05-05T06:31:03.001093+00:00"
     },
     "creatina-refil-1kg-monohidratada-dark-la_sit": {
       "id": "creatina-refil-1kg-monohidratada-dark-la_sit",
@@ -198,7 +199,7 @@
       "group": "Dark Lab",
       "price": 69.9,
       "error": false,
-      "timestamp": "2026-05-04T21:46:37.236355+00:00"
+      "timestamp": "2026-05-05T06:31:10.957830+00:00"
     },
     "creatina-refil-600g-monohidratada-dark-l_sit": {
       "id": "creatina-refil-600g-monohidratada-dark-l_sit",
@@ -209,7 +210,7 @@
       "group": "Outros",
       "price": 59.9,
       "error": false,
-      "timestamp": "2026-05-04T21:46:39.688429+00:00"
+      "timestamp": "2026-05-05T06:31:14.327356+00:00"
     },
     "creatina-150g-monohidratada-100-pura-dar_sit": {
       "id": "creatina-150g-monohidratada-100-pura-dar_sit",
@@ -220,7 +221,7 @@
       "group": "Dark Lab",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:46:44.475196+00:00"
+      "timestamp": "2026-05-05T06:31:18.367108+00:00"
     },
     "ref=ast_sto_dp_puis?th=1_ama": {
       "id": "ref=ast_sto_dp_puis?th=1_ama",
@@ -231,7 +232,7 @@
       "group": "Integralmedica",
       "price": 29.8,
       "error": false,
-      "timestamp": "2026-05-04T22:04:37.675212+00:00"
+      "timestamp": "2026-05-05T06:50:01.735225+00:00"
     },
     "MLB45571800?pdp_filters=item_id%3AMLB395_mer": {
       "id": "MLB45571800?pdp_filters=item_id%3AMLB395_mer",
@@ -242,7 +243,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:46:54.041871+00:00"
+      "timestamp": "2026-05-05T06:31:28.946022+00:00"
     },
     "MLB22384316?pdp_filters=item_id%3AMLB460_mer": {
       "id": "MLB22384316?pdp_filters=item_id%3AMLB460_mer",
@@ -253,7 +254,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:46:56.256814+00:00"
+      "timestamp": "2026-05-05T06:31:32.954921+00:00"
     },
     "ref=sr_1_4_sspa?crid=3II34NPG1HI54&dib=e_ama": {
       "id": "ref=sr_1_4_sspa?crid=3II34NPG1HI54&dib=e_ama",
@@ -264,7 +265,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:01.301469+00:00"
+      "timestamp": "2026-05-05T06:31:36.382054+00:00"
     },
     "135-8141036-6002728?pd_rd_w=eaXbT&conten_ama": {
       "id": "135-8141036-6002728?pd_rd_w=eaXbT&conten_ama",
@@ -275,7 +276,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:05.815954+00:00"
+      "timestamp": "2026-05-05T06:31:40.721126+00:00"
     },
     "MLB22463592?pdp_filters=item_id%3AMLB289_mer": {
       "id": "MLB22463592?pdp_filters=item_id%3AMLB289_mer",
@@ -286,7 +287,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:08.815723+00:00"
+      "timestamp": "2026-05-05T06:31:45.550789+00:00"
     },
     "MLB38485063?pdp_filters=item_id%3AMLB382_mer": {
       "id": "MLB38485063?pdp_filters=item_id%3AMLB382_mer",
@@ -297,7 +298,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:12.681591+00:00"
+      "timestamp": "2026-05-05T06:31:47.825176+00:00"
     },
     "MLB21680149?pdp_filters=official_store%3_mer": {
       "id": "MLB21680149?pdp_filters=official_store%3_mer",
@@ -308,7 +309,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:16.624899+00:00"
+      "timestamp": "2026-05-05T06:31:50.964171+00:00"
     },
     "?seller_id=mixemporio_mag": {
       "id": "?seller_id=mixemporio_mag",
@@ -320,7 +321,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-500g-pura-e-sem-aditivos-melhora-desempenho-e-recuperacao-3vs-nutrition/p/efbehfe293/sa/sacr/?seller_id=mixemporio",
       "error": true,
-      "timestamp": "2026-05-04T21:47:20.813583+00:00"
+      "timestamp": "2026-05-05T06:31:53.273464+00:00"
     },
     "?seller_id=soufitnesssas_mag": {
       "id": "?seller_id=soufitnesssas_mag",
@@ -332,18 +333,18 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-300g-100-pura-formula-avancada-com-materia-prima-importada-100-doses-3vs/p/dhj8kgj06e/sa/sacr/?seller_id=soufitnesssas",
       "error": true,
-      "timestamp": "2026-05-04T21:47:25.029075+00:00"
+      "timestamp": "2026-05-05T06:31:56.378834+00:00"
     },
     "_sit": {
       "id": "_sit",
       "url": "https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/",
       "label": "Mais Mu Creatina 200g Monohidratada",
-      "title": "Creatina 100% Pura Mais Mu Performance Sabor Manga - Pote 210g",
+      "title": "Creatina 100% Pura Mais Mu Performance Sabor Melancia - Pote 210g",
       "channel": "site_proprio",
       "group": "Mais Mu",
       "price": 89.99,
       "error": false,
-      "timestamp": "2026-05-04T21:47:39.564236+00:00"
+      "timestamp": "2026-05-05T06:32:10.200882+00:00"
     },
     "creatina-monohidratada-300g-68373_sit": {
       "id": "creatina-monohidratada-300g-68373_sit",
@@ -354,7 +355,7 @@
       "group": "Outros",
       "price": 74.9,
       "error": false,
-      "timestamp": "2026-05-04T21:47:43.751946+00:00"
+      "timestamp": "2026-05-05T06:32:15.313723+00:00"
     },
     "creatina-monohidratada-150g-68090_sit": {
       "id": "creatina-monohidratada-150g-68090_sit",
@@ -365,7 +366,7 @@
       "group": "Outros",
       "price": 49.9,
       "error": false,
-      "timestamp": "2026-05-04T21:47:47.438657+00:00"
+      "timestamp": "2026-05-05T06:32:19.811204+00:00"
     },
     "creatina-monohidratada-500g-pouch-68446_sit": {
       "id": "creatina-monohidratada-500g-pouch-68446_sit",
@@ -376,7 +377,7 @@
       "group": "Outros",
       "price": 129.9,
       "error": false,
-      "timestamp": "2026-05-04T21:47:51.283047+00:00"
+      "timestamp": "2026-05-05T06:32:23.502254+00:00"
     },
     "ref=sr_1_1_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": {
       "id": "ref=sr_1_1_sspa?__mk_pt_BR=%C3%85M%C3%85_ama",
@@ -387,7 +388,7 @@
       "group": "DUX",
       "price": 122.22,
       "error": false,
-      "timestamp": "2026-05-04T22:00:25.833369+00:00"
+      "timestamp": "2026-05-05T06:45:26.600251+00:00"
     },
     "B0D71HD612?ref_=ast_sto_dp_ama": {
       "id": "B0D71HD612?ref_=ast_sto_dp_ama",
@@ -398,7 +399,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:56.796571+00:00"
+      "timestamp": "2026-05-05T06:32:29.997507+00:00"
     },
     "B0BVD4PW4Q?ref_=ast_sto_dp_ama": {
       "id": "B0BVD4PW4Q?ref_=ast_sto_dp_ama",
@@ -409,7 +410,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:47:59.824416+00:00"
+      "timestamp": "2026-05-05T06:32:32.551808+00:00"
     },
     "B0BL579H1Z?ref_=ast_sto_dp_ama": {
       "id": "B0BL579H1Z?ref_=ast_sto_dp_ama",
@@ -420,7 +421,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:01.964548+00:00"
+      "timestamp": "2026-05-05T06:32:37.452726+00:00"
     },
     "MLB32081918?product_trigger_id=MLB187253_mer": {
       "id": "MLB32081918?product_trigger_id=MLB187253_mer",
@@ -431,7 +432,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:04.954752+00:00"
+      "timestamp": "2026-05-05T06:32:40.453926+00:00"
     },
     "MLB19539520?product_trigger_id=MLB187253_mer": {
       "id": "MLB19539520?product_trigger_id=MLB187253_mer",
@@ -442,7 +443,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:09.777570+00:00"
+      "timestamp": "2026-05-05T06:32:44.840640+00:00"
     },
     "MLB38130100?product_trigger_id=MLB195395_mer": {
       "id": "MLB38130100?product_trigger_id=MLB195395_mer",
@@ -453,7 +454,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:13.119084+00:00"
+      "timestamp": "2026-05-05T06:32:47.601324+00:00"
     },
     "MLB18725308?product_trigger_id=MLB269892_mer": {
       "id": "MLB18725308?product_trigger_id=MLB269892_mer",
@@ -464,7 +465,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:16.873253+00:00"
+      "timestamp": "2026-05-05T06:32:51.840241+00:00"
     },
     "MLB26989230?product_trigger_id=MLB187253_mer": {
       "id": "MLB26989230?product_trigger_id=MLB187253_mer",
@@ -475,7 +476,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:19.208066+00:00"
+      "timestamp": "2026-05-05T06:32:56.522767+00:00"
     },
     "MLB18725310?product_trigger_id=MLB269892_mer": {
       "id": "MLB18725310?product_trigger_id=MLB269892_mer",
@@ -486,7 +487,7 @@
       "group": "Soldiers",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:23.404626+00:00"
+      "timestamp": "2026-05-05T06:32:59.305755+00:00"
     },
     "?ads=patrocinado&seller_id=soldiersnutri_mag": {
       "id": "?ads=patrocinado&seller_id=soldiersnutri_mag",
@@ -498,7 +499,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-150g-100-pura-importada-soldiers-nutrition/p/ek31068k9g/sa/sacr/?ads=patrocinado&seller_id=soldiersnutrition",
       "error": true,
-      "timestamp": "2026-05-04T22:05:02.762634+00:00"
+      "timestamp": "2026-05-05T06:50:28.835207+00:00"
     },
     "?seller_id=soldiersnutrition_mag": {
       "id": "?seller_id=soldiersnutrition_mag",
@@ -510,7 +511,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-250g-100-pura-importada-soldiers-nutrition/p/dhj3eh8076/sa/sacr/?seller_id=soldiersnutrition",
       "error": true,
-      "timestamp": "2026-05-04T21:48:37.326480+00:00"
+      "timestamp": "2026-05-05T06:33:15.204372+00:00"
     },
     "MLBU3831666034?pdp_filters=official_stor_mer": {
       "id": "MLBU3831666034?pdp_filters=official_stor_mer",
@@ -521,7 +522,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:42.204132+00:00"
+      "timestamp": "2026-05-05T06:33:19.317443+00:00"
     },
     "MLB47820824?pdp_filters=official_store%3_mer": {
       "id": "MLB47820824?pdp_filters=official_store%3_mer",
@@ -532,7 +533,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:44.589918+00:00"
+      "timestamp": "2026-05-05T06:33:22.801289+00:00"
     },
     "MLB19603205?pdp_filters=official_store%3_mer": {
       "id": "MLB19603205?pdp_filters=official_store%3_mer",
@@ -543,7 +544,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:48:49.524878+00:00"
+      "timestamp": "2026-05-05T06:33:26.602599+00:00"
     },
     "creatina-monohidratada-100-pura-importad_sit": {
       "id": "creatina-monohidratada-100-pura-importad_sit",
@@ -554,7 +555,7 @@
       "group": "Soldiers",
       "price": 5199.993,
       "error": false,
-      "timestamp": "2026-05-04T21:49:12.364322+00:00"
+      "timestamp": "2026-05-05T06:34:03.003462+00:00"
     },
     "creatina-monohidratada-250gr-growth-supp_sit": {
       "id": "creatina-monohidratada-250gr-growth-supp_sit",
@@ -565,7 +566,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:15.080198+00:00"
+      "timestamp": "2026-05-05T06:34:05.973826+00:00"
     },
     "creatina-monohidratada-100gr-growth-supp_sit": {
       "id": "creatina-monohidratada-100gr-growth-supp_sit",
@@ -576,7 +577,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:18.599784+00:00"
+      "timestamp": "2026-05-05T06:34:10.295598+00:00"
     },
     "ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -587,7 +588,7 @@
       "group": "Equaliv",
       "price": 59.9,
       "error": false,
-      "timestamp": "2026-05-04T22:04:35.181934+00:00"
+      "timestamp": "2026-05-05T06:49:57.410890+00:00"
     },
     "MLB6204289#polycard_client=search-deskto_mer": {
       "id": "MLB6204289#polycard_client=search-deskto_mer",
@@ -598,7 +599,7 @@
       "group": "Integralmedica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:35.501855+00:00"
+      "timestamp": "2026-05-05T06:34:29.604211+00:00"
     },
     "MLB6204288?product_trigger_id=MLB6204289_mer": {
       "id": "MLB6204288?product_trigger_id=MLB6204289_mer",
@@ -609,7 +610,7 @@
       "group": "Integralmedica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:38.592696+00:00"
+      "timestamp": "2026-05-05T06:34:31.959647+00:00"
     },
     "MLB18552153?product_trigger_id=MLB620428_mer": {
       "id": "MLB18552153?product_trigger_id=MLB620428_mer",
@@ -620,7 +621,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:41.269154+00:00"
+      "timestamp": "2026-05-05T06:34:36.976963+00:00"
     },
     "MLB19540092#polycard_client=search-deskt_mer": {
       "id": "MLB19540092#polycard_client=search-deskt_mer",
@@ -631,7 +632,7 @@
       "group": "Integralmedica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:44.714675+00:00"
+      "timestamp": "2026-05-05T06:34:40.533265+00:00"
     },
     "MLB19533185?product_trigger_id=MLB195400_mer": {
       "id": "MLB19533185?product_trigger_id=MLB195400_mer",
@@ -642,7 +643,7 @@
       "group": "Integralmedica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:49:49.654530+00:00"
+      "timestamp": "2026-05-05T06:34:44.798814+00:00"
     },
     "?seller_id=integralmedicalojaoficial_mag": {
       "id": "?seller_id=integralmedicalojaoficial_mag",
@@ -654,7 +655,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-integralmedica-150g/p/ajhfkgd7jh/sa/sacr/?seller_id=integralmedicalojaoficial",
       "error": true,
-      "timestamp": "2026-05-04T21:50:04.214996+00:00"
+      "timestamp": "2026-05-05T06:35:00.060440+00:00"
     },
     "p_sit": {
       "id": "p_sit",
@@ -665,18 +666,18 @@
       "group": "Outros",
       "price": 96.0,
       "error": false,
-      "timestamp": "2026-05-04T22:02:52.161616+00:00"
+      "timestamp": "2026-05-05T06:48:10.988778+00:00"
     },
     "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
       "url": "https://www.amazon.com.br/Creatina-100-Monohidratada-10-Sticks/dp/B0DQ2FH72R/ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DIT96YQXQLNS&dib=eyJ2IjoiMSJ9.Xa3JwgHe0qRnBJHAd2949rLzcMKsYhu8bfDAdDyousogcVkzqOHHiBus4PkyEkyQbCn7HZmXeHxzc6xZ5TCVic1Hz5IJAc8xtO4JB0nh_u6bJDx2I2gNHv-weynAAGa9Z-BcJtEit_ycKIvijkjcphmxX2uZ2xsCK1uPm-c1UzXyMl_gwicUazbr4fMkhTfL-o20YE146UnBREiPwxqSfVVoqkjl49YjXBSURBmXjfctiEGat-Q7NZAZfE_qaDmXs1Yy-WvhKe2jCwX-biJhHfUkL4S2K6U5MS3YrDDwECo.9SVwqgl0WmdzM69fkzuMgvTSAgd5xJ9HF8yDKdEuVu0&dib_tag=se&keywords=creatina+equaliv&qid=1775698757&sprefix=creatina+equaliv%2Caps%2C307&sr=8-9",
       "label": "Equaliv Creatina 3g Monohidratada",
-      "title": "Equaliv Creatina 3g Monohidratada",
+      "title": "Equaliv Creatina Monohidratada 10 Sticks de 3g – Sem Sabor, Vegana, Zero Açúcares e Sem Glúten – Alta Solubilidade para Energia e Força Muscular – Prática para Rotinas Ativas",
       "channel": "amazon",
       "group": "Equaliv",
-      "price": null,
-      "error": true,
-      "timestamp": "2026-05-04T21:51:16.393055+00:00"
+      "price": 39.9,
+      "error": false,
+      "timestamp": "2026-05-05T06:36:08.965998+00:00"
     },
     "MLB19698479?pdp_filters=seller_id%3A1214_mer": {
       "id": "MLB19698479?pdp_filters=seller_id%3A1214_mer",
@@ -687,7 +688,7 @@
       "group": "DUX",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:50:39.047498+00:00"
+      "timestamp": "2026-05-05T06:35:35.379456+00:00"
     },
     "MLB20574970#polycard_client=search-deskt_mer": {
       "id": "MLB20574970#polycard_client=search-deskt_mer",
@@ -698,7 +699,7 @@
       "group": "DUX",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:50:42.587780+00:00"
+      "timestamp": "2026-05-05T06:35:39.504826+00:00"
     },
     "MLB63805922#polycard_client=search-deskt_mer": {
       "id": "MLB63805922#polycard_client=search-deskt_mer",
@@ -709,7 +710,7 @@
       "group": "DUX",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:50:46.774358+00:00"
+      "timestamp": "2026-05-05T06:35:42.044717+00:00"
     },
     "?seller_id=wandeveldcomercioltda_mag": {
       "id": "?seller_id=wandeveldcomercioltda_mag",
@@ -721,7 +722,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-pote-300g-dux-nutrition/p/djb3h77hcg/sa/sacr/?seller_id=wandeveldcomercioltda",
       "error": true,
-      "timestamp": "2026-05-04T21:50:50.506796+00:00"
+      "timestamp": "2026-05-05T06:35:45.537388+00:00"
     },
     "?seller_id=dafabricasuplementos_mag": {
       "id": "?seller_id=dafabricasuplementos_mag",
@@ -733,7 +734,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-pura-100g-dux-human-health/p/gc0d2ge0k9/sa/sacr/?seller_id=dafabricasuplementos",
       "error": true,
-      "timestamp": "2026-05-04T21:50:54.984713+00:00"
+      "timestamp": "2026-05-05T06:35:48.312680+00:00"
     },
     "ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -742,9 +743,9 @@
       "title": "Creafort Creapure Creatina, Vitafor, 30 Sachês 3g",
       "channel": "amazon",
       "group": "Vitafor",
-      "price": 243.97,
+      "price": 89.71,
       "error": false,
-      "timestamp": "2026-05-04T22:02:29.171297+00:00"
+      "timestamp": "2026-05-05T06:47:42.899812+00:00"
     },
     "ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -755,7 +756,7 @@
       "group": "Outros",
       "price": 130.5,
       "error": false,
-      "timestamp": "2026-05-04T21:57:30.510503+00:00"
+      "timestamp": "2026-05-05T06:42:39.958519+00:00"
     },
     "MLB45784141#polycard_client=search-deskt_mer": {
       "id": "MLB45784141#polycard_client=search-deskt_mer",
@@ -766,7 +767,7 @@
       "group": "Equaliv",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:51:19.665503+00:00"
+      "timestamp": "2026-05-05T06:36:12.454729+00:00"
     },
     "MLB27720625?offer_type=OFFICIAL_STORE_mer": {
       "id": "MLB27720625?offer_type=OFFICIAL_STORE_mer",
@@ -777,7 +778,7 @@
       "group": "Equaliv",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:51:22.269352+00:00"
+      "timestamp": "2026-05-05T06:36:17.354247+00:00"
     },
     "MLB38147489#polycard_client=search-deskt_mer": {
       "id": "MLB38147489#polycard_client=search-deskt_mer",
@@ -788,7 +789,7 @@
       "group": "Equaliv",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:51:24.815013+00:00"
+      "timestamp": "2026-05-05T06:36:22.318690+00:00"
     },
     "MLB64242036#polycard_client=search-deskt_mer": {
       "id": "MLB64242036#polycard_client=search-deskt_mer",
@@ -799,7 +800,7 @@
       "group": "Equaliv",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:51:29.726979+00:00"
+      "timestamp": "2026-05-05T06:36:26.194334+00:00"
     },
     "?seller_id=equaliv_mag": {
       "id": "?seller_id=equaliv_mag",
@@ -811,7 +812,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-100-monohidratada-600g-lojaequaliv/p/adbh3260fg/sa/sacr/?seller_id=equaliv",
       "error": true,
-      "timestamp": "2026-05-04T21:51:43.946072+00:00"
+      "timestamp": "2026-05-05T06:36:40.675349+00:00"
     },
     "ref=ast_sto_dp_puis_ama": {
       "id": "ref=ast_sto_dp_puis_ama",
@@ -820,9 +821,9 @@
       "title": "Creatine 100% Pure - 200g (150g + 50g) Natural - Atlhetica Nutrition",
       "channel": "amazon",
       "group": "Atlhetica",
-      "price": 55.9,
+      "price": 53.1,
       "error": false,
-      "timestamp": "2026-05-04T21:59:37.126827+00:00"
+      "timestamp": "2026-05-05T06:44:38.859076+00:00"
     },
     "ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.f_ama": {
       "id": "ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.f_ama",
@@ -833,7 +834,7 @@
       "group": "Atlhetica",
       "price": 44.46,
       "error": false,
-      "timestamp": "2026-05-04T21:59:41.749568+00:00"
+      "timestamp": "2026-05-05T06:44:41.619877+00:00"
     },
     "MLB35819939?offer_type=NEXTDAY_DELIVERY_mer": {
       "id": "MLB35819939?offer_type=NEXTDAY_DELIVERY_mer",
@@ -844,7 +845,7 @@
       "group": "Nutrify",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:52:22.480380+00:00"
+      "timestamp": "2026-05-05T06:37:25.317128+00:00"
     },
     "MLBU1122581559#polycard_client=search-de_mer": {
       "id": "MLBU1122581559#polycard_client=search-de_mer",
@@ -855,7 +856,7 @@
       "group": "Nutrify",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:52:25.913629+00:00"
+      "timestamp": "2026-05-05T06:37:29.735733+00:00"
     },
     "MLB63126525#polycard_client=search-deskt_mer": {
       "id": "MLB63126525#polycard_client=search-deskt_mer",
@@ -866,7 +867,7 @@
       "group": "Nutrify",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:52:28.346545+00:00"
+      "timestamp": "2026-05-05T06:37:32.828722+00:00"
     },
     "?seller_id=lojaoficialnutrify_mag": {
       "id": "?seller_id=lojaoficialnutrify_mag",
@@ -878,7 +879,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/nutrify-100-creatine-creatina-monohidratada-120-capsulas/p/gbe4hb980j/sa/sacr/?seller_id=lojaoficialnutrify",
       "error": true,
-      "timestamp": "2026-05-04T21:52:35.775549+00:00"
+      "timestamp": "2026-05-05T06:37:40.823678+00:00"
     },
     "p?skuId=1001761_sit": {
       "id": "p?skuId=1001761_sit",
@@ -889,7 +890,7 @@
       "group": "Outros",
       "price": 101.0,
       "error": false,
-      "timestamp": "2026-05-04T21:52:40.617722+00:00"
+      "timestamp": "2026-05-05T06:37:46.845804+00:00"
     },
     "p?skuId=1001992_sit": {
       "id": "p?skuId=1001992_sit",
@@ -900,7 +901,7 @@
       "group": "Outros",
       "price": 161.0,
       "error": false,
-      "timestamp": "2026-05-04T21:52:45.533005+00:00"
+      "timestamp": "2026-05-05T06:37:51.028790+00:00"
     },
     "p?skuId=1001821_sit": {
       "id": "p?skuId=1001821_sit",
@@ -911,7 +912,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:52:49.557428+00:00"
+      "timestamp": "2026-05-05T06:37:56.120146+00:00"
     },
     "MLB19548531?pdp_filters=official_store%3_mer": {
       "id": "MLB19548531?pdp_filters=official_store%3_mer",
@@ -922,7 +923,7 @@
       "group": "Vitafor",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:53:19.924306+00:00"
+      "timestamp": "2026-05-05T06:38:27.619508+00:00"
     },
     "MLB22915303?product_trigger_id=MLB195485_mer": {
       "id": "MLB22915303?product_trigger_id=MLB195485_mer",
@@ -933,7 +934,7 @@
       "group": "Vitafor",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:53:23.660191+00:00"
+      "timestamp": "2026-05-05T06:38:29.876690+00:00"
     },
     "?seller_id=fitbeauty_mag": {
       "id": "?seller_id=fitbeauty_mag",
@@ -945,7 +946,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/crealift-creatina-creapure-300g-essential-nutrition/p/aek939b6da/sa/sacr/?seller_id=fitbeauty",
       "error": true,
-      "timestamp": "2026-05-04T22:03:33.519329+00:00"
+      "timestamp": "2026-05-05T06:48:53.754201+00:00"
     },
     "?seller_id=darkness_mag": {
       "id": "?seller_id=darkness_mag",
@@ -957,7 +958,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatine-creapure-darkness-200g/p/dhfhhgg81a/sa/sacr/?seller_id=darkness",
       "error": true,
-      "timestamp": "2026-05-04T22:01:04.846047+00:00"
+      "timestamp": "2026-05-05T06:46:01.740679+00:00"
     },
     "MLB18949507#polycard_client=search-deskt_mer": {
       "id": "MLB18949507#polycard_client=search-deskt_mer",
@@ -968,7 +969,7 @@
       "group": "Darkness",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:53:54.060839+00:00"
+      "timestamp": "2026-05-05T06:38:56.523057+00:00"
     },
     "MLB19571567?pdp_filters=item_id:MLB39600_mer": {
       "id": "MLB19571567?pdp_filters=item_id:MLB39600_mer",
@@ -979,7 +980,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:53:58.036685+00:00"
+      "timestamp": "2026-05-05T06:38:59.697312+00:00"
     },
     "MLB42806667?product_trigger_id=MLB195715_mer": {
       "id": "MLB42806667?product_trigger_id=MLB195715_mer",
@@ -990,7 +991,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:03.074655+00:00"
+      "timestamp": "2026-05-05T06:39:02.760704+00:00"
     },
     "MLB44465862?pdp_filters=item_id%3AMLB392_mer": {
       "id": "MLB44465862?pdp_filters=item_id%3AMLB392_mer",
@@ -1001,7 +1002,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:06.005335+00:00"
+      "timestamp": "2026-05-05T06:39:06.516691+00:00"
     },
     "MLB42806793?pdp_filters=item_id%3AMLB516_mer": {
       "id": "MLB42806793?pdp_filters=item_id%3AMLB516_mer",
@@ -1012,7 +1013,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:08.654876+00:00"
+      "timestamp": "2026-05-05T06:39:10.953074+00:00"
     },
     "MLB65772810?pdp_filters=item_id%3AMLB593_mer": {
       "id": "MLB65772810?pdp_filters=item_id%3AMLB593_mer",
@@ -1023,7 +1024,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:12.664474+00:00"
+      "timestamp": "2026-05-05T06:39:14.267085+00:00"
     },
     "MLB19571565?pdp_filters=item_id%3AMLB394_mer": {
       "id": "MLB19571565?pdp_filters=item_id%3AMLB394_mer",
@@ -1034,7 +1035,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:15.850797+00:00"
+      "timestamp": "2026-05-05T06:39:17.095061+00:00"
     },
     "MLB20581836?pdp_filters=item_id%3AMLB389_mer": {
       "id": "MLB20581836?pdp_filters=item_id%3AMLB389_mer",
@@ -1045,7 +1046,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:20.816461+00:00"
+      "timestamp": "2026-05-05T06:39:22.066597+00:00"
     },
     "MLB21569984?pdp_filters=item_id%3AMLB391_mer": {
       "id": "MLB21569984?pdp_filters=item_id%3AMLB391_mer",
@@ -1056,7 +1057,7 @@
       "group": "FTW",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:54:23.702212+00:00"
+      "timestamp": "2026-05-05T06:39:26.587882+00:00"
     },
     "B0DH64LKFK?ref_=cpl_dp&th=1_ama": {
       "id": "B0DH64LKFK?ref_=cpl_dp&th=1_ama",
@@ -1065,9 +1066,9 @@
       "title": "FTW Creatina Monohidratada 100% Pura - Explosão de Energia, Força e Resistência - Absorção Rápida para Ganho de Massa e Performance (Refil 500G)",
       "channel": "amazon",
       "group": "FTW",
-      "price": 40.46,
+      "price": 39.0,
       "error": false,
-      "timestamp": "2026-05-04T21:54:28.392604+00:00"
+      "timestamp": "2026-05-05T06:39:30.203438+00:00"
     },
     "B0DQDWHXNC?ref_=cpl_dp&th=1_ama": {
       "id": "B0DQDWHXNC?ref_=cpl_dp&th=1_ama",
@@ -1078,7 +1079,7 @@
       "group": "FTW",
       "price": 34.99,
       "error": false,
-      "timestamp": "2026-05-04T21:54:31.246844+00:00"
+      "timestamp": "2026-05-05T06:39:36.442659+00:00"
     },
     "B0FZD7Q3MT?ref_=cpl_dp&th=1_ama": {
       "id": "B0FZD7Q3MT?ref_=cpl_dp&th=1_ama",
@@ -1089,7 +1090,7 @@
       "group": "FTW",
       "price": 29.99,
       "error": false,
-      "timestamp": "2026-05-04T21:54:36.659906+00:00"
+      "timestamp": "2026-05-05T06:39:39.813755+00:00"
     },
     "B0DH68X2PX?ref_=cpl_dp&th=1_ama": {
       "id": "B0DH68X2PX?ref_=cpl_dp&th=1_ama",
@@ -1100,7 +1101,7 @@
       "group": "FTW",
       "price": 69.99,
       "error": false,
-      "timestamp": "2026-05-04T21:54:39.561596+00:00"
+      "timestamp": "2026-05-05T06:39:43.358134+00:00"
     },
     "ref=sr_1_4?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_4?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama",
@@ -1109,9 +1110,9 @@
       "title": "MAX TITANIUM CREATINA 300 GR MONOHIDRATADA",
       "channel": "amazon",
       "group": "Max Titanium",
-      "price": 46.45,
+      "price": 49.49,
       "error": false,
-      "timestamp": "2026-05-04T21:54:57.139022+00:00"
+      "timestamp": "2026-05-05T06:40:06.563295+00:00"
     },
     "ref=sr_1_8?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_8?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama",
@@ -1122,7 +1123,7 @@
       "group": "Max Titanium",
       "price": 22.9,
       "error": false,
-      "timestamp": "2026-05-04T21:55:00.796842+00:00"
+      "timestamp": "2026-05-05T06:40:12.390376+00:00"
     },
     "ref=sr_1_7?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_7?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama",
@@ -1131,9 +1132,9 @@
       "title": "Creatine (120 Caps)",
       "channel": "amazon",
       "group": "Max Titanium",
-      "price": 73.05,
+      "price": 61.27,
       "error": false,
-      "timestamp": "2026-05-04T21:55:05.567200+00:00"
+      "timestamp": "2026-05-05T06:40:18.699114+00:00"
     },
     "MLB37121958?pdp_filters=item_id:MLB39942_mer": {
       "id": "MLB37121958?pdp_filters=item_id:MLB39942_mer",
@@ -1144,7 +1145,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:07.911717+00:00"
+      "timestamp": "2026-05-05T06:40:23.392194+00:00"
     },
     "MLB34067095#polycard_client=search-deskt_mer": {
       "id": "MLB34067095#polycard_client=search-deskt_mer",
@@ -1155,7 +1156,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:12.516394+00:00"
+      "timestamp": "2026-05-05T06:40:28.442105+00:00"
     },
     "MLB6098706#polycard_client=search-deskto_mer": {
       "id": "MLB6098706#polycard_client=search-deskto_mer",
@@ -1166,7 +1167,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:16.959692+00:00"
+      "timestamp": "2026-05-05T06:40:32.806676+00:00"
     },
     "?seller_id=magazineluiza_mag": {
       "id": "?seller_id=magazineluiza_mag",
@@ -1178,7 +1179,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-mono-hidratada-creapure-em-po-150g/p/231368100/sa/sacr/?seller_id=magazineluiza",
       "error": true,
-      "timestamp": "2026-05-04T22:04:24.551565+00:00"
+      "timestamp": "2026-05-05T06:49:47.415355+00:00"
     },
     "?seller_id=lojamaxtitanium_mag": {
       "id": "?seller_id=lojamaxtitanium_mag",
@@ -1190,7 +1191,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-100g-probiotica/p/cgcb7479hh/sa/sacr/?seller_id=lojamaxtitanium",
       "error": true,
-      "timestamp": "2026-05-04T21:55:31.700965+00:00"
+      "timestamp": "2026-05-05T06:40:46.129237+00:00"
     },
     "p?skuid=2148_sit": {
       "id": "p?skuid=2148_sit",
@@ -1201,7 +1202,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:36.679564+00:00"
+      "timestamp": "2026-05-05T06:40:51.102079+00:00"
     },
     "p?skuid=29_sit": {
       "id": "p?skuid=29_sit",
@@ -1212,7 +1213,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:42.975265+00:00"
+      "timestamp": "2026-05-05T06:40:55.333301+00:00"
     },
     "p?skuid=31_sit": {
       "id": "p?skuid=31_sit",
@@ -1223,7 +1224,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:47.339197+00:00"
+      "timestamp": "2026-05-05T06:40:59.767731+00:00"
     },
     "p?skuid=30_sit": {
       "id": "p?skuid=30_sit",
@@ -1234,7 +1235,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:52.246230+00:00"
+      "timestamp": "2026-05-05T06:41:03.782996+00:00"
     },
     "p?skuid=6_sit": {
       "id": "p?skuid=6_sit",
@@ -1245,7 +1246,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:55:56.962067+00:00"
+      "timestamp": "2026-05-05T06:41:07.590660+00:00"
     },
     "p?idsku=30_sit": {
       "id": "p?idsku=30_sit",
@@ -1256,7 +1257,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:04.769505+00:00"
+      "timestamp": "2026-05-05T06:41:12.208307+00:00"
     },
     "p?idsku=187_sit": {
       "id": "p?idsku=187_sit",
@@ -1267,7 +1268,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:12.652950+00:00"
+      "timestamp": "2026-05-05T06:41:20.343886+00:00"
     },
     "p?idsku=31_sit": {
       "id": "p?idsku=31_sit",
@@ -1278,7 +1279,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:17.616827+00:00"
+      "timestamp": "2026-05-05T06:41:23.692402+00:00"
     },
     "B07M6V6WQF?ref_=ast_sto_dp_ama": {
       "id": "B07M6V6WQF?ref_=ast_sto_dp_ama",
@@ -1287,9 +1288,9 @@
       "title": "Creatina Monohidratada - Probiotica",
       "channel": "amazon",
       "group": "Outros",
-      "price": 47.9,
+      "price": 48.99,
       "error": false,
-      "timestamp": "2026-05-04T21:56:22.268326+00:00"
+      "timestamp": "2026-05-05T06:41:30.221886+00:00"
     },
     "MLB27464150#polycard_client=search-deskt_mer": {
       "id": "MLB27464150#polycard_client=search-deskt_mer",
@@ -1300,7 +1301,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:25.167369+00:00"
+      "timestamp": "2026-05-05T06:41:34.036284+00:00"
     },
     "MLB19548670#polycard_client=search_best-_mer": {
       "id": "MLB19548670#polycard_client=search_best-_mer",
@@ -1311,7 +1312,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:28.154029+00:00"
+      "timestamp": "2026-05-05T06:41:39.006846+00:00"
     },
     "MLB19548598#polycard_client=search_best-_mer": {
       "id": "MLB19548598#polycard_client=search_best-_mer",
@@ -1322,7 +1323,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:32.531587+00:00"
+      "timestamp": "2026-05-05T06:41:42.693233+00:00"
     },
     "MLB51520154?pdp_filters=item_id:MLB55074_mer": {
       "id": "MLB51520154?pdp_filters=item_id:MLB55074_mer",
@@ -1333,7 +1334,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:37.170006+00:00"
+      "timestamp": "2026-05-05T06:41:46.283362+00:00"
     },
     "?seller_id=invictusnutrishop_mag": {
       "id": "?seller_id=invictusnutrishop_mag",
@@ -1345,7 +1346,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatine-action-gummy-240g-60-gomas-sabor-jabuticaba-essential-nutrition/p/ec346h7a76/sa/sacr/?seller_id=invictusnutrishop",
       "error": true,
-      "timestamp": "2026-05-04T21:56:40.208106+00:00"
+      "timestamp": "2026-05-05T06:41:49.868780+00:00"
     },
     "creatina-em-goma-sabor-jabuticaba_sit": {
       "id": "creatina-em-goma-sabor-jabuticaba_sit",
@@ -1356,7 +1357,7 @@
       "group": "Outros",
       "price": 145.0,
       "error": false,
-      "timestamp": "2026-05-04T21:56:45.473553+00:00"
+      "timestamp": "2026-05-05T06:41:53.914461+00:00"
     },
     "?seller_id=renovasaudenutricao_mag": {
       "id": "?seller_id=renovasaudenutricao_mag",
@@ -1368,7 +1369,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-100-monohidratada-300g-pura-vida-puravida/p/ac616g83ee/sa/sacr/?seller_id=renovasaudenutricao",
       "error": true,
-      "timestamp": "2026-05-04T21:56:48.565627+00:00"
+      "timestamp": "2026-05-05T06:41:58.723327+00:00"
     },
     "?seller_id=francosports_mag": {
       "id": "?seller_id=francosports_mag",
@@ -1380,7 +1381,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-100-monohidratada-90g-puravida-sabor-sem-sabor-pura-vida/p/fd27e03ajf/sa/sacr/?seller_id=francosports",
       "error": true,
-      "timestamp": "2026-05-04T21:56:53.220463+00:00"
+      "timestamp": "2026-05-05T06:42:01.834959+00:00"
     },
     "MLBU3392283975#polycard_client=search-de_mer": {
       "id": "MLBU3392283975#polycard_client=search-de_mer",
@@ -1391,7 +1392,7 @@
       "group": "Pura Vida",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:56:57.698001+00:00"
+      "timestamp": "2026-05-05T06:42:04.225375+00:00"
     },
     "MLBU3498196516#polycard_client=search-de_mer": {
       "id": "MLBU3498196516#polycard_client=search-de_mer",
@@ -1402,7 +1403,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:01.828164+00:00"
+      "timestamp": "2026-05-05T06:42:08.693995+00:00"
     },
     "B0DHSS7W8P?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0DHSS7W8P?ref_=ast_sto_dp&th=1_ama",
@@ -1411,9 +1412,9 @@
       "title": "Guday Creatina Monoidratada em Gummies 60 Gomas Sabor Frutas Vermelhas – Suplementação Prática e Refrescante para Sua Rotina de Treinos",
       "channel": "amazon",
       "group": "Guday",
-      "price": 99.75,
+      "price": 154.9,
       "error": false,
-      "timestamp": "2026-05-04T21:57:10.906073+00:00"
+      "timestamp": "2026-05-05T06:42:21.355904+00:00"
     },
     "B0FRHD2G3R?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0FRHD2G3R?ref_=ast_sto_dp&th=1_ama",
@@ -1424,7 +1425,7 @@
       "group": "Guday",
       "price": 100.0,
       "error": false,
-      "timestamp": "2026-05-04T21:57:14.911790+00:00"
+      "timestamp": "2026-05-05T06:42:24.251276+00:00"
     },
     "B0DW1K6HP2?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0DW1K6HP2?ref_=ast_sto_dp&th=1_ama",
@@ -1435,7 +1436,7 @@
       "group": "Guday",
       "price": 132.99,
       "error": false,
-      "timestamp": "2026-05-04T21:57:21.084417+00:00"
+      "timestamp": "2026-05-05T06:42:27.284597+00:00"
     },
     "B0CXCD2X2C?ref_=ast_sto_dp&th=1_ama": {
       "id": "B0CXCD2X2C?ref_=ast_sto_dp&th=1_ama",
@@ -1444,9 +1445,9 @@
       "title": "Guday Creatina Monoidratada em Gummies 60 Gomas Sabor Maçã Verde – Suplementação Prática e Refrescante para Sua Rotina de Treinos",
       "channel": "amazon",
       "group": "Guday",
-      "price": 108.0,
+      "price": 144.9,
       "error": false,
-      "timestamp": "2026-05-04T21:57:26.503785+00:00"
+      "timestamp": "2026-05-05T06:42:33.351954+00:00"
     },
     "MLB43949410#polycard_client=search-deskt_mer": {
       "id": "MLB43949410#polycard_client=search-deskt_mer",
@@ -1457,7 +1458,7 @@
       "group": "Guday",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:34.850688+00:00"
+      "timestamp": "2026-05-05T06:42:44.606559+00:00"
     },
     "MLB39458813?pdp_filters=item_id%3AMLB415_mer": {
       "id": "MLB39458813?pdp_filters=item_id%3AMLB415_mer",
@@ -1468,7 +1469,7 @@
       "group": "Guday",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:38.906234+00:00"
+      "timestamp": "2026-05-05T06:42:48.893406+00:00"
     },
     "MLB46190171?pdp_filters=item_id%3AMLB531_mer": {
       "id": "MLB46190171?pdp_filters=item_id%3AMLB531_mer",
@@ -1479,7 +1480,7 @@
       "group": "Guday",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:42.937590+00:00"
+      "timestamp": "2026-05-05T06:42:51.207822+00:00"
     },
     "MLB53358693?pdp_filters=seller_id%3A2334_mer": {
       "id": "MLB53358693?pdp_filters=seller_id%3A2334_mer",
@@ -1490,7 +1491,7 @@
       "group": "Guday",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:47.997414+00:00"
+      "timestamp": "2026-05-05T06:42:55.184125+00:00"
     },
     "MLB51450769?pdp_filters=item_id:MLB55072_mer": {
       "id": "MLB51450769?pdp_filters=item_id:MLB55072_mer",
@@ -1501,7 +1502,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:51.205335+00:00"
+      "timestamp": "2026-05-05T06:42:59.784044+00:00"
     },
     "MLB51520931#polycard_client=search-deskt_mer": {
       "id": "MLB51520931#polycard_client=search-deskt_mer",
@@ -1512,7 +1513,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:57:54.089898+00:00"
+      "timestamp": "2026-05-05T06:43:03.145858+00:00"
     },
     "?seller_id=farmagerty_mag": {
       "id": "?seller_id=farmagerty_mag",
@@ -1524,7 +1525,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-gummy-laranja-guday-60-unidades/p/edh8agb6a8/sa/saco/?seller_id=farmagerty",
       "error": true,
-      "timestamp": "2026-05-04T21:58:07.030304+00:00"
+      "timestamp": "2026-05-05T06:43:14.464209+00:00"
     },
     "creatina-em-goma-sabor-maca-verde_sit": {
       "id": "creatina-em-goma-sabor-maca-verde_sit",
@@ -1535,7 +1536,7 @@
       "group": "Outros",
       "price": 145.0,
       "error": false,
-      "timestamp": "2026-05-04T21:58:17.850134+00:00"
+      "timestamp": "2026-05-05T06:43:26.879925+00:00"
     },
     "creatina-em-goma-sabor-laranja_sit": {
       "id": "creatina-em-goma-sabor-laranja_sit",
@@ -1546,7 +1547,7 @@
       "group": "Outros",
       "price": 145.0,
       "error": false,
-      "timestamp": "2026-05-04T21:58:22.907609+00:00"
+      "timestamp": "2026-05-05T06:43:31.854878+00:00"
     },
     "creatina-frutas-vermelhas_sit": {
       "id": "creatina-frutas-vermelhas_sit",
@@ -1557,7 +1558,7 @@
       "group": "Guday",
       "price": 179.9,
       "error": false,
-      "timestamp": "2026-05-04T21:58:26.743657+00:00"
+      "timestamp": "2026-05-05T06:43:35.575758+00:00"
     },
     "creatina-limao_sit": {
       "id": "creatina-limao_sit",
@@ -1568,7 +1569,7 @@
       "group": "Guday",
       "price": 179.9,
       "error": false,
-      "timestamp": "2026-05-04T21:58:31.061388+00:00"
+      "timestamp": "2026-05-05T06:43:38.674833+00:00"
     },
     "creatina-oakberry-sabor-acai_sit": {
       "id": "creatina-oakberry-sabor-acai_sit",
@@ -1579,7 +1580,7 @@
       "group": "Guday",
       "price": 179.9,
       "error": false,
-      "timestamp": "2026-05-04T21:58:34.629204+00:00"
+      "timestamp": "2026-05-05T06:43:43.559030+00:00"
     },
     "creatina_sit": {
       "id": "creatina_sit",
@@ -1590,7 +1591,7 @@
       "group": "Guday",
       "price": 179.9,
       "error": false,
-      "timestamp": "2026-05-04T21:58:37.268624+00:00"
+      "timestamp": "2026-05-05T06:43:47.348318+00:00"
     },
     "MLB18513937#polycard_client=search-deskt_mer": {
       "id": "MLB18513937#polycard_client=search-deskt_mer",
@@ -1601,7 +1602,7 @@
       "group": "Black Skull",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:58:54.708680+00:00"
+      "timestamp": "2026-05-05T06:44:04.395348+00:00"
     },
     "MLB44623577#polycard_client=search-deskt_mer": {
       "id": "MLB44623577#polycard_client=search-deskt_mer",
@@ -1612,7 +1613,7 @@
       "group": "Black Skull",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:58:58.594488+00:00"
+      "timestamp": "2026-05-05T06:44:07.372588+00:00"
     },
     "MLBU3111905275#polycard_client=search-de_mer": {
       "id": "MLBU3111905275#polycard_client=search-de_mer",
@@ -1623,7 +1624,7 @@
       "group": "Black Skull",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:59:03.185882+00:00"
+      "timestamp": "2026-05-05T06:44:11.413471+00:00"
     },
     "p?skuId=62_sit": {
       "id": "p?skuId=62_sit",
@@ -1634,7 +1635,7 @@
       "group": "Black Skull",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:59:17.271116+00:00"
+      "timestamp": "2026-05-05T06:44:20.736866+00:00"
     },
     "p?skuId=61_sit": {
       "id": "p?skuId=61_sit",
@@ -1645,7 +1646,7 @@
       "group": "Black Skull",
       "price": 39.9,
       "error": false,
-      "timestamp": "2026-05-04T21:59:22.882008+00:00"
+      "timestamp": "2026-05-05T06:44:25.905875+00:00"
     },
     "MLB18947493?pdp_filters=official_store%3_mer": {
       "id": "MLB18947493?pdp_filters=official_store%3_mer",
@@ -1656,7 +1657,7 @@
       "group": "Atlhetica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:59:44.648754+00:00"
+      "timestamp": "2026-05-05T06:44:44.066082+00:00"
     },
     "MLB18991669?product_trigger_id=MLB189474_mer": {
       "id": "MLB18991669?product_trigger_id=MLB189474_mer",
@@ -1667,7 +1668,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:59:47.981873+00:00"
+      "timestamp": "2026-05-05T06:44:47.263765+00:00"
     },
     "MLB20581716?pdp_filters=official_store%3_mer": {
       "id": "MLB20581716?pdp_filters=official_store%3_mer",
@@ -1678,7 +1679,7 @@
       "group": "Atlhetica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T21:59:51.563900+00:00"
+      "timestamp": "2026-05-05T06:44:51.391941+00:00"
     },
     "?ads=patrocinado&seller_id=taurene_mag": {
       "id": "?ads=patrocinado&seller_id=taurene_mag",
@@ -1690,7 +1691,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-pura-monohidratada-300g-atlhetica-atlhetica-nutrition/p/dgh18bg1cb/sa/sacr/?ads=patrocinado&seller_id=taurene",
       "error": true,
-      "timestamp": "2026-05-04T21:59:53.810215+00:00"
+      "timestamp": "2026-05-05T06:44:55.436690+00:00"
     },
     "?seller_id=futfanaticsoficial_mag": {
       "id": "?seller_id=futfanaticsoficial_mag",
@@ -1702,7 +1703,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-atlhetica-100-pure-100g/p/gkh27g479f/sa/sacr/?seller_id=futfanaticsoficial",
       "error": true,
-      "timestamp": "2026-05-04T21:59:55.885924+00:00"
+      "timestamp": "2026-05-05T06:44:57.526733+00:00"
     },
     "?seller_id=taurene_mag": {
       "id": "?seller_id=taurene_mag",
@@ -1714,7 +1715,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-pura-3g-120-caps-atlhetica-atlhetica-nutrition/p/dfb8326j6a/sa/sagl/?seller_id=taurene",
       "error": true,
-      "timestamp": "2026-05-04T21:59:58.525809+00:00"
+      "timestamp": "2026-05-05T06:45:00.844268+00:00"
     },
     "p?skuId=4322_sit": {
       "id": "p?skuId=4322_sit",
@@ -1725,7 +1726,7 @@
       "group": "Atlhetica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:00:05.567185+00:00"
+      "timestamp": "2026-05-05T06:45:05.455378+00:00"
     },
     "p?skuId=24662_sit": {
       "id": "p?skuId=24662_sit",
@@ -1736,7 +1737,7 @@
       "group": "Atlhetica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:00:10.360884+00:00"
+      "timestamp": "2026-05-05T06:45:10.264636+00:00"
     },
     "p?skuId=6708_sit": {
       "id": "p?skuId=6708_sit",
@@ -1747,7 +1748,7 @@
       "group": "Atlhetica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:00:16.856908+00:00"
+      "timestamp": "2026-05-05T06:45:14.496132+00:00"
     },
     "p?skuId=4129_sit": {
       "id": "p?skuId=4129_sit",
@@ -1758,7 +1759,7 @@
       "group": "Atlhetica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:00:22.922078+00:00"
+      "timestamp": "2026-05-05T06:45:20.076449+00:00"
     },
     "ref=sr_1_13?__mk_pt_BR=%C3%85M%C3%85%C5%_ama": {
       "id": "ref=sr_1_13?__mk_pt_BR=%C3%85M%C3%85%C5%_ama",
@@ -1767,9 +1768,9 @@
       "title": "Creatina Monohidratada Creapure Em Pó 83 Doses Pote 250g Max Titanium",
       "channel": "amazon",
       "group": "Max Titanium",
-      "price": 127.0,
+      "price": 132.89,
       "error": false,
-      "timestamp": "2026-05-04T22:02:54.952082+00:00"
+      "timestamp": "2026-05-05T06:48:15.415058+00:00"
     },
     "MLB20205480#polycard_client=search-deskt_mer": {
       "id": "MLB20205480#polycard_client=search-deskt_mer",
@@ -1780,7 +1781,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:00:34.574179+00:00"
+      "timestamp": "2026-05-05T06:45:33.090077+00:00"
     },
     "MLB19550484#polycard_client=search-deskt_mer": {
       "id": "MLB19550484#polycard_client=search-deskt_mer",
@@ -1791,7 +1792,7 @@
       "group": "DUX",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:00:39.191677+00:00"
+      "timestamp": "2026-05-05T06:45:37.357212+00:00"
     },
     "?seller_id=duxnutrition_mag": {
       "id": "?seller_id=duxnutrition_mag",
@@ -1803,7 +1804,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-100-creapure-pote-100g-dux-human-health/p/kj7k2h0ebc/sa/sacr/?seller_id=duxnutrition",
       "error": true,
-      "timestamp": "2026-05-04T22:04:56.464625+00:00"
+      "timestamp": "2026-05-05T06:50:21.885278+00:00"
     },
     "MLB19548816#polycard_client=search-deskt_mer": {
       "id": "MLB19548816#polycard_client=search-deskt_mer",
@@ -1814,7 +1815,7 @@
       "group": "Darkness",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:01:00.770429+00:00"
+      "timestamp": "2026-05-05T06:45:57.309769+00:00"
     },
     "ref=sr_1_5?crid=7CW2788N28M6&dib=eyJ2Ijo_ama": {
       "id": "ref=sr_1_5?crid=7CW2788N28M6&dib=eyJ2Ijo_ama",
@@ -1823,9 +1824,9 @@
       "title": "Nutrify - Creatina Creapure - 300g",
       "channel": "amazon",
       "group": "Nutrify",
-      "price": 149.9,
+      "price": 138.46,
       "error": false,
-      "timestamp": "2026-05-04T22:01:08.809184+00:00"
+      "timestamp": "2026-05-05T06:46:07.443119+00:00"
     },
     "MLB19538721#polycard_client=search-deskt_mer": {
       "id": "MLB19538721#polycard_client=search-deskt_mer",
@@ -1836,7 +1837,7 @@
       "group": "Nutrify",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:01:12.795796+00:00"
+      "timestamp": "2026-05-05T06:46:10.257283+00:00"
     },
     "?seller_id=shopmundofitness_mag": {
       "id": "?seller_id=shopmundofitness_mag",
@@ -1848,7 +1849,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-nutrify-300g-creatine-monohidratada-100-creapure/p/ga4j0c899f/sa/sacr/?seller_id=shopmundofitness",
       "error": true,
-      "timestamp": "2026-05-04T22:01:16.078723+00:00"
+      "timestamp": "2026-05-05T06:46:13.964399+00:00"
     },
     "p?skuId=76823_sit": {
       "id": "p?skuId=76823_sit",
@@ -1859,7 +1860,7 @@
       "group": "Nutrify",
       "price": 257.0,
       "error": false,
-      "timestamp": "2026-05-04T22:01:20.891142+00:00"
+      "timestamp": "2026-05-05T06:46:17.905650+00:00"
     },
     "ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -1868,9 +1869,9 @@
       "title": "Creatina Monohidratada Creapure 100g - Growth Supplements",
       "channel": "amazon",
       "group": "Growth",
-      "price": 94.9,
+      "price": 96.2,
       "error": false,
-      "timestamp": "2026-05-04T22:01:25.719999+00:00"
+      "timestamp": "2026-05-05T06:46:24.308073+00:00"
     },
     "ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%_ama": {
       "id": "ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%_ama",
@@ -1881,7 +1882,7 @@
       "group": "Growth",
       "price": 99.99,
       "error": false,
-      "timestamp": "2026-05-04T22:01:32.888241+00:00"
+      "timestamp": "2026-05-05T06:46:33.854777+00:00"
     },
     "MLB55102550?pdp_filters=item_id:MLB30634_mer": {
       "id": "MLB55102550?pdp_filters=item_id:MLB30634_mer",
@@ -1892,7 +1893,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:01:37.692480+00:00"
+      "timestamp": "2026-05-05T06:46:38.692772+00:00"
     },
     "MLB18726360#polycard_client=search-deskt_mer": {
       "id": "MLB18726360#polycard_client=search-deskt_mer",
@@ -1903,7 +1904,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:01:42.611351+00:00"
+      "timestamp": "2026-05-05T06:46:43.214339+00:00"
     },
     "MLB51331591#polycard_client=search-deskt_mer": {
       "id": "MLB51331591#polycard_client=search-deskt_mer",
@@ -1914,7 +1915,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:01:45.080832+00:00"
+      "timestamp": "2026-05-05T06:46:47.231651+00:00"
     },
     "?seller_id=suplementoseacessorios_mag": {
       "id": "?seller_id=suplementoseacessorios_mag",
@@ -1926,7 +1927,7 @@
       "model": "Normal",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-crepure-growth/p/fea5h6hb89/sa/sacr/?seller_id=suplementoseacessorios",
       "error": true,
-      "timestamp": "2026-05-04T22:01:48.717949+00:00"
+      "timestamp": "2026-05-05T06:46:51.708575+00:00"
     },
     "?seller_id=jpfit_mag": {
       "id": "?seller_id=jpfit_mag",
@@ -1938,7 +1939,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-creapure-120-comprimidos-growth-supplements/p/dak4h69c07/sa/rbse/?seller_id=jpfit",
       "error": true,
-      "timestamp": "2026-05-04T22:01:53.378110+00:00"
+      "timestamp": "2026-05-05T06:46:55.950443+00:00"
     },
     "ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": {
       "id": "ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama",
@@ -1947,9 +1948,9 @@
       "title": "Puravida Suplemento Creatina Premium 90g",
       "channel": "amazon",
       "group": "Outros",
-      "price": 103.0,
+      "price": 89.99,
       "error": false,
-      "timestamp": "2026-05-04T22:03:48.851336+00:00"
+      "timestamp": "2026-05-05T06:49:09.152661+00:00"
     },
     "MLB39012258?pdp_filters=item_id:MLB38052_mer": {
       "id": "MLB39012258?pdp_filters=item_id:MLB38052_mer",
@@ -1960,7 +1961,7 @@
       "group": "3VS",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:02:05.981152+00:00"
+      "timestamp": "2026-05-05T06:47:13.781800+00:00"
     },
     "MLB19550918#polycard_client=search-deskt_mer": {
       "id": "MLB19550918#polycard_client=search-deskt_mer",
@@ -1971,7 +1972,7 @@
       "group": "Equaliv",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:02:13.942910+00:00"
+      "timestamp": "2026-05-05T06:47:22.018172+00:00"
     },
     "MLB18947494#polycard_client=search-deskt_mer": {
       "id": "MLB18947494#polycard_client=search-deskt_mer",
@@ -1982,7 +1983,7 @@
       "group": "Vitafor",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:02:32.658035+00:00"
+      "timestamp": "2026-05-05T06:47:47.961092+00:00"
     },
     "MLB19037834?pdp_filters=item_id:MLB45214_mer": {
       "id": "MLB19037834?pdp_filters=item_id:MLB45214_mer",
@@ -1993,7 +1994,7 @@
       "group": "Vitafor",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:02:35.234293+00:00"
+      "timestamp": "2026-05-05T06:47:50.400880+00:00"
     },
     "?ads=patrocinado&seller_id=fitpsuplement_mag": {
       "id": "?ads=patrocinado&seller_id=fitpsuplement_mag",
@@ -2005,7 +2006,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-creafort-300gr-creapure-vitafor/p/hakk609khe/sa/sacr/?ads=patrocinado&seller_id=fitpsuplementos",
       "error": true,
-      "timestamp": "2026-05-04T22:02:40.198508+00:00"
+      "timestamp": "2026-05-05T06:47:55.450116+00:00"
     },
     "?seller_id=kktsuplemento_mag": {
       "id": "?seller_id=kktsuplemento_mag",
@@ -2017,7 +2018,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-monohidratada-creafort-creapure-vitafor-30-c-saches/p/chffj31keh/sa/sacr/?seller_id=kktsuplemento",
       "error": true,
-      "timestamp": "2026-05-04T22:02:42.292245+00:00"
+      "timestamp": "2026-05-05T06:47:59.912798+00:00"
     },
     "MLB36183514#polycard_client=search-deskt_mer": {
       "id": "MLB36183514#polycard_client=search-deskt_mer",
@@ -2028,7 +2029,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:02:59.277286+00:00"
+      "timestamp": "2026-05-05T06:48:19.983882+00:00"
     },
     "?seller_id=lriimportadoraedistribuidora_mag": {
       "id": "?seller_id=lriimportadoraedistribuidora_mag",
@@ -2040,7 +2041,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-creapure-max-titanium-pura-monohidratada/p/hbk23746g7/sa/sacr/?seller_id=lriimportadoraedistribuidora",
       "error": true,
-      "timestamp": "2026-05-04T22:03:03.481768+00:00"
+      "timestamp": "2026-05-05T06:48:23.982961+00:00"
     },
     "p?skuid=1473_sit": {
       "id": "p?skuid=1473_sit",
@@ -2051,7 +2052,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:03:09.689600+00:00"
+      "timestamp": "2026-05-05T06:48:27.838263+00:00"
     },
     "?seller_id=armazemvida_mag": {
       "id": "?seller_id=armazemvida_mag",
@@ -2063,7 +2064,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-creapure-250gr-linha-brandao-max-titanium/p/deca9j8j0c/sa/sacr/?seller_id=armazemvida",
       "error": true,
-      "timestamp": "2026-05-04T22:03:14.039439+00:00"
+      "timestamp": "2026-05-05T06:48:32.549499+00:00"
     },
     "MLB44427204?pdp_filters=official_store%3_mer": {
       "id": "MLB44427204?pdp_filters=official_store%3_mer",
@@ -2074,7 +2075,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:03:19.066171+00:00"
+      "timestamp": "2026-05-05T06:48:34.707976+00:00"
     },
     "ref=sr_1_3_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": {
       "id": "ref=sr_1_3_sspa?__mk_pt_BR=%C3%85M%C3%85_ama",
@@ -2085,7 +2086,7 @@
       "group": "Outros",
       "price": 288.0,
       "error": false,
-      "timestamp": "2026-05-04T22:03:28.776039+00:00"
+      "timestamp": "2026-05-05T06:48:47.144646+00:00"
     },
     "MLB36680560#polycard_client=search-deskt_mer": {
       "id": "MLB36680560#polycard_client=search-deskt_mer",
@@ -2096,7 +2097,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:03:31.033020+00:00"
+      "timestamp": "2026-05-05T06:48:49.359076+00:00"
     },
     "crealift-creatina-mono-hidratada-creapur_sit": {
       "id": "crealift-creatina-mono-hidratada-creapur_sit",
@@ -2107,7 +2108,7 @@
       "group": "Outros",
       "price": 320.0,
       "error": false,
-      "timestamp": "2026-05-04T22:03:37.781791+00:00"
+      "timestamp": "2026-05-05T06:48:58.057576+00:00"
     },
     "MLB19549586#polycard_client=search-deskt_mer": {
       "id": "MLB19549586#polycard_client=search-deskt_mer",
@@ -2118,7 +2119,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:03:51.803360+00:00"
+      "timestamp": "2026-05-05T06:49:13.953446+00:00"
     },
     "MLB61579770#polycard_client=search-deskt_mer": {
       "id": "MLB61579770#polycard_client=search-deskt_mer",
@@ -2129,7 +2130,7 @@
       "group": "Pura Vida",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:03:54.153483+00:00"
+      "timestamp": "2026-05-05T06:49:17.601284+00:00"
     },
     "creatina-pure%C2%AE-70316_sit": {
       "id": "creatina-pure%C2%AE-70316_sit",
@@ -2141,7 +2142,7 @@
       "model": "Creapure",
       "url": "https://www.puravida.com.br/creatina-pure%C2%AE-70316",
       "error": true,
-      "timestamp": "2026-05-04T22:03:58.359738+00:00"
+      "timestamp": "2026-05-05T06:49:22.249754+00:00"
     },
     "creatina-premium-90g-70545_sit": {
       "id": "creatina-premium-90g-70545_sit",
@@ -2153,7 +2154,7 @@
       "model": "Creapure",
       "url": "https://www.puravida.com.br/creatina-premium-90g-70545",
       "error": true,
-      "timestamp": "2026-05-04T22:04:02.977235+00:00"
+      "timestamp": "2026-05-05T06:49:26.259704+00:00"
     },
     "?seller_id=bodyshopping1_mag": {
       "id": "?seller_id=bodyshopping1_mag",
@@ -2165,7 +2166,7 @@
       "model": "Creapure",
       "url": "https://www.magazineluiza.com.br/creatina-creapure-300-g-atlhetica-nutrition/p/dg63475acd/sa/sacr/?seller_id=bodyshopping1",
       "error": true,
-      "timestamp": "2026-05-04T22:04:06.596677+00:00"
+      "timestamp": "2026-05-05T06:49:29.650495+00:00"
     },
     "p?skuId=4399_sit": {
       "id": "p?skuId=4399_sit",
@@ -2176,7 +2177,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:04:12.655151+00:00"
+      "timestamp": "2026-05-05T06:49:34.952887+00:00"
     },
     "B07G7HWS9J_ama": {
       "id": "B07G7HWS9J_ama",
@@ -2185,9 +2186,9 @@
       "title": "Probiótica Creatina Creapure Monohidratada Pura - 150G",
       "channel": "amazon",
       "group": "Probiótica",
-      "price": 87.29,
+      "price": 86.42,
       "error": false,
-      "timestamp": "2026-05-04T22:04:16.500537+00:00"
+      "timestamp": "2026-05-05T06:49:40.077373+00:00"
     },
     "MLB27477419#polycard_client=search-deskt_mer": {
       "id": "MLB27477419#polycard_client=search-deskt_mer",
@@ -2198,7 +2199,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:04:21.518385+00:00"
+      "timestamp": "2026-05-05T06:49:43.232024+00:00"
     },
     "p?idsku=186_sit": {
       "id": "p?idsku=186_sit",
@@ -2209,7 +2210,7 @@
       "group": "Probiótica",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:04:30.126530+00:00"
+      "timestamp": "2026-05-05T06:49:53.575438+00:00"
     },
     "MLB35915399#polycard_client=search-deskt_mer": {
       "id": "MLB35915399#polycard_client=search-deskt_mer",
@@ -2220,7 +2221,7 @@
       "group": "Max Titanium",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:04:41.382738+00:00"
+      "timestamp": "2026-05-05T06:50:04.284418+00:00"
     },
     "ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.i0v_5o5_ama": {
       "id": "ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.i0v_5o5_ama",
@@ -2229,9 +2230,9 @@
       "title": "Creatina Creatine Action Gummy sabor Maçã Verde - Essential Nutrition",
       "channel": "amazon",
       "group": "Outros",
-      "price": 117.45,
+      "price": 130.5,
       "error": false,
-      "timestamp": "2026-05-04T22:04:43.876178+00:00"
+      "timestamp": "2026-05-05T06:50:11.156125+00:00"
     },
     "ref=sr_1_6?dib=eyJ2IjoiMSJ9.i0v_5o5j9VsB_ama": {
       "id": "ref=sr_1_6?dib=eyJ2IjoiMSJ9.i0v_5o5j9VsB_ama",
@@ -2242,7 +2243,7 @@
       "group": "Outros",
       "price": 130.5,
       "error": false,
-      "timestamp": "2026-05-04T22:04:48.988371+00:00"
+      "timestamp": "2026-05-05T06:50:15.425222+00:00"
     },
     "MLBU3083679264#polycard_client=search-de_mer": {
       "id": "MLBU3083679264#polycard_client=search-de_mer",
@@ -2253,7 +2254,7 @@
       "group": "Outros",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:04:53.316473+00:00"
+      "timestamp": "2026-05-05T06:50:18.599312+00:00"
     },
     "B08LPQRKH8?m=A23WJRD1FPQMJ2&ref=psp_pc_a_ama": {
       "id": "B08LPQRKH8?m=A23WJRD1FPQMJ2&ref=psp_pc_a_ama",
@@ -2264,7 +2265,7 @@
       "group": "FTW",
       "price": 29.99,
       "error": false,
-      "timestamp": "2026-05-04T22:05:08.135844+00:00"
+      "timestamp": "2026-05-05T06:50:33.142683+00:00"
     },
     "creatina-250g-creapure-growth-supplement_sit": {
       "id": "creatina-250g-creapure-growth-supplement_sit",
@@ -2275,7 +2276,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:05:11.348132+00:00"
+      "timestamp": "2026-05-05T06:50:36.910610+00:00"
     },
     "creatina-100g-creapure-growth-supplement_sit": {
       "id": "creatina-100g-creapure-growth-supplement_sit",
@@ -2286,7 +2287,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:05:16.307905+00:00"
+      "timestamp": "2026-05-05T06:50:40.785792+00:00"
     },
     "creatina-creapure-120comp-growth-supplem_sit": {
       "id": "creatina-creapure-120comp-growth-supplem_sit",
@@ -2297,7 +2298,7 @@
       "group": "Growth",
       "price": null,
       "error": true,
-      "timestamp": "2026-05-04T22:05:20.596105+00:00"
+      "timestamp": "2026-05-05T06:50:44.231307+00:00"
     }
   },
   "history": {
@@ -2305,6 +2306,10 @@
       {
         "price": 66.4,
         "timestamp": "2026-05-04T21:45:17.301138+00:00"
+      },
+      {
+        "price": 66.4,
+        "timestamp": "2026-05-05T06:29:22.562784+00:00"
       }
     ],
     "B07LCTTF8V_ama": [],
@@ -2334,6 +2339,10 @@
       {
         "price": 47.72,
         "timestamp": "2026-05-04T21:59:27.003987+00:00"
+      },
+      {
+        "price": 52.55,
+        "timestamp": "2026-05-05T06:44:30.544200+00:00"
       }
     ],
     "135-8141036-6002728?pd_rd_w=1oHmf&conten_ama": [
@@ -2400,6 +2409,10 @@
       {
         "price": 69.9,
         "timestamp": "2026-05-04T21:46:37.236355+00:00"
+      },
+      {
+        "price": 69.9,
+        "timestamp": "2026-05-05T06:31:10.957830+00:00"
       }
     ],
     "creatina-refil-600g-monohidratada-dark-l_sit": [
@@ -2418,6 +2431,10 @@
       {
         "price": 59.9,
         "timestamp": "2026-05-04T21:46:39.688429+00:00"
+      },
+      {
+        "price": 59.9,
+        "timestamp": "2026-05-05T06:31:14.327356+00:00"
       }
     ],
     "creatina-150g-monohidratada-100-pura-dar_sit": [],
@@ -2433,6 +2450,10 @@
       {
         "price": 29.8,
         "timestamp": "2026-05-04T22:04:37.675212+00:00"
+      },
+      {
+        "price": 29.8,
+        "timestamp": "2026-05-05T06:50:01.735225+00:00"
       }
     ],
     "MLB45571800?pdp_filters=item_id%3AMLB395_mer": [],
@@ -2476,6 +2497,14 @@
       {
         "price": 89.99,
         "timestamp": "2026-05-04T21:47:39.564236+00:00"
+      },
+      {
+        "price": 129.9,
+        "timestamp": "2026-05-05T06:32:04.923723+00:00"
+      },
+      {
+        "price": 89.99,
+        "timestamp": "2026-05-05T06:32:10.200882+00:00"
       }
     ],
     "creatina-monohidratada-300g-68373_sit": [
@@ -2494,6 +2523,10 @@
       {
         "price": 74.9,
         "timestamp": "2026-05-04T21:47:43.751946+00:00"
+      },
+      {
+        "price": 74.9,
+        "timestamp": "2026-05-05T06:32:15.313723+00:00"
       }
     ],
     "creatina-monohidratada-150g-68090_sit": [
@@ -2512,6 +2545,10 @@
       {
         "price": 49.9,
         "timestamp": "2026-05-04T21:47:47.438657+00:00"
+      },
+      {
+        "price": 49.9,
+        "timestamp": "2026-05-05T06:32:19.811204+00:00"
       }
     ],
     "creatina-monohidratada-500g-pouch-68446_sit": [
@@ -2530,6 +2567,10 @@
       {
         "price": 129.9,
         "timestamp": "2026-05-04T21:47:51.283047+00:00"
+      },
+      {
+        "price": 129.9,
+        "timestamp": "2026-05-05T06:32:23.502254+00:00"
       }
     ],
     "ref=sr_1_1_sspa?__mk_pt_BR=%C3%85M%C3%85_ama": [
@@ -2544,6 +2585,10 @@
       {
         "price": 122.22,
         "timestamp": "2026-05-04T22:00:25.833369+00:00"
+      },
+      {
+        "price": 122.22,
+        "timestamp": "2026-05-05T06:45:26.600251+00:00"
       }
     ],
     "B0D71HD612?ref_=ast_sto_dp_ama": [
@@ -2657,6 +2702,26 @@
       {
         "price": 5199.993,
         "timestamp": "2026-05-04T21:49:12.364322+00:00"
+      },
+      {
+        "price": 5199.993,
+        "timestamp": "2026-05-05T06:33:46.489025+00:00"
+      },
+      {
+        "price": 5199.993,
+        "timestamp": "2026-05-05T06:33:49.851465+00:00"
+      },
+      {
+        "price": 5199.993,
+        "timestamp": "2026-05-05T06:33:54.068093+00:00"
+      },
+      {
+        "price": 5199.993,
+        "timestamp": "2026-05-05T06:33:58.098438+00:00"
+      },
+      {
+        "price": 5199.993,
+        "timestamp": "2026-05-05T06:34:03.003462+00:00"
       }
     ],
     "creatina-monohidratada-250gr-growth-supp_sit": [],
@@ -2789,6 +2854,46 @@
       {
         "price": 59.9,
         "timestamp": "2026-05-04T22:04:35.181934+00:00"
+      },
+      {
+        "price": 69.9,
+        "timestamp": "2026-05-05T06:38:14.236594+00:00"
+      },
+      {
+        "price": 46.0,
+        "timestamp": "2026-05-05T06:38:53.914742+00:00"
+      },
+      {
+        "price": 78.6,
+        "timestamp": "2026-05-05T06:42:11.182306+00:00"
+      },
+      {
+        "price": 100.9,
+        "timestamp": "2026-05-05T06:45:54.844758+00:00"
+      },
+      {
+        "price": 139.9,
+        "timestamp": "2026-05-05T06:47:02.094010+00:00"
+      },
+      {
+        "price": 143.82,
+        "timestamp": "2026-05-05T06:47:18.371681+00:00"
+      },
+      {
+        "price": 138.7,
+        "timestamp": "2026-05-05T06:47:38.266191+00:00"
+      },
+      {
+        "price": 99.9,
+        "timestamp": "2026-05-05T06:48:40.045333+00:00"
+      },
+      {
+        "price": 189.05,
+        "timestamp": "2026-05-05T06:49:05.228425+00:00"
+      },
+      {
+        "price": 59.9,
+        "timestamp": "2026-05-05T06:49:57.410890+00:00"
       }
     ],
     "MLB6204289#polycard_client=search-deskto_mer": [],
@@ -3109,9 +3214,98 @@
       {
         "price": 96.0,
         "timestamp": "2026-05-04T22:02:52.161616+00:00"
+      },
+      {
+        "price": 166.0,
+        "timestamp": "2026-05-05T06:35:05.687699+00:00"
+      },
+      {
+        "price": 64.0,
+        "timestamp": "2026-05-05T06:35:09.027779+00:00"
+      },
+      {
+        "price": 35.0,
+        "timestamp": "2026-05-05T06:35:12.654147+00:00"
+      },
+      {
+        "price": 26.0,
+        "timestamp": "2026-05-05T06:35:15.568917+00:00"
+      },
+      {
+        "price": 47.0,
+        "timestamp": "2026-05-05T06:35:19.700161+00:00"
+      },
+      {
+        "price": 64.9,
+        "timestamp": "2026-05-05T06:35:52.422090+00:00"
+      },
+      {
+        "price": 123.9,
+        "timestamp": "2026-05-05T06:35:56.804046+00:00"
+      },
+      {
+        "price": 149.9,
+        "timestamp": "2026-05-05T06:36:46.252796+00:00"
+      },
+      {
+        "price": 84.9,
+        "timestamp": "2026-05-05T06:36:52.582957+00:00"
+      },
+      {
+        "price": 67.9,
+        "timestamp": "2026-05-05T06:36:58.881030+00:00"
+      },
+      {
+        "price": 56.9,
+        "timestamp": "2026-05-05T06:37:02.235032+00:00"
+      },
+      {
+        "price": 158.4,
+        "timestamp": "2026-05-05T06:37:59.435069+00:00"
+      },
+      {
+        "price": 38.4,
+        "timestamp": "2026-05-05T06:38:04.648194+00:00"
+      },
+      {
+        "price": 87.2,
+        "timestamp": "2026-05-05T06:38:09.950742+00:00"
+      },
+      {
+        "price": 63.0,
+        "timestamp": "2026-05-05T06:38:48.707459+00:00"
+      },
+      {
+        "price": 239.9,
+        "timestamp": "2026-05-05T06:45:46.581272+00:00"
+      },
+      {
+        "price": 118.9,
+        "timestamp": "2026-05-05T06:45:50.453583+00:00"
+      },
+      {
+        "price": 249.9,
+        "timestamp": "2026-05-05T06:47:32.913220+00:00"
+      },
+      {
+        "price": 207.2,
+        "timestamp": "2026-05-05T06:48:06.377216+00:00"
+      },
+      {
+        "price": 96.0,
+        "timestamp": "2026-05-05T06:48:10.988778+00:00"
       }
     ],
-    "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [],
+    "ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [
+      {
+        "price": 54.9,
+        "timestamp": "2026-05-05T06:35:30.459571+00:00"
+      },
+      {
+        "price": 39.9,
+        "timestamp": "2026-05-05T06:36:08.965998+00:00"
+      }
+    ],
     "MLB19698479?pdp_filters=seller_id%3A1214_mer": [],
     "MLB20574970#polycard_client=search-deskt_mer": [],
     "MLB63805922#polycard_client=search-deskt_mer": [],
@@ -3149,6 +3343,18 @@
       {
         "price": 243.97,
         "timestamp": "2026-05-04T22:02:29.171297+00:00"
+      },
+      {
+        "price": 134.57,
+        "timestamp": "2026-05-05T06:38:16.844838+00:00"
+      },
+      {
+        "price": 159.9,
+        "timestamp": "2026-05-05T06:46:29.360967+00:00"
+      },
+      {
+        "price": 89.71,
+        "timestamp": "2026-05-05T06:47:42.899812+00:00"
       }
     ],
     "ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [
@@ -3183,6 +3389,22 @@
       {
         "price": 130.5,
         "timestamp": "2026-05-04T21:57:30.510503+00:00"
+      },
+      {
+        "price": 59.8,
+        "timestamp": "2026-05-05T06:36:04.747225+00:00"
+      },
+      {
+        "price": 34.33,
+        "timestamp": "2026-05-05T06:38:22.971046+00:00"
+      },
+      {
+        "price": 47.0,
+        "timestamp": "2026-05-05T06:42:16.770780+00:00"
+      },
+      {
+        "price": 130.5,
+        "timestamp": "2026-05-05T06:42:39.958519+00:00"
       }
     ],
     "MLB45784141#polycard_client=search-deskt_mer": [],
@@ -3302,6 +3524,46 @@
       {
         "price": 55.9,
         "timestamp": "2026-05-04T21:59:37.126827+00:00"
+      },
+      {
+        "price": 56.51,
+        "timestamp": "2026-05-05T06:37:08.141945+00:00"
+      },
+      {
+        "price": 44.83,
+        "timestamp": "2026-05-05T06:37:13.962969+00:00"
+      },
+      {
+        "price": 29.99,
+        "timestamp": "2026-05-05T06:39:47.424988+00:00"
+      },
+      {
+        "price": 27.95,
+        "timestamp": "2026-05-05T06:39:52.055705+00:00"
+      },
+      {
+        "price": 34.99,
+        "timestamp": "2026-05-05T06:39:58.481395+00:00"
+      },
+      {
+        "price": 39.9,
+        "timestamp": "2026-05-05T06:43:53.836087+00:00"
+      },
+      {
+        "price": 37.0,
+        "timestamp": "2026-05-05T06:43:59.039410+00:00"
+      },
+      {
+        "price": 9.94,
+        "timestamp": "2026-05-05T06:44:01.880191+00:00"
+      },
+      {
+        "price": 24.9,
+        "timestamp": "2026-05-05T06:44:33.473664+00:00"
+      },
+      {
+        "price": 53.1,
+        "timestamp": "2026-05-05T06:44:38.859076+00:00"
       }
     ],
     "ref=ast_sto_dp_puis?ufe=app_do%3Aamzn1.f_ama": [
@@ -3328,6 +3590,14 @@
       {
         "price": 44.46,
         "timestamp": "2026-05-04T21:59:41.749568+00:00"
+      },
+      {
+        "price": 107.1,
+        "timestamp": "2026-05-05T06:37:20.353326+00:00"
+      },
+      {
+        "price": 44.46,
+        "timestamp": "2026-05-05T06:44:41.619877+00:00"
       }
     ],
     "MLB35819939?offer_type=NEXTDAY_DELIVERY_mer": [],
@@ -3350,6 +3620,10 @@
       {
         "price": 101.0,
         "timestamp": "2026-05-04T21:52:40.617722+00:00"
+      },
+      {
+        "price": 101.0,
+        "timestamp": "2026-05-05T06:37:46.845804+00:00"
       }
     ],
     "p?skuId=1001992_sit": [
@@ -3368,6 +3642,10 @@
       {
         "price": 161.0,
         "timestamp": "2026-05-04T21:52:45.533005+00:00"
+      },
+      {
+        "price": 161.0,
+        "timestamp": "2026-05-05T06:37:51.028790+00:00"
       }
     ],
     "p?skuId=1001821_sit": [],
@@ -3396,6 +3674,10 @@
       {
         "price": 40.46,
         "timestamp": "2026-05-04T21:54:28.392604+00:00"
+      },
+      {
+        "price": 39.0,
+        "timestamp": "2026-05-05T06:39:30.203438+00:00"
       }
     ],
     "B0DQDWHXNC?ref_=cpl_dp&th=1_ama": [
@@ -3410,6 +3692,10 @@
       {
         "price": 34.99,
         "timestamp": "2026-05-04T21:54:31.246844+00:00"
+      },
+      {
+        "price": 34.99,
+        "timestamp": "2026-05-05T06:39:36.442659+00:00"
       }
     ],
     "B0FZD7Q3MT?ref_=cpl_dp&th=1_ama": [
@@ -3424,6 +3710,10 @@
       {
         "price": 29.99,
         "timestamp": "2026-05-04T21:54:36.659906+00:00"
+      },
+      {
+        "price": 29.99,
+        "timestamp": "2026-05-05T06:39:39.813755+00:00"
       }
     ],
     "B0DH68X2PX?ref_=cpl_dp&th=1_ama": [
@@ -3442,6 +3732,10 @@
       {
         "price": 69.99,
         "timestamp": "2026-05-04T21:54:39.561596+00:00"
+      },
+      {
+        "price": 69.99,
+        "timestamp": "2026-05-05T06:39:43.358134+00:00"
       }
     ],
     "ref=sr_1_4?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": [
@@ -3456,6 +3750,10 @@
       {
         "price": 46.45,
         "timestamp": "2026-05-04T21:54:57.139022+00:00"
+      },
+      {
+        "price": 49.49,
+        "timestamp": "2026-05-05T06:40:06.563295+00:00"
       }
     ],
     "ref=sr_1_8?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": [
@@ -3470,6 +3768,10 @@
       {
         "price": 22.9,
         "timestamp": "2026-05-04T21:55:00.796842+00:00"
+      },
+      {
+        "price": 22.9,
+        "timestamp": "2026-05-05T06:40:12.390376+00:00"
       }
     ],
     "ref=sr_1_7?crid=8KETOVIHS2Y8&dib=eyJ2Ijo_ama": [
@@ -3484,6 +3786,10 @@
       {
         "price": 73.05,
         "timestamp": "2026-05-04T21:55:05.567200+00:00"
+      },
+      {
+        "price": 61.27,
+        "timestamp": "2026-05-05T06:40:18.699114+00:00"
       }
     ],
     "MLB37121958?pdp_filters=item_id:MLB39942_mer": [],
@@ -3511,6 +3817,10 @@
       {
         "price": 47.9,
         "timestamp": "2026-05-04T21:56:22.268326+00:00"
+      },
+      {
+        "price": 48.99,
+        "timestamp": "2026-05-05T06:41:30.221886+00:00"
       }
     ],
     "MLB27464150#polycard_client=search-deskt_mer": [],
@@ -3534,6 +3844,10 @@
       {
         "price": 145.0,
         "timestamp": "2026-05-04T21:56:45.473553+00:00"
+      },
+      {
+        "price": 145.0,
+        "timestamp": "2026-05-05T06:41:53.914461+00:00"
       }
     ],
     "?seller_id=renovasaudenutricao_mag": [],
@@ -3552,6 +3866,10 @@
       {
         "price": 99.75,
         "timestamp": "2026-05-04T21:57:10.906073+00:00"
+      },
+      {
+        "price": 154.9,
+        "timestamp": "2026-05-05T06:42:21.355904+00:00"
       }
     ],
     "B0FRHD2G3R?ref_=ast_sto_dp&th=1_ama": [
@@ -3566,6 +3884,10 @@
       {
         "price": 100.0,
         "timestamp": "2026-05-04T21:57:14.911790+00:00"
+      },
+      {
+        "price": 100.0,
+        "timestamp": "2026-05-05T06:42:24.251276+00:00"
       }
     ],
     "B0DW1K6HP2?ref_=ast_sto_dp&th=1_ama": [
@@ -3580,6 +3902,10 @@
       {
         "price": 132.99,
         "timestamp": "2026-05-04T21:57:21.084417+00:00"
+      },
+      {
+        "price": 132.99,
+        "timestamp": "2026-05-05T06:42:27.284597+00:00"
       }
     ],
     "B0CXCD2X2C?ref_=ast_sto_dp&th=1_ama": [
@@ -3594,6 +3920,10 @@
       {
         "price": 108.0,
         "timestamp": "2026-05-04T21:57:26.503785+00:00"
+      },
+      {
+        "price": 144.9,
+        "timestamp": "2026-05-05T06:42:33.351954+00:00"
       }
     ],
     "MLB43949410#polycard_client=search-deskt_mer": [],
@@ -3619,6 +3949,10 @@
       {
         "price": 145.0,
         "timestamp": "2026-05-04T21:58:17.850134+00:00"
+      },
+      {
+        "price": 145.0,
+        "timestamp": "2026-05-05T06:43:26.879925+00:00"
       }
     ],
     "creatina-em-goma-sabor-laranja_sit": [
@@ -3637,6 +3971,10 @@
       {
         "price": 145.0,
         "timestamp": "2026-05-04T21:58:22.907609+00:00"
+      },
+      {
+        "price": 145.0,
+        "timestamp": "2026-05-05T06:43:31.854878+00:00"
       }
     ],
     "creatina-frutas-vermelhas_sit": [
@@ -3655,6 +3993,10 @@
       {
         "price": 179.9,
         "timestamp": "2026-05-04T21:58:26.743657+00:00"
+      },
+      {
+        "price": 179.9,
+        "timestamp": "2026-05-05T06:43:35.575758+00:00"
       }
     ],
     "creatina-limao_sit": [
@@ -3673,6 +4015,10 @@
       {
         "price": 179.9,
         "timestamp": "2026-05-04T21:58:31.061388+00:00"
+      },
+      {
+        "price": 179.9,
+        "timestamp": "2026-05-05T06:43:38.674833+00:00"
       }
     ],
     "creatina-oakberry-sabor-acai_sit": [
@@ -3691,6 +4037,10 @@
       {
         "price": 179.9,
         "timestamp": "2026-05-04T21:58:34.629204+00:00"
+      },
+      {
+        "price": 179.9,
+        "timestamp": "2026-05-05T06:43:43.559030+00:00"
       }
     ],
     "creatina_sit": [
@@ -3709,6 +4059,10 @@
       {
         "price": 179.9,
         "timestamp": "2026-05-04T21:58:37.268624+00:00"
+      },
+      {
+        "price": 179.9,
+        "timestamp": "2026-05-05T06:43:47.348318+00:00"
       }
     ],
     "MLB18513937#polycard_client=search-deskt_mer": [],
@@ -3731,6 +4085,10 @@
       {
         "price": 39.9,
         "timestamp": "2026-05-04T21:59:22.882008+00:00"
+      },
+      {
+        "price": 39.9,
+        "timestamp": "2026-05-05T06:44:25.905875+00:00"
       }
     ],
     "MLB18947493?pdp_filters=official_store%3_mer": [],
@@ -3771,6 +4129,14 @@
       {
         "price": 127.0,
         "timestamp": "2026-05-04T22:02:54.952082+00:00"
+      },
+      {
+        "price": 114.44,
+        "timestamp": "2026-05-05T06:45:29.309083+00:00"
+      },
+      {
+        "price": 132.89,
+        "timestamp": "2026-05-05T06:48:15.415058+00:00"
       }
     ],
     "MLB20205480#polycard_client=search-deskt_mer": [],
@@ -3789,6 +4155,10 @@
       {
         "price": 149.9,
         "timestamp": "2026-05-04T22:01:08.809184+00:00"
+      },
+      {
+        "price": 138.46,
+        "timestamp": "2026-05-05T06:46:07.443119+00:00"
       }
     ],
     "MLB19538721#polycard_client=search-deskt_mer": [],
@@ -3809,6 +4179,10 @@
       {
         "price": 257.0,
         "timestamp": "2026-05-04T22:01:20.891142+00:00"
+      },
+      {
+        "price": 257.0,
+        "timestamp": "2026-05-05T06:46:17.905650+00:00"
       }
     ],
     "ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%B_ama": [
@@ -3823,6 +4197,10 @@
       {
         "price": 94.9,
         "timestamp": "2026-05-04T22:01:25.719999+00:00"
+      },
+      {
+        "price": 96.2,
+        "timestamp": "2026-05-05T06:46:24.308073+00:00"
       }
     ],
     "ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%_ama": [
@@ -3837,6 +4215,10 @@
       {
         "price": 99.99,
         "timestamp": "2026-05-04T22:01:32.888241+00:00"
+      },
+      {
+        "price": 99.99,
+        "timestamp": "2026-05-05T06:46:33.854777+00:00"
       }
     ],
     "MLB55102550?pdp_filters=item_id:MLB30634_mer": [],
@@ -3868,6 +4250,14 @@
       {
         "price": 103.0,
         "timestamp": "2026-05-04T22:03:48.851336+00:00"
+      },
+      {
+        "price": 74.9,
+        "timestamp": "2026-05-05T06:47:09.068291+00:00"
+      },
+      {
+        "price": 89.99,
+        "timestamp": "2026-05-05T06:49:09.152661+00:00"
       }
     ],
     "MLB39012258?pdp_filters=item_id:MLB38052_mer": [],
@@ -3893,6 +4283,10 @@
       {
         "price": 288.0,
         "timestamp": "2026-05-04T22:03:28.776039+00:00"
+      },
+      {
+        "price": 288.0,
+        "timestamp": "2026-05-05T06:48:47.144646+00:00"
       }
     ],
     "MLB36680560#polycard_client=search-deskt_mer": [],
@@ -3912,6 +4306,10 @@
       {
         "price": 320.0,
         "timestamp": "2026-05-04T22:03:37.781791+00:00"
+      },
+      {
+        "price": 320.0,
+        "timestamp": "2026-05-05T06:48:58.057576+00:00"
       }
     ],
     "MLB19549586#polycard_client=search-deskt_mer": [],
@@ -3932,6 +4330,10 @@
       {
         "price": 87.29,
         "timestamp": "2026-05-04T22:04:16.500537+00:00"
+      },
+      {
+        "price": 86.42,
+        "timestamp": "2026-05-05T06:49:40.077373+00:00"
       }
     ],
     "MLB27477419#polycard_client=search-deskt_mer": [],
@@ -3949,6 +4351,10 @@
       {
         "price": 117.45,
         "timestamp": "2026-05-04T22:04:43.876178+00:00"
+      },
+      {
+        "price": 130.5,
+        "timestamp": "2026-05-05T06:50:11.156125+00:00"
       }
     ],
     "ref=sr_1_6?dib=eyJ2IjoiMSJ9.i0v_5o5j9VsB_ama": [
@@ -3963,6 +4369,10 @@
       {
         "price": 130.5,
         "timestamp": "2026-05-04T22:04:48.988371+00:00"
+      },
+      {
+        "price": 130.5,
+        "timestamp": "2026-05-05T06:50:15.425222+00:00"
       }
     ],
     "MLBU3083679264#polycard_client=search-de_mer": [],
@@ -3978,13 +4388,17 @@
       {
         "price": 29.99,
         "timestamp": "2026-05-04T22:05:08.135844+00:00"
+      },
+      {
+        "price": 29.99,
+        "timestamp": "2026-05-05T06:50:33.142683+00:00"
       }
     ],
     "creatina-250g-creapure-growth-supplement_sit": [],
     "creatina-100g-creapure-growth-supplement_sit": [],
     "creatina-creapure-120comp-growth-supplem_sit": []
   },
-  "last_updated": "2026-05-04T22:05:24.531253+00:00",
+  "last_updated": "2026-05-05T06:50:46.348640+00:00",
   "total_products": 303,
-  "valid_readings": 54
+  "valid_readings": 52
 }
